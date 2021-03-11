@@ -5,7 +5,6 @@ desc: ''
 updated: 1615487534144
 created: 1615482623887
 ---
-
 This is [Max Krieger](https://a9.io)'s "inquiry" page. I guess it's like a [Digital Garden](https://github.com/MaggieAppleton/digital-gardeners). But I'm not trying to upload my Second Brain to it. Just want to share some half-baked ideas. One source of inspiration for this was Kevin Lynagh's ["Collaboration ideas"](https://kevinlynagh.com/ideas/).
 
 It was made with [Dendron](https://dendron.so).
@@ -32,9 +31,10 @@ Feel free to add [a PR or issue to the repo](https://github.com/maxkrieger/inqui
 ## Other stuff
 
 - [[linux-desktop]]
-- [[better-reading]]
+- [[reading]]
 - [[why-proof-assistants-bad]]
 - [[video-associations]]
 - [[mixloupe]]
 - [[minecraft-rest]]
 - [[artifacts-artificial]]
+
