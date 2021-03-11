@@ -1,7 +1,7 @@
 ---
 id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
-desc: ''
+desc: ""
 updated: 1615483240836
 created: 1615482779856
 ---
@@ -13,7 +13,7 @@ I loved Papert's Mindstorms. Part of why it resonated is simply because I like u
 
 It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in [The Dynamic Notebook](https://roadtoreality.substack.com/p/the-dynamic-notebook) and his ongoing effort to port [SICM](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics) there.
 
-![](attachments/2021-03-01-22-04-07.png)
+![](assets/images/2021-03-01-22-04-07.png)
 
 [ProbMods](https://probmods.org/chapters/social-cognition.html)
 
@@ -62,7 +62,7 @@ Note: I'm neglecting tons of python stuff. Probably because I think type systems
 
 - [MathCell](https://mathcell.org/) for embedding math in webpages.
 
-  ![](attachments/2021-01-29-01-38-57.png)
+  ![](assets/images/2021-01-29-01-38-57.png)
   (Literate Coq)
 
 - [Literate Coq](https://plv.csail.mit.edu/blog/alectryon.html) - Relatedly - [[why-proof-assistants-bad]]

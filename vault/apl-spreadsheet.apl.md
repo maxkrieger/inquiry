@@ -1,7 +1,7 @@
 ---
 id: d1e990fb-a3a1-4bd9-aa5d-ca30a97070cd
 title: APL Is Really Cool
-desc: ''
+desc: ""
 updated: 1615488131244
 created: 1615488121325
 ---
@@ -10,7 +10,7 @@ It's a REPL interface, and a really old one. But it's all about performing abstr
 
 The weird runic incantations like [`r←,⍳⊢ ⋄ (r G) ≡ r ∘.{⍺[⍵]}⍨ ↓r G`](https://www.jsoftware.com/papers/50/50_12.htm) are super charming as well. Sure it's intimidating to look at, but the semantics could perhaps be turned into direct manipulation semantics ([[interaction-semantics]])?
 
-![https://stranded.io/2019/12/29/building-j-from-source/](attachments/2021-01-29-01-16-39.png)
+![https://stranded.io/2019/12/29/building-j-from-source/](assets/images/2021-01-29-01-16-39.png)
 
 from [Building J from source](https://stranded.io/2019/12/29/building-j-from-source/)
 
