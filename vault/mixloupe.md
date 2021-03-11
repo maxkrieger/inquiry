@@ -1,12 +1,10 @@
 ---
 id: b37f9fc3-2488-449d-babc-f152911c4520
-title: Mixloupe
+title: How do you make mixtapes in the current year?
 desc: ''
 updated: 1615482779856
 created: 1615482779856
 ---
-# How do you make mixtapes in the current year?
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">how do u even make mixtapes without a tape... damn</p>&mdash; Max Krieger (@maxkriegers) <a href="https://twitter.com/maxkriegers/status/1303818284962377728?ref_src=twsrc%5Etfw">September 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Is there software to do this? You could record a DJ session with DJ software sure.

@@ -1,12 +1,10 @@
 ---
 id: 966577c7-fe2d-4c81-865e-800113f29cad
-title: Artifacts Artificial
+title: Artifacts of the Artificial
 desc: ''
 updated: 1615482779163
 created: 1615482779163
 ---
-# Artifacts of the Artificial
-
 ![](attachments/2021-01-29-02-00-19.png)
 
 Artifacts of the Artificial was an installation show I made with [Cameron Burgess](https://cameron-burgess.com/) in Fall of 2019. It was inside CMU's on-campus [Frame gallery](https://www.facebook.com/theframegallerycmu/).

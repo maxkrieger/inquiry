@@ -1,12 +1,10 @@
 ---
 id: 73729106-f56a-4ef7-8515-84ba50f927a6
-title: Video Associations
+title: Video Hypnagogia/Phantasmagoria
 desc: ''
 updated: 1615482779857
 created: 1615482779857
 ---
-# Video Hypnagogia/Phantasmagoria
-
 Inspired by my time at [Reduct](https://reduct.video) and [Rob Ochshorn's work](https://rmozone.com/).
 
 From Glue discord:

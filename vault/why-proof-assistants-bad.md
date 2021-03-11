@@ -1,12 +1,10 @@
 ---
 id: ce22b861-d6b6-45e2-8b26-f8f16b5822f2
-title: Why Proof Assistants Bad
+title: Why are proof assistants so unfriendly?
 desc: ''
 updated: 1615482779858
 created: 1615482779858
 ---
-# Why are proof assistants so unfriendly?
-
 Inspired by Katherine Ye's [Proof assistants as a tool for thought](https://www.cs.cmu.edu/~kqy/resources/coq_tools_for_thought.pdf).
 
 Some logic can be a game: see [The Incredible Proof Machine](https://incredible.pm/):

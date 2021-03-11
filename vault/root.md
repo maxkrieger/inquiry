@@ -1,7 +1,7 @@
 ---
 id: 940ad93a-2b54-497e-ab18-335879950834
 title: Max's Inquiry
-desc: ""
+desc: ''
 updated: 1615487534144
 created: 1615482623887
 ---

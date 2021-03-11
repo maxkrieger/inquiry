@@ -1,13 +1,11 @@
 ---
 id: c6b772e0-4ca8-4810-b237-1c4b414137d3
-title: Ar Paper
+title: AR Paper
 desc: ''
-updated: 1615482779163
+updated: 1615488631615
 created: 1615482779163
 ---
-# AR Paper
-
-No, not dynamicland. But a lightweight handheld version of [Sitterwerk Library](https://www.sitterwerk.ch/)
+No, not Dynamicland. But a lightweight handheld version of [Sitterwerk Library](https://www.sitterwerk.ch/)
 
 > The Sitterwerk library in St.Gallen follows a serendipity principle. Every book has an RFID chip, so you can place books everywhere on the shelves - the electronic catalogue will update the location of the book accordingly. The visitors are encouraged to build their own collection, placing books that they used for their research together, thus enabling the next reader to find something relevant by chance, something they didn’t know they were looking for.
 >

@@ -1,12 +1,10 @@
 ---
 id: 20cb6e62-f8c2-4f2a-b2e2-f32d27540111
-title: Attachments
+title: Imported Assets
 desc: ''
 updated: 1615482779164
 created: 1615482779164
 ---
-# Imported Assets
-
 - [2021-01-29-01-16-39.png](assets/2021-01-29-01-16-39-56fca4dc-d35d-4cb2-bcb5-33d5a97a9265.png)
 - [2021-01-29-01-21-47.png](assets/2021-01-29-01-21-47-fee08eaa-05af-43a3-ab6f-501496d095af.png)
 - [2021-01-29-01-33-20.png](assets/2021-01-29-01-33-20-16ac0493-48a7-4590-842e-ca8a26623ec7.png)

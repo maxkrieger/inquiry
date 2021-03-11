@@ -1,12 +1,10 @@
 ---
 id: f6c2e8d9-c1cb-4f38-bae8-cf7a0766d98e
-title: Exploding Pdfs
+title: Exploding PDFs
 desc: ''
 updated: 1615482779854
 created: 1615482779854
 ---
-# Exploding PDFs
-
 LaTeX PDFs are made of blocks. The source code is often available for arXiv preprints.
 
 Can this make consumption more fun? Spread out? Exploded onto a space?

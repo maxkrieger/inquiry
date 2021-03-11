@@ -1,12 +1,10 @@
 ---
 id: a18ae428-41e5-4773-8cbb-666009704479
-title: Text Design
+title: Text is a design tool
 desc: ''
 updated: 1615482779857
 created: 1615482779857
 ---
-# Text is a design tool
-
 - On the computer, text is more ergonomic to write than pictures.
 
 - Layouts, pages, and layering are hard

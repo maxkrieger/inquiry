@@ -1,12 +1,10 @@
 ---
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
-title: Apl Spreadsheet
+title: Linear Algebra as Spreadsheet
 desc: ''
-updated: 1615482779163
+updated: 1615488185772
 created: 1615482779163
 ---
-# Linear Algebra as Spreadsheet
-
 _Thanks to Garth Goldwater for a lot of the ideas here_
 
 [The metaphor isn't mine](https://betterexplained.com/articles/linear-algebra-guide/). But it's a good one!
@@ -29,36 +27,9 @@ Sure I guess?
 
 - [Performing Operations with Matrices on Spreadsheets](https://www.jstor.org/stable/27970545?seq=1)
 
-## APL is really cool
+## [[APL Is Really Cool|apl-spreadsheet.apl]]
 
-It's a REPL interface, and a really old one. But it's all about performing abstract operations on concrete data. Reminds me of [PANE](http://joshuahhh.com/projects/pane/)'s philosophy: "programming with visible data".
-
-The weird runic incantations like [`r←,⍳⊢ ⋄ (r G) ≡ r ∘.{⍺[⍵]}⍨ ↓r G`](https://www.jsoftware.com/papers/50/50_12.htm) are super charming as well. Sure it's intimidating to look at, but the semantics could perhaps be turned into direct manipulation semantics ([[interaction-semantics]])?
-
-![https://stranded.io/2019/12/29/building-j-from-source/](attachments/2021-01-29-01-16-39.png)
-
-from [Building J from source](https://stranded.io/2019/12/29/building-j-from-source/)
-
-[Here's a bunch of college-level math textbooks where the examples are in APL](https://www.jsoftware.com/books/pdf/). All by Iverson(?).
-
-[Teaching Mathematics Using APL](https://www.tandfonline.com/doi/abs/10.1080/07468342.1986.11972980)
-
-(related: [[microworld-languages]])
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">roads not taken or uneven distribution? <a href="https://t.co/SQmgowxTKL">pic.twitter.com/SQmgowxTKL</a></p>&mdash; andrew blinn (@disconcision) <a href="https://twitter.com/disconcision/status/1357395804332429318?ref_src=twsrc%5Etfw">February 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-- <https://mobile.twitter.com/code_report/status/1367968275125112835>
-- <https://mobile.twitter.com/code_report/status/1368030764718252032>
-
-### Random implementations of related things
-
-- [BQN: finally, an APL for your flying saucer](https://mlochbaum.github.io/BQN/)
-- [Co-dfns](https://github.com/Co-dfns/Co-dfns)
-- [A History of APL in 50 Functions](https://www.jsoftware.com/papers/50/)
-- [CoSy](http://cosy.com/CoSy/)
-- [april](https://github.com/phantomics/april) - lisp APL
-
-### Aesthetics
+## Aesthetics
 
 - ["Spectral decomposition? Oh you mean like when a ghost dies?"](https://twitter.com/likethebuilder/status/1326583332306554880?s=19)
 
@@ -66,7 +37,7 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 
 "What's my name jack?" in Toki Pona. Some sort of MS Paint adventures thing. No idea what it means. I think I got it from a toki pona subreddit.
 
-### other
+## other
 
 - What if there was a set of flashcards to learn all the APL symbols? Like [Elixir Cards](https://elixircards.co.uk/)/[PixelSpirit](https://patriciogonzalezvivo.github.io/PixelSpiritDeck/).
 

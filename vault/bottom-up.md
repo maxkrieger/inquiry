@@ -1,12 +1,10 @@
 ---
 id: 5fa3c0c6-101f-43ee-b4f2-0f9c9d3922a3
-title: Bottom up
+title: Bottom Up Design
 desc: ''
 updated: 1615482779853
 created: 1615482779853
 ---
-# Bottom Up Design
-
 SFI-adjacent people love talking about emergence.
 
 What about bottom-up design in UX? Does anyone even do that?

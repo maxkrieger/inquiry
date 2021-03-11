@@ -1,12 +1,10 @@
 ---
 id: bff6ee82-45d7-4702-bb59-542b05920ae9
-title: Interaction Semantics
+title: How do you create an interaction semantics?
 desc: ''
 updated: 1615482779855
 created: 1615482779855
 ---
-# How do you create an interaction semantics?
-
 Programming semantics are well-studied. What about direct manipulation semantics? Can they be [in bijection](https://twitter.com/sliminality/status/1227791682038452225)?
 
 ![](attachments/2021-02-13-23-23-06.png)

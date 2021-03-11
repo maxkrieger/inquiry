@@ -1,12 +1,10 @@
 ---
 id: 0aef5fe2-318f-4960-9a4b-51c7a5f39624
-title: Evocative Writing
+title: Writing as evocation
 desc: ''
 updated: 1615482779854
 created: 1615482779854
 ---
-# Writing as evocation
-
 > Sometimes when people say things to me, I picture their sentences diagrammed on a blackboard, with soft gossamer trails of hidden meaning streaming out beneath, like a bubble wand dipped into solution and dragged across its underbelly.
 
 > Once I started thinking of content this way, it felt as though all the points were scattered around me into lines, the sun striking a glass vase at just the right time of day, sending rainbows dancing about the room. We tend to value code, words, and media based on what we can see: the stable item, the cabochon jewel gleaming opaquely in the palm of one's hand. But rotate it, cut it into facets, and hold it up to the light, and a thousand new worlds reveal themselves.

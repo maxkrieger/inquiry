@@ -1,12 +1,10 @@
 ---
 id: 90f43805-4858-4d25-8f51-6dec373f6b2f
-title: System Archaeology
+title: System Archaeology Seminar
 desc: ''
 updated: 1615482779857
 created: 1615482779857
 ---
-# System Archaeology Seminar
-
 Old authoring systems have a more holistic/comfy feel because they _were_ the system, not the app.
 
 Comparative archaeology. What's easier or harder to do? What's the texture?

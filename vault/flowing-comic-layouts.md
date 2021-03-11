@@ -5,8 +5,6 @@ desc: ''
 updated: 1615482779854
 created: 1615482779854
 ---
-# Flowing Comic Layouts
-
 This began back when I was creating [Chatting with Glue](https://a9.io/glue-comic).
 
 It's _really damn hard_ to make responsive layouts that _flow_ in the browser. Your only options are CSS Grid or an entirely custom layout engine. CSS Grid didn't really work well so I'm going with the latter option.

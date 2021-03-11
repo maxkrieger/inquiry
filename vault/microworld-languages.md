@@ -1,7 +1,7 @@
 ---
 id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
-desc: ""
+desc: ''
 updated: 1615483240836
 created: 1615482779856
 ---
