@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+
+<html lang="en-US"><head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  
+  <title>Domain-Learning with Computational Microworlds - Max's Inquiry</title>
+  
+
+  <link
+    rel="shortcut icon"
+    href="https://a9.io/inquiry/favicon.ico"
+    type="image/x-icon"
+  />
+  <link
+    rel="stylesheet"
+    href="https://a9.io/inquiry/assets/css/just-the-docs-default.css"
+  />
+  <script
+    type="text/javascript"
+    src="https://a9.io/inquiry/assets/js/just-the-docs.js"
+  ></script>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/themes/prism.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+    integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X"
+    crossorigin="anonymous"
+  />
+  <script
+    type="text/javascript"
+    src="https://a9.io/inquiry/assets/js/vendor/lunr.min.js"
+  ></script>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   
+  
+<meta name="description" content="max&apos;s inquiry wiki">
+<meta name="author" content="">
+
+<link rel="canonical" href="https://a9.io/notes/77343d6f-26f6-4e9f-8caf-e592c0548a31.html">
+
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://a9.io/notes/77343d6f-26f6-4e9f-8caf-e592c0548a31.html">
+<meta property="og:description" content="max&apos;s inquiry wiki">
+<meta property="og:image" content="https://a9.ioundefined">
+
+<meta name="twitter:card" content="summary">
+
+<meta name="twitter:url" content="https://a9.io/notes/77343d6f-26f6-4e9f-8caf-e592c0548a31.html">
+<meta name="twitter:description" content="max&apos;s inquiry wiki">
+<meta name="twitter:image" content="https://a9.ioundefined">
+
+
+  <meta property="og:title" content="Domain-Learning with Computational Microworlds - Max's Inquiry" />
+  <meta name="twitter:title" content="Domain-Learning with Computational Microworlds - Max's Inquiry" />
+  
+</head>
+
+
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+      <symbol id="svg-link" viewBox="0 0 24 24">
+        <title>Link</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link">
+          <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+        </svg>
+      </symbol>
+      <symbol id="svg-search" viewBox="0 0 24 24">
+        <title>Search</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search">
+          <circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-menu" viewBox="0 0 24 24">
+        <title>Menu</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+          <line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line>
+        </svg>
+      </symbol>
+      <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+        <title>Expand</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-right">
+          <polyline points="9 18 15 12 9 6"></polyline>
+        </svg>
+      </symbol>
+      <symbol id="svg-doc" viewBox="0 0 24 24">
+        <title>Document</title>
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file">
+          <path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline>
+        </svg>
+      </symbol>
+    </svg>
+
+    <div class="side-bar">
+      <div class="site-header">
+        <a href="https://a9.io/inquiry" class="site-title lh-tight">
+  Max's Inquiry
+
+ </a>
+        <a href="#" id="menu-button" class="site-button">
+          <svg viewBox="0 0 24 24" class="icon"><use xlink:href="#svg-menu"></use></svg>
+        </a>
+      </div>
+
+      <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
+      </nav>
+      <footer class="site-footer">
+        🌱 with 💕 using <a href="https://www.dendron.so/"> Dendron 🌲 </a>
+      </footer>
+    </div>
+    <div class="main" id="top">
+        <div id="main-header" class="main-header">
+          
+            <div class="search">
+              <div class="search-input-wrap">
+                <input type="text" id="search-input" class="search-input" tabindex="0" placeholder="Search Max's Inquiry" aria-label="Search Max's Inquiry" autocomplete="off">
+                <label for="search-input" class="search-label"><svg viewBox="0 0 24 24" class="search-icon"><use xlink:href="#svg-search"></use></svg></label>
+              </div>
+              <div id="search-results" class="search-results"></div>
+            </div>
+          
+          
+    </div>
+    <div id="main-content-wrap" class="main-content-wrap">
+      
+        
+          <nav aria-label="Breadcrumb" class="breadcrumb-nav">
+            <ol class="breadcrumb-nav-list"><li class="breadcrumb-nav-list-item"><a href="https://a9.io/inquiry">Root</a></li><li class="breadcrumb-nav-list-item">Domain-Learning with Computational Microworlds</li></ol>
+          </nav>
+        
+      
+      <div id="main-content" class="main-content" role="main">
+
+        
+        
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+        
+
+        <script>
+          $(function () {
+            $('[data-toggle="popover"]').popover({html: true})
+          })
+        </script>
+
+        
+
+<div id="main" role="main">
+
+  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Domain-Learning with Computational Microworlds">
+    
+    <meta itemprop="datePublished" content="2021-03-11T12:12:59+00:00">
+    <meta itemprop="dateModified" content="2021-03-11T12:20:40+00:00">
+
+    <div class="page__inner-wrap">
+
+      
+
+      <section class="page__content" itemprop="text">
+
+        
+
+        <h1 id="domain-learning-with-computational-microworlds"><a aria-hidden="true" class="anchor-heading" href="#domain-learning-with-computational-microworlds"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Domain-Learning with Computational Microworlds</h1>
+<p><img src="/inquiry/assets/2021-01-29-01-33-20-16ac0493-48a7-4590-842e-ca8a26623ec7.png">
+(<a href="https://pyzx.readthedocs.io/en/latest/graph.html#the-zx-diagram-editor">PyZX</a>)</p>
+<p>I loved Papert's Mindstorms. Part of why it resonated is simply because I like using programming to learn stuff. Not everyone likes that, but I think it's still worth exploring how domain specific languages can guide self-directed learning.</p>
+<p>It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in <a href="https://roadtoreality.substack.com/p/the-dynamic-notebook">The Dynamic Notebook</a> and his ongoing effort to port <a href="https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics">SICM</a> there.</p>
+<p><img src="/inquiry/attachments/2021-03-01-22-04-07.png"></p>
+<p><a href="https://probmods.org/chapters/social-cognition.html">ProbMods</a></p>
+<h2 id="examples"><a aria-hidden="true" class="anchor-heading" href="#examples"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Examples</h2>
+<ul>
+<li><a href="https://juliahub.com/docs/CalculusWithJulia/AZHbv/0.0.5/">Calculus with Julia</a>
+<ul>
+<li><a href="http://mth229.github.io/">Math 229 Projects</a> (College of Staten Island course on calculus with julia)</li>
+</ul>
+</li>
+<li><a href="https://statisticswithjulia.org/">Statistics with Julia</a></li>
+<li><a href="https://mitpress.mit.edu/books/designing-sound">Designing Sound</a> (with Pd)</li>
+<li><a href="https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics">Structure and Interpretation of Classical Mechanics</a> (in Scheme)</li>
+<li><a href="https://mitpress.mit.edu/books/functional-differential-geometry">Functional Differential Geometry</a> (in Scheme)</li>
+<li><a href="https://github.com/Qiskit/qiskit/">Qiskit</a></li>
+<li><a href="https://plfa.github.io/">Programming Language Foundations in Agda</a></li>
+<li><a href="https://co-design.science/animations/">Monotone Co-design Theory</a></li>
+<li><strong>Probabilistic Programming</strong>
+<ul>
+<li><a href="https://arviz-devs.github.io/arviz/">ArviZ: Exploratory analysis of Bayesian models</a></li>
+<li><a href="http://edwardlib.org/">Edward</a></li>
+<li><a href="https://probmods.org/">Probabilistic Models of Cognition</a> (taught with WebPPL, a probabilistic programming language)</li>
+</ul>
+</li>
+<li><a href="https://wwwf.imperial.ac.uk/~buzzard/xena/">Xena Project</a> (check their Lean "Natural Number Game")</li>
+<li><a href="https://pyzx.readthedocs.io/en/latest/">PyZX</a></li>
+<li><a href="https://mitpress.mit.edu/books/turtles-termites-and-traffic-jams">Turtles Termites and Traffic Jams</a></li>
+<li><a href="https://arend-lang.github.io/">Arend Theorem Prover</a> - Cubical Type Theory as an IntelliJ Plugin</li>
+<li><a href="https://www.wolfram.com/wolfram-u/">Wolfram U</a> - learn domains through Mathematica</li>
+<li><a href="https://wiki.sagemath.org/interact">Sagemath Interactions</a> - some explorables with Sagemath</li>
+<li><strong>Haskell+Music Theory</strong>
+<ul>
+<li><a href="https://www.cambridge.org/core/books/haskell-school-of-music/6B377BCD40386E9D27EB93FC2F3B13FB#fndtn-information">Haskell School of Music</a></li>
+<li><a href="https://github.com/DimaSamoz/mezzo">Mezzo: A Haskell library for typesafe music composition</a></li>
+<li><a href="https://wiki.haskell.org/Haskore">Haskore: a set of Haskell modules for creating, analysing and manipulating music</a></li>
+</ul>
+</li>
+<li><a href="https://staff.fnwi.uva.nl/d.j.n.vaneijck2/HR/">Haskell Road to Logic, Maths, and Programming</a></li>
+<li><a href="https://mitpress.mit.edu/books/little-typer">The Little Typer - type theory via bespoke "Pie" language</a></li>
+<li><a href="https://greenteapress.com/complexity/">Think Complexity</a></li>
+<li><a href="https://crypto.stanford.edu/~blynn/haskell/ga.html">All Hail Geometric Algebra!</a> - (in Haskell)</li>
+<li><a href="https://github.com/Jam3/math-as-code">Math as Code</a> - a bit disappointing in scope, but fun sentiment</li>
+<li><a href="https://github.com/fantasyland/fantasy-land">Fantasy Land</a> - Algebraic JavaScript Specification</li>
+<li><a href="https://toontalk.github.io/ToonTalk/docs/activities/infinity/cardinality-activity-1.html">ToonTalk - Infinite cardinality of sets</a></li>
+<li><a href="https://en.wikipedia.org/wiki/MIX">Knuth's MIX for Art of Computer Programming</a></li>
+<li><a href="http://web.engr.oregonstate.edu/~walkiner/projects/hagl.html">Modeling Game Theory in Haskell - HAGL</a></li>
+</ul>
+<p>Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)</p>
+<h3 id="misc"><a aria-hidden="true" class="anchor-heading" href="#misc"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Misc</h3>
+<ul>
+<li>
+<p><a href="https://en.m.wikipedia.org/wiki/Metalinguistic_abstraction">Metalinguistic abstraction</a> &#x26; DSL design</p>
+<ul>
+<li>taxonomy of bespoke languages for instructional texts</li>
+</ul>
+</li>
+<li>
+<p><a href="https://mathcell.org/">MathCell</a> for embedding math in webpages.</p>
+<p><img src="/inquiry/attachments/2021-01-29-01-38-57.png">
+(Literate Coq)</p>
+</li>
+<li>
+<p><a href="https://plv.csail.mit.edu/blog/alectryon.html">Literate Coq</a> - Relatedly - <a href="https://a9.io/inquiry/notes/ce22b861-d6b6-45e2-8b26-f8f16b5822f2.html">why-proof-assistants-bad</a></p>
+</li>
+</ul>
+<hr>
+<h2 id="backlinks"><a aria-hidden="true" class="anchor-heading" href="#backlinks"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Backlinks</h2>
+<ul>
+<li><a href="https://a9.io/inquiry/notes/06ea3d39-0b83-4052-86f2-f1e82499b266.html">Apl Spreadsheet</a></li>
+<li><a href="https://a9.io/inquiry/notes/29766c49-41fd-406f-bd40-ac943769cb5a.html">Readme</a></li>
+</ul><span id="navId" data="77343d6f-26f6-4e9f-8caf-e592c0548a31"></span>
+
+                
+      </section>
+
+      
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+        
+          <hr>
+          <footer>
+            
+            
+
+            
+                
+              </div>
+          </footer>
+        
+    </div>
+</div>
+
+
+  
+
+  <div class="search-overlay"></div>
+
+</div>
+</body>
+</html>
