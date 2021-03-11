@@ -1,0 +1,18 @@
+version: 1
+vaults:
+  - fsPath: vault
+useFMTitle: true
+site:
+  copyAssets: true
+  siteHierarchies:
+    - root
+  siteRootDir: docs
+  usePrettyRefs: true
+  title: Max's Inquiry
+  description: max's inquiry wiki
+  siteUrl: https://a9.io
+  assetsPrefix: inquiry
+  duplicateNoteBehavior:
+    action: useVault
+    payload:
+      - vault
