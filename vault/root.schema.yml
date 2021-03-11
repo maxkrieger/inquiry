@@ -3,5 +3,5 @@ imports: []
 schemas:
   - id: root
     children: []
-    title: root
+    title: Max's Inquiry
     parent: root
