@@ -25,4 +25,3 @@ jobs:
           publish_branch: pages
           publish_dir: docs/
           force_orphan: true
-          cname: "a9.io"
