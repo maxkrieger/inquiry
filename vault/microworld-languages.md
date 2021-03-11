@@ -6,7 +6,8 @@ updated: 1615483240836
 created: 1615482779856
 ---
 
-![](assets/2021-01-29-01-33-20-16ac0493-48a7-4590-842e-ca8a26623ec7.png)
+![](assets/images/2021-01-29-01-33-20.png)
+
 ([PyZX](https://pyzx.readthedocs.io/en/latest/graph.html#the-zx-diagram-editor))
 
 I loved Papert's Mindstorms. Part of why it resonated is simply because I like using programming to learn stuff. Not everyone likes that, but I think it's still worth exploring how domain specific languages can guide self-directed learning.
