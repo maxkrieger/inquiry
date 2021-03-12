@@ -17,7 +17,7 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 
 [Teaching Mathematics Using APL](https://www.tandfonline.com/doi/abs/10.1080/07468342.1986.11972980)
 
-(related: [[microworld-languages]])
+(related: [[rethinking-media.microworld-languages]])
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">roads not taken or uneven distribution? <a href="https://t.co/SQmgowxTKL">pic.twitter.com/SQmgowxTKL</a></p>&mdash; andrew blinn (@disconcision) <a href="https://twitter.com/disconcision/status/1357395804332429318?ref_src=twsrc%5Etfw">February 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

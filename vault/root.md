@@ -2,7 +2,7 @@
 id: 940ad93a-2b54-497e-ab18-335879950834
 title: Max's Inquiry
 desc: ""
-updated: 1615510214767
+updated: 1615591907065
 created: 1615482623887
 ---
 
@@ -15,3 +15,12 @@ Take everything I write here (well, everywhere) with a grain of salt. That said 
 The pages definitely don't adhere to [Andy's Evergreen Notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) pattern.
 
 Feel free to add [a PR or issue to the repo](https://github.com/maxkrieger/inquiry) to discuss any of these in public!
+
+## Guide
+
+Here are some of my favorite/extensive pages:
+
+- [[Linear algebra as spreadsheet|projects.linear-algebra-spreadsheet]]
+- [[Domain learning for computational microworlds|rethinking-media.microworld-languages]]
+- [[Linux DE prototyping|projects.linux-desktop]]
+- [[System Archaeology|projects.system-archaeology]]

@@ -1,7 +1,7 @@
 ---
 id: ce22b861-d6b6-45e2-8b26-f8f16b5822f2
 title: Why are proof assistants so unfriendly?
-desc: ""
+desc: ''
 updated: 1615482779858
 created: 1615482779858
 ---

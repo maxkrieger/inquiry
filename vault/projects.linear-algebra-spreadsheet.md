@@ -4,9 +4,8 @@ title: Linear Algebra as Spreadsheet
 desc: null
 updated: 1615591056413
 created: 1615509913138
-modified: "2021-03-11T18:12:11-05:00"
+modified: '2021-03-11T18:12:11-05:00'
 ---
-
 _Thanks to Garth Goldwater for a lot of the ideas here_
 
 [The metaphor isn't mine](https://betterexplained.com/articles/linear-algebra-guide/). But it's a good one!
@@ -29,7 +28,7 @@ Sure I guess?
 
 - [Performing Operations with Matrices on Spreadsheets](https://www.jstor.org/stable/27970545?seq=1)
 
-## [[APL Is Really Cool|apl-spreadsheet.apl]]
+## [[APL Is Really Cool|projects.linear-algebra-spreadsheet.apl]]
 
 ## Aesthetics
 
@@ -81,9 +80,10 @@ Every right click transformation (eg transpose, get eigens) is not in-place but 
 ## Why?
 
 - Not sure.
-  - Might be internalized trauma taking linear algebra without something that feels nice to use ([[microworld-languages]]).
+  - Might be internalized trauma taking linear algebra without something that feels nice to use ([[rethinking-media.microworld-languages]]).
   - Practitioners make numpy mistakes a lot I bet
   - How do you communicate intuition about [powerful ideas](https://llk.media.mit.edu/courses/readings/Papert-Big-Idea.pdf) in linalg? Are pictures the best we have? What about the _algebra_, and the _data_ embedded in every matrix?
 - The semantics of Linear Algebra are pretty well-defined I think? That's why it's an algebra, right?
 - I want to do casual mathematics
 - Linear Algebra can model a lot of other domains of math. Not to mention it's pretty useful for physics. So maybe the interface paradigm can be juiced into domain-specific applications ([[theory.juicing]], [[theory.bottom-up]]).
+

@@ -1,7 +1,7 @@
 ---
 id: 90f43805-4858-4d25-8f51-6dec373f6b2f
 title: System Archaeology Seminar
-desc: ""
+desc: ''
 updated: 1615591066601
 created: 1615482779857
 ---
