@@ -1,11 +1,10 @@
 ---
 id: b37f9fc3-2488-449d-babc-f152911c4520
 title: How do you make mixtapes in the current year?
-desc: ""
+desc: ''
 updated: 1615482779856
 created: 1615482779856
 ---
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">how do u even make mixtapes without a tape... damn</p>&mdash; Max Krieger (@maxkriegers) <a href="https://twitter.com/maxkriegers/status/1303818284962377728?ref_src=twsrc%5Etfw">September 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Is there software to do this? You could record a DJ session with DJ software sure.
@@ -22,4 +21,5 @@ also
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9uKRqS98kIg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Related: [[video-associations]]
+Related: [[rethinking-media.video-associations]]
+

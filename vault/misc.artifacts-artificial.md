@@ -1,7 +1,7 @@
 ---
 id: 966577c7-fe2d-4c81-865e-800113f29cad
 title: Artifacts of the Artificial
-desc: ""
+desc: ''
 updated: 1615482779163
 created: 1615482779163
 ---

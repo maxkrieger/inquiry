@@ -1,11 +1,11 @@
 ---
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
-desc: 
+desc: null
 updated: 1615495481863
-modified: 2021-03-11T18:12:11-05:00
+created: 1615509913138
+modified: '2021-03-11T18:12:11-05:00'
 ---
-
 _Thanks to Garth Goldwater for a lot of the ideas here_
 
 [The metaphor isn't mine](https://betterexplained.com/articles/linear-algebra-guide/). But it's a good one!
@@ -18,7 +18,7 @@ So I was wondering why nobody took it literally.
 
 I can't find any existing _direct manipulation_ interfaces to perform linear algebra on raw data. Stuff like eigendecomposition or factorization. Or [constructing proofs of SVD](http://cognitivemedium.com/emm/emm.html).
 
-The key, I think, is to map the _language_ of linear algebra to an _interaction semantics_ for linear algebra ([[interaction-semantics]]).
+The key, I think, is to map the _language_ of linear algebra to an _interaction semantics_ for linear algebra ([[theory.interaction-semantics]]).
 
 Here's what I _have_ found:
 
@@ -42,7 +42,7 @@ Sure I guess?
 
 - What if there was a set of flashcards to learn all the APL symbols? Like [Elixir Cards](https://elixircards.co.uk/)/[PixelSpirit](https://patriciogonzalezvivo.github.io/PixelSpiritDeck/).
 
-One subproject ([[subprojecting]]) is not APL, but some CAS matrix toy - "Linearkit".
+One subproject ([[theory.subprojecting]]) is not APL, but some CAS matrix toy - "Linearkit".
 
 - Nicky Case's [transformation matrix toy](https://ncase.me/matrix/)
 
@@ -84,4 +84,5 @@ Every right click transformation (eg transpose, get eigens) is not in-place but 
   - How do you communicate intuition about [powerful ideas](https://llk.media.mit.edu/courses/readings/Papert-Big-Idea.pdf) in linalg? Are pictures the best we have? What about the _algebra_, and the _data_ embedded in every matrix?
 - The semantics of Linear Algebra are pretty well-defined I think? That's why it's an algebra, right?
 - I want to do casual mathematics
-- Linear Algebra can model a lot of other domains of math. Not to mention it's pretty useful for physics. So maybe the interface paradigm can be juiced into domain-specific applications ([[juicing]], [[bottom-up]]).
+- Linear Algebra can model a lot of other domains of math. Not to mention it's pretty useful for physics. So maybe the interface paradigm can be juiced into domain-specific applications ([[theory.juicing]], [[theory.bottom-up]]).
+

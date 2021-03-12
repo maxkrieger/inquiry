@@ -1,10 +1,11 @@
 ---
 id: 73729106-f56a-4ef7-8515-84ba50f927a6
 title: Video Hypnagogia/Phantasmagoria
-desc: ''
-updated: 1615482779857
+desc: ""
+updated: 1615509932426
 created: 1615482779857
 ---
+
 Inspired by my time at [Reduct](https://reduct.video) and [Rob Ochshorn's work](https://rmozone.com/).
 
 From Glue discord:
@@ -25,7 +26,6 @@ From Glue discord:
 
 Lots of VJing is just with signals. What about with actual content and associative metaphor.
 
-- archive.org educational films
+- archive.org educational films, and Prelinger archives
 
 Inspired by conversation with [Jonathan Skjøtt](https://resevoir.net/)
-

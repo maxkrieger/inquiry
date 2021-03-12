@@ -1,7 +1,7 @@
 ---
 id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
-desc: ""
+desc: ''
 updated: 1615482779855
 created: 1615482779855
 ---
