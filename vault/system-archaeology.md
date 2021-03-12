@@ -2,7 +2,7 @@
 id: 90f43805-4858-4d25-8f51-6dec373f6b2f
 title: System Archaeology Seminar
 desc: ""
-updated: 1615590758550
+updated: 1615591066601
 created: 1615482779857
 ---
 
@@ -26,7 +26,7 @@ benchmarks: todo list etc
 
 ## Collection
 
-Most of these, I later discovered, are a mere subset of Jonathan Edwards' formidable [Gallery of programmer interfaces](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit) ([pdf](assets/programmer-interfaces.pdf))
+Most of these, I later discovered, are a mere subset of Jonathan Edwards' formidable [Gallery of programmer interfaces](https://docs.google.com/presentation/d/1MD-CgzODFWzdpnYXr8bEgysfDmb8PDV6iCAjH5JIvaI/edit) ([pdf](../assets/programmer-interfaces.pdf))
 
 - Emacs and all its "do everything" insanity
   - org-mode

@@ -2,7 +2,7 @@
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
-updated: 1615590901447
+updated: 1615591056413
 created: 1615509913138
 modified: "2021-03-11T18:12:11-05:00"
 ---
@@ -63,7 +63,7 @@ One subproject ([[theory.subprojecting]]) is not APL, but some CAS matrix toy - 
 - [Loglo](https://loglo.app/)
 - [Math Inspector](https://mathinspector.com/)
   - > Math inspector makes it easy for anyone to leverage the power of numpy, the most popular computational mathematics library in the world, without needing to know anything about programming or writing any code. “If watching math videos is like going to the movies instead of reading a book, then math inspector is like playing a video game instead of doing your homework.”
-- [Interactivity of Visual Mathematical Representations: Factors Affecting Learning and Cognitive Processes](https://eric.ed.gov/?id=EJ726333) ([pdf](assets/interactive-math-tools.pdf))
+- [Interactivity of Visual Mathematical Representations: Factors Affecting Learning and Cognitive Processes](https://eric.ed.gov/?id=EJ726333) ([pdf](../assets/interactive-math-tools.pdf))
 
 ![](assets/images/2021-02-01-17-39-06.png)
 
