@@ -2,10 +2,11 @@
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
-updated: 1615495481863
+updated: 1615590901447
 created: 1615509913138
-modified: '2021-03-11T18:12:11-05:00'
+modified: "2021-03-11T18:12:11-05:00"
 ---
+
 _Thanks to Garth Goldwater for a lot of the ideas here_
 
 [The metaphor isn't mine](https://betterexplained.com/articles/linear-algebra-guide/). But it's a good one!
@@ -57,12 +58,12 @@ One subproject ([[theory.subprojecting]]) is not APL, but some CAS matrix toy - 
 - [WebGL State Diagram](https://webglfundamentals.org/webgl/lessons/resources/webgl-state-diagram.html) - the "cells" are pointers
   - Maybe each matrix is a floating table and you can multiply by constructing a graph of edges?
   - [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
-- ["Verb-noun vs noun-verb"](https://mobile.twitter.com/tophtucker/status/1278184444428529665?s=19)
 - [Mito: Edit a spreadsheet. Generate Python. All in Jupyter.](https://trymito.io/)
 - [Responsive Matrix Cells: A Focus+Context Approach for Multivariate Graphs](https://imld.de/en/research/research-projects/responsive-matrix-cells/)
 - [Loglo](https://loglo.app/)
 - [Math Inspector](https://mathinspector.com/)
   - > Math inspector makes it easy for anyone to leverage the power of numpy, the most popular computational mathematics library in the world, without needing to know anything about programming or writing any code. “If watching math videos is like going to the movies instead of reading a book, then math inspector is like playing a video game instead of doing your homework.”
+- [Interactivity of Visual Mathematical Representations: Factors Affecting Learning and Cognitive Processes](https://eric.ed.gov/?id=EJ726333) ([pdf](assets/interactive-math-tools.pdf))
 
 ![](assets/images/2021-02-01-17-39-06.png)
 
@@ -73,6 +74,7 @@ One subproject ([[theory.subprojecting]]) is not APL, but some CAS matrix toy - 
 - [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 - [An Illustrated Guide to Arquero Verbs / UW Interactive Data Lab / Observable](https://observablehq.com/@uwdata/an-illustrated-guide-to-arquero-verbs)
 - [A Grammar of Data Manipulation • dplyr](https://dplyr.tidyverse.org/)
+- ["Verb-noun vs noun-verb"](https://mobile.twitter.com/tophtucker/status/1278184444428529665?s=19)
 
 Every right click transformation (eg transpose, get eigens) is not in-place but is placed somewhere else in space, immutable copy, like Paul Shen's systems.
 
@@ -85,4 +87,3 @@ Every right click transformation (eg transpose, get eigens) is not in-place but 
 - The semantics of Linear Algebra are pretty well-defined I think? That's why it's an algebra, right?
 - I want to do casual mathematics
 - Linear Algebra can model a lot of other domains of math. Not to mention it's pretty useful for physics. So maybe the interface paradigm can be juiced into domain-specific applications ([[theory.juicing]], [[theory.bottom-up]]).
-
