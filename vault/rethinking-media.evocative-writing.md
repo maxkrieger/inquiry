@@ -1,10 +1,11 @@
 ---
 id: 0aef5fe2-318f-4960-9a4b-51c7a5f39624
 title: Writing as evocation
-desc: ''
+desc: 
 updated: 1615482779854
-created: 1615482779854
+modified: 2021-03-12T17:06:46-05:00
 ---
+
 > Sometimes when people say things to me, I picture their sentences diagrammed on a blackboard, with soft gossamer trails of hidden meaning streaming out beneath, like a bubble wand dipped into solution and dragged across its underbelly.
 
 > Once I started thinking of content this way, it felt as though all the points were scattered around me into lines, the sun striking a glass vase at just the right time of day, sending rainbows dancing about the room. We tend to value code, words, and media based on what we can see: the stable item, the cabochon jewel gleaming opaquely in the palm of one's hand. But rotate it, cut it into facets, and hold it up to the light, and a thousand new worlds reveal themselves.
@@ -15,3 +16,4 @@ created: 1615482779854
 
 Reading creates pictures in our minds. Steven Pinker in _Sense of Style_ calls this something like "conjuring imagery on our mental virtual reality displays".
 
+https://mobile.twitter.com/aaronzlewis/status/1216818302011478018
