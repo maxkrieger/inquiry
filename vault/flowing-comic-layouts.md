@@ -27,7 +27,7 @@ My friend [Weiwei](https://weiweihsu.com/) was [also experimenting with this for
 
 ### Won't you get "lost" in a nonlinear layout?
 
-Yes. But can't you get lost in a linear layout too? How many times have you lost focus while reading something dense? ([[reading]])
+Yes. But can't you get lost in a linear layout too? How many times have you lost focus while reading something dense? ([[text.reading]])
 
 When essays involve visual components, your eyes will be attracted to them, like basins in a pool. In conventional articles, there's a stark contrast between an eye-catching figure and a big fat chunk of prose in an attentional vector field. In fact, undergraduates are instructed to scan the figures in a paper _before_ reading the content.
 

@@ -31,7 +31,7 @@ Feel free to add [a PR or issue to the repo](https://github.com/maxkrieger/inqui
 ## Other stuff
 
 - [[linux-desktop]]
-- [[reading]]
+- [[text.reading]]
 - [[why-proof-assistants-bad]]
 - [[video-associations]]
 - [[mixloupe]]

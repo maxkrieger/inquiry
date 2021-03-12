@@ -1,7 +1,7 @@
 ---
 id: c6b772e0-4ca8-4810-b237-1c4b414137d3
 title: AR Paper
-desc: ""
+desc: ''
 updated: 1615488631615
 created: 1615482779163
 ---
