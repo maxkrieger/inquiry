@@ -3,9 +3,9 @@ id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
 updated: 1615591056413
-created: 1615509913138
-modified: '2021-03-11T18:12:11-05:00'
+modified: 2021-03-12T23:53:31-05:00
 ---
+
 _Thanks to Garth Goldwater for a lot of the ideas here_
 
 [The metaphor isn't mine](https://betterexplained.com/articles/linear-algebra-guide/). But it's a good one!
@@ -15,6 +15,10 @@ _Thanks to Garth Goldwater for a lot of the ideas here_
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some tools on the way to supporting the magical, playful mode of waves:<a href="https://t.co/fa5Sunkwhh">https://t.co/fa5Sunkwhh</a><a href="https://t.co/FQKTRWzyje">https://t.co/FQKTRWzyje</a><br>and the unimplemented direct manipulation APL-spreadsheet-incantation environment of my dreams <a href="https://t.co/TFxhVS1UIq">https://t.co/TFxhVS1UIq</a></p>&mdash; Max Krieger (@maxkriegers) <a href="https://twitter.com/maxkriegers/status/1306129848038027265?ref_src=twsrc%5Etfw">September 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 So I was wondering why nobody took it literally.
+
+> When you're manipulating matrices, you [often] lose track of, "what am I doing? what does this mean?" I've got this funny matrix, I multiply it by a vector, what was this supposed to do?
+
+- Keenan Crane, [Discrete Exterior Calculus](https://youtu.be/-cUhuzwW-_A)
 
 I can't find any existing _direct manipulation_ interfaces to perform linear algebra on raw data. Stuff like eigendecomposition or factorization. Or [constructing proofs of SVD](http://cognitivemedium.com/emm/emm.html).
 
@@ -86,4 +90,3 @@ Every right click transformation (eg transpose, get eigens) is not in-place but 
 - The semantics of Linear Algebra are pretty well-defined I think? That's why it's an algebra, right?
 - I want to do casual mathematics
 - Linear Algebra can model a lot of other domains of math. Not to mention it's pretty useful for physics. So maybe the interface paradigm can be juiced into domain-specific applications ([[theory.juicing]], [[theory.bottom-up]]).
-
