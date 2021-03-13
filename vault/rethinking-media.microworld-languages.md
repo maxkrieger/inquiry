@@ -1,10 +1,11 @@
 ---
 id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
-desc: ''
+desc: 
 updated: 1615508411264
-created: 1615482779856
+modified: 2021-03-13T18:13:29-05:00
 ---
+
 ![](assets/images/2021-01-29-01-33-20.png)
 
 ([PyZX](https://pyzx.readthedocs.io/en/latest/graph.html#the-zx-diagram-editor))
@@ -37,6 +38,8 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [Turtles Termites and Traffic Jams](https://mitpress.mit.edu/books/turtles-termites-and-traffic-jams)
 - [Arend Theorem Prover](https://arend-lang.github.io/) - Cubical Type Theory as an IntelliJ Plugin
 - [Wolfram U](https://www.wolfram.com/wolfram-u/) - learn domains through Mathematica
+- https://github.com/quantumlib/Cirq
+- https://github.com/SciML/Catalyst.jl
 - [Sagemath Interactions](https://wiki.sagemath.org/interact) - some explorables with Sagemath
 - **Haskell+Music Theory**
   - [Haskell School of Music](https://www.cambridge.org/core/books/haskell-school-of-music/6B377BCD40386E9D27EB93FC2F3B13FB#fndtn-information)
@@ -66,4 +69,3 @@ Note: I'm neglecting tons of python stuff. Probably because I think type systems
   (Literate Coq)
 
 - [Literate Coq](https://plv.csail.mit.edu/blog/alectryon.html) - Relatedly - [[misc.why-proof-assistants-bad]]
-
