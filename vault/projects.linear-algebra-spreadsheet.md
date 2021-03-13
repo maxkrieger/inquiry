@@ -3,7 +3,7 @@ id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
 updated: 1615591056413
-modified: 2021-03-12T23:33:40-05:00
+modified: 2021-03-12T23:53:31-05:00
 ---
 
 _Thanks to Garth Goldwater for a lot of the ideas here_
@@ -16,7 +16,7 @@ _Thanks to Garth Goldwater for a lot of the ideas here_
 
 So I was wondering why nobody took it literally.
 
-> When you're manipulating matrices, you [often] lose track of, "what am I doing? what does this mean? I've got this funny matrix, I multiply it by a vector, what was this supposed to do?
+> When you're manipulating matrices, you [often] lose track of, "what am I doing? what does this mean?" I've got this funny matrix, I multiply it by a vector, what was this supposed to do?
 
 - Keenan Crane, [Discrete Exterior Calculus](https://youtu.be/-cUhuzwW-_A)
 
