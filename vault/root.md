@@ -2,7 +2,7 @@
 id: 940ad93a-2b54-497e-ab18-335879950834
 title: Max's Inquiry
 desc: ""
-updated: 1615591907065
+updated: 1615597318057
 created: 1615482623887
 ---
 
@@ -17,6 +17,11 @@ The pages definitely don't adhere to [Andy's Evergreen Notes](https://notes.andy
 Feel free to add [a PR or issue to the repo](https://github.com/maxkrieger/inquiry) to discuss any of these in public!
 
 ## Guide
+
+Here's what I'm working on right now:
+
+- [[Chat Documents|projects.saga-tales]]
+- [[Flowing Comic Layouts|projects.flowing-comic-layouts]]
 
 Here are some of my favorite/extensive pages:
 
