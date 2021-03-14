@@ -1,8 +1,8 @@
 ---
 id: 6268810e-ded6-4f30-8601-e3965bbda5d1
 title: Hands Plugin for Graphic Abstractions
-desc: ''
-updated: 1615492116367
+desc: ""
+updated: 1615753218081
 created: 1615482779854
 ---
 
@@ -42,3 +42,5 @@ Navy-light green gradient
 Magic vibes
 
 Fingers on different layers to show grasping
+
+[[theory.materiality]]
