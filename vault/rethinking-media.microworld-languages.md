@@ -1,8 +1,8 @@
 ---
 id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
-desc: 
-updated: 1615508411264
+desc:
+updated: 1615852320876
 modified: 2021-03-13T18:13:29-05:00
 ---
 
@@ -28,6 +28,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry) (in Scheme)
 - [Qiskit](https://github.com/Qiskit/qiskit/)
 - [Programming Language Foundations in Agda](https://plfa.github.io/)
+- [Software Foundations (In Coq)](https://softwarefoundations.cis.upenn.edu/)
 - [Monotone Co-design Theory](https://co-design.science/animations/)
 - **Probabilistic Programming**
   - [ArviZ: Exploratory analysis of Bayesian models](https://arviz-devs.github.io/arviz/)

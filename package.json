@@ -7,9 +7,9 @@
   "main": "index.js",
   "license": "CC BY 4.0",
   "dependencies": {
-    "@dendronhq/dendron-11ty": "^1.32.0"
+    "@dendronhq/dendron-11ty": "latest"
   },
   "devDependencies": {
-    "@dendronhq/dendron-cli": "^0.32.0"
+    "@dendronhq/dendron-cli": "latest"
   }
 }
