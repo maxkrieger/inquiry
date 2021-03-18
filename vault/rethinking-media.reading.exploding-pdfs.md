@@ -1,15 +1,17 @@
 ---
 id: f6c2e8d9-c1cb-4f38-bae8-cf7a0766d98e
 title: Exploding PDFs
-desc: ''
+desc: 
 updated: 1615482779854
-created: 1615482779854
+modified: 2021-03-18T12:04:30-04:00
 ---
+
 LaTeX PDFs are made of blocks. The source code is often available for arXiv preprints.
 
 Can this make consumption more fun? Spread out? Exploded onto a space?
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When I want to revisit books to gather ideas, to play random flashcard draws or build up a moodboard of ingredients, card-like enumerations might come in handy.<br><br>Can I turn Lakoff&amp;Nuñez, for example, into an Oblique Strategies deck? <a href="https://t.co/G6wSrsTIhh">pic.twitter.com/G6wSrsTIhh</a></p>&mdash; Max Krieger (@maxkriegers) <a href="https://twitter.com/maxkriegers/status/1340182031129587712?ref_src=twsrc%5Etfw">December 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">WHOA, that‘s even more intense! Can you share a screenshot?<br><br>I tried doing a paragraph-on-index card analysis of Bruno Latour’s Visualization &amp; Cognition essay (via <a href="https://twitter.com/maxkriegers?ref_src=twsrc%5Etfw">@maxkriegers</a>) but I faltered halfway through it (partly because text extraction from PDFs is such a pain!) <a href="https://t.co/zF5nfXG4cB">pic.twitter.com/zF5nfXG4cB</a></p>&mdash; Eli Parra 🌊 (@elzr) <a href="https://twitter.com/elzr/status/1252694790065487872?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">WHOA, that‘s even more intense! Can you share a screenshot?<br><br>I tried doing a paragraph-on-index card analysis of Bruno Latour’s Visualization &amp; Cognition essay (via <a href="https://twitter.com/maxkriegers?ref_src=twsrc%5Etfw">@maxkriegers</a>) but I faltered halfway through it (partly because text extraction from PDFs is such a pain!) <a href="https://t.co/zF5nfXG4cB">pic.twitter.com/zF5nfXG4cB</a></p>&mdash; Eli Parra :ocean: (@elzr) <a href="https://twitter.com/elzr/status/1252694790065487872?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What is to reading what a word processor is to writing?<br><br>Here&#39;s a quick demo of a syntax exploder in honor of Doug Engelbart, father of :dragon: demos, who called similar dreams “parsing processors”.<br><br>The text is the first paragraph of Doug’s 1962 framework <a href="https://t.co/FmE9xfzdDs">https://t.co/FmE9xfzdDs</a> <a href="https://t.co/Ijg7ZLpNCm">pic.twitter.com/Ijg7ZLpNCm</a></p>&mdash; Eli Parra :gear: (@elzr) <a href="https://twitter.com/elzr/status/1372391789332725763?ref_src=twsrc%5Etfw">March 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
