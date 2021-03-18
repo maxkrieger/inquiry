@@ -1,9 +1,9 @@
 ---
 id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
-desc:
+desc: null
 updated: 1615941468682
-modified: 2021-03-13T18:13:29-05:00
+modified: 2021-03-18T13:12:32-04:00
 ---
 
 ![](assets/images/2021-01-29-01-33-20.png)
@@ -23,6 +23,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [Calculus with Julia](https://juliahub.com/docs/CalculusWithJulia/AZHbv/0.0.5/)
   - [Math 229 Projects](http://mth229.github.io/) (College of Staten Island course on calculus with julia)
 - [Statistics with Julia](https://statisticswithjulia.org/)
+- [Computational thinking (modeling) with Julia](https://computationalthinking.mit.edu/Fall20/)
 - [Designing Sound](https://mitpress.mit.edu/books/designing-sound) (with Pd)
 - [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics) (in Scheme)
 - [Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry) (in Scheme)
