@@ -2,7 +2,7 @@
 id: c6b772e0-4ca8-4810-b237-1c4b414137d3
 title: AR Paper
 desc: ""
-updated: 1615753199936
+updated: 1616115408293
 created: 1615482779163
 ---
 
@@ -29,5 +29,7 @@ Printed Matter's ["Tables"](https://www.printedmatter.org/catalog/tables/11555) 
 
 - <https://shreevatsa.net/mobius-print/>
 - <https://byorgey.wordpress.com/how-to-print-things/>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Process story! <a href="https://twitter.com/mayli?ref_src=twsrc%5Etfw">@mayli</a>, <a href="https://twitter.com/farrarscott?ref_src=twsrc%5Etfw">@farrarscott</a>, and I finished this endless report on our early math work (<a href="https://t.co/IHktxhJ9FC">https://t.co/IHktxhJ9FC</a>), but <a href="https://twitter.com/cgingold?ref_src=twsrc%5Etfw">@cgingold</a> convinced us we had the story all wrong. Despair, then: we printed it, cut it up, rearranged it, scribbled all over it, and taped it together. <a href="https://t.co/rlgtzVgBXP">pic.twitter.com/rlgtzVgBXP</a></p>&mdash; Andy Matuschak (@andy_matuschak) <a href="https://twitter.com/andy_matuschak/status/967796906003906565?ref_src=twsrc%5Etfw">February 25, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [[theory.materiality]]

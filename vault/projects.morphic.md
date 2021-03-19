@@ -2,7 +2,7 @@
 id: 0b4eddd8-c406-43fc-a9b3-897bdd40486f
 title: Morphic for the web
 desc: ""
-updated: 1616114858972
+updated: 1616115045867
 created: 1616113980165
 ---
 
@@ -28,6 +28,8 @@ Programming in 2D is only making a comeback recently (eg some of the projects in
 ([Systems with JT](https://www.youtube.com/watch?v=CCx6Nj_Hr1g). BTW [his channel](https://www.youtube.com/user/giard321/featured) has some great "OS Let's Plays")
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">also turns me off in many HCI prototypes I&#39;ve seen, and in the old-school Smalltalk browser UI. feels very buttons and menus world, very un-wiggly</p>&mdash; Omar Rizwan (@rsnous) <a href="https://twitter.com/rsnous/status/1372694522669330437?ref_src=twsrc%5Etfw">March 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![](assets/images/vaporize.gif)
 
 Another system by Randall Smith is [Alternate Reality Kit](https://www.youtube.com/watch?v=I9LZ6TnSP40)
 

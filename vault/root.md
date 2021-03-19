@@ -1,8 +1,8 @@
 ---
 id: 940ad93a-2b54-497e-ab18-335879950834
 title: Max's Inquiry
-desc: 
-updated: 1615597318057
+desc:
+updated: 1616115341623
 modified: 2021-03-17T11:37:29-04:00
 ---
 
@@ -29,3 +29,9 @@ Here are some of my favorite/extensive pages:
 - [[Domain learning for computational microworlds|rethinking-media.microworld-languages]]
 - [[Linux DE prototyping|projects.linux-desktop]]
 - [[System Archaeology|projects.system-archaeology]]
+
+---
+
+![](/assets/images/2021-03-18-20-55-10.png)
+
+[El Lissitzky, The Constructor (self-portrait, 1924)](https://commons.wikimedia.org/wiki/File:El_Lissitzky_The_Constructor,_self-portrait,_gelatin_silver_print,_107%C3%97118_mm,_1924_London,_Victoria_and_Albert_Museum,_Inv._PH142-1985.jpg)

@@ -2,7 +2,7 @@
 id: 6268810e-ded6-4f30-8601-e3965bbda5d1
 title: Hands Plugin for Graphic Abstractions
 desc: ""
-updated: 1615753218081
+updated: 1616115160979
 created: 1615482779854
 ---
 
@@ -11,6 +11,10 @@ AKA Manicle.
 Make anything look tangible. Take a pic of some abstract structure, configure hand pose by choosing where the fingers go, then the plugin projects the hands reaching toward the plane of the pic.
 
 Similar effect to the scale figure people in architectural drafts
+
+![](/assets/images/2021-03-18-20-52-05.png)
+
+[(Meliacin Master)](https://commons.wikimedia.org/wiki/File:Woman_teaching_geometry.jpg)
 
 ![](/assets/images/2021-03-11-14-46-39.png)
 (Dynamics: the geometry of behavior)
