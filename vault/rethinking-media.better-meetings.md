@@ -1,9 +1,9 @@
 ---
 id: 1d0d9bf0-f059-476a-842a-0dc747ec2b85
 title: Better Meetings
-desc: 
+desc: null
 updated: 1615482779853
-modified: 2021-03-20T00:44:05-04:00
+modified: 2021-03-20T00:44:54-04:00
 ---
 
 What a saturated place to inquire about. I'd like to examine non-generic meetings with discussions that go heavily into domain specific problems.
@@ -15,4 +15,4 @@ What a saturated place to inquire about. I'd like to examine non-generic meeting
 - [Variolite](https://dl.acm.org/doi/10.1145/3025453.3025626) for meetings
 - ["Design docs are one of my favourite things about software engineering"](https://news.ycombinator.com/item?id=23916134)
 - https://www.tandfonline.com/doi/abs/10.1207/s15324834basp1201_1
--
+- https://increment.com/remote/remote-record-keeping/
