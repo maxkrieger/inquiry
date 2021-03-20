@@ -1,10 +1,11 @@
 ---
 id: 1d0d9bf0-f059-476a-842a-0dc747ec2b85
 title: Better Meetings
-desc: ''
+desc: 
 updated: 1615482779853
-created: 1615482779853
+modified: 2021-03-20T00:44:05-04:00
 ---
+
 What a saturated place to inquire about. I'd like to examine non-generic meetings with discussions that go heavily into domain specific problems.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Collaboratively writing a detailed technical document (eg, academic paper, product spec) is super challenging, but pays dividends.<br><br>It&#39;s the best way I know to mind-meld a group around a complex idea -- requires clear alignment from big picture framing down to tiny details.</p>&mdash; Geoffrey Litt (@geoffreylitt) <a href="https://twitter.com/geoffreylitt/status/1359231746001223683?ref_src=twsrc%5Etfw">February 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -13,4 +14,5 @@ What a saturated place to inquire about. I'd like to examine non-generic meeting
 
 - [Variolite](https://dl.acm.org/doi/10.1145/3025453.3025626) for meetings
 - ["Design docs are one of my favourite things about software engineering"](https://news.ycombinator.com/item?id=23916134)
-
+- https://www.tandfonline.com/doi/abs/10.1207/s15324834basp1201_1
+-
