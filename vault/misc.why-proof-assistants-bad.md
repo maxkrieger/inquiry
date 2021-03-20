@@ -1,9 +1,9 @@
 ---
 id: ce22b861-d6b6-45e2-8b26-f8f16b5822f2
 title: Why are proof assistants so unfriendly?
-desc: ''
+desc: 
 updated: 1615482779858
-created: 1615482779858
+modified: 2021-03-20T13:07:16-04:00
 ---
 
 Inspired by Katherine Ye's [Proof assistants as a tool for thought](https://www.cs.cmu.edu/~kqy/resources/coq_tools_for_thought.pdf).
@@ -18,6 +18,7 @@ Some logic can be a game: see [The Incredible Proof Machine](https://incredible.
 - [Proofscape](https://royalroadmath.org/newpfsc.html)
 - [Holbert Theorem Prover](http://liamoc.net/holbert/)
 - [Proof Tree Builder](https://joom.github.io/proof-tree-builder/src/) - [Joomy](https://www.cs.princeton.edu/~ckorkut/) seems to be working at the SOTA here.
+- https://twitter.com/TaliaRinger/status/1373076827879604224?s=19
 
 ![](assets/images/2021-02-01-17-49-32.png)
 
