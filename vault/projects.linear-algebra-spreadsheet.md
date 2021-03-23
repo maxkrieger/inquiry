@@ -3,7 +3,7 @@ id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
 updated: 1615591056413
-modified: 2021-03-23T14:52:50-04:00
+modified: 2021-03-23T15:35:40-04:00
 ---
 
 _Thanks to Garth Goldwater for a lot of the ideas here_
@@ -83,6 +83,14 @@ One subproject ([[theory.subprojecting]]) is not APL, but some CAS matrix toy - 
 - [Named tensor notation](https://namedtensor.github.io/)
 
 Every right click transformation (eg transpose, get eigens) is not in-place but is placed somewhere else in space, immutable copy, like Paul Shen's systems.
+
+## Applications
+
+- Learning, proving, playing
+- graphics pipelines (in 2d case of env layout)
+- statistics
+- DSP (vision - convolutions, audio)
+- ML
 
 ## Why?
 
