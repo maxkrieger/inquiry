@@ -2,7 +2,7 @@
 id: 0b4eddd8-c406-43fc-a9b3-897bdd40486f
 title: Morphic for the web
 desc: ""
-updated: 1616115045867
+updated: 1616476232018
 created: 1616113980165
 ---
 
@@ -32,5 +32,7 @@ Programming in 2D is only making a comeback recently (eg some of the projects in
 ![](assets/images/vaporize.gif)
 
 Another system by Randall Smith is [Alternate Reality Kit](https://www.youtube.com/watch?v=I9LZ6TnSP40)
+
+Also Dan Ingalls' [Lively-Web](https://lively-web.org/), which isn't quite as performant or rich as I'd want - similar to Omar's sentiment on Smalltalk above.
 
 Related: [[projects.system-archaeology]]
