@@ -3,7 +3,7 @@ id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
 updated: 1616476078539
-modified: 2021-03-18T13:12:32-04:00
+modified: 2021-03-26T12:53:17-04:00
 ---
 
 ![](assets/images/2021-01-29-01-33-20.png)
@@ -75,6 +75,9 @@ Note: I'm neglecting tons of python stuff. Probably because I think type systems
   (Literate Coq)
 
 - [Literate Coq](https://plv.csail.mit.edu/blog/alectryon.html) - Relatedly - [[misc.why-proof-assistants-bad]]
+
+- I'm struck by the un-Haskell-ness of this api. https://reanimate.github.io/
+  - you don't need to know the ins and outs of Haskell to use this "DSL"
 
 #### Minecraft
 
