@@ -1,9 +1,9 @@
 ---
 id: 0aef5fe2-318f-4960-9a4b-51c7a5f39624
 title: Writing as evocation
-desc: 
+desc: null
 updated: 1615482779854
-modified: 2021-03-12T17:06:46-05:00
+modified: 2021-04-03T14:02:13-04:00
 ---
 
 > Sometimes when people say things to me, I picture their sentences diagrammed on a blackboard, with soft gossamer trails of hidden meaning streaming out beneath, like a bubble wand dipped into solution and dragged across its underbelly.
@@ -17,3 +17,7 @@ modified: 2021-03-12T17:06:46-05:00
 Reading creates pictures in our minds. Steven Pinker in _Sense of Style_ calls this something like "conjuring imagery on our mental virtual reality displays".
 
 https://mobile.twitter.com/aaronzlewis/status/1216818302011478018
+
+> The thing I like about writing is that it’s quite literally thinking—***a way for me access my own interiority and construct something from it***. What I write is all mine, it’s a living thing, it’s an extension of me that wanders out into the world. It is desire turned inwards instead of outwards, focused instead of displaced. It’s a way to access self-knowledge and self-respect.
+
+https://ava.substack.com/p/how-to-avoid-half-heartedness
