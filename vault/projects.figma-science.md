@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: ""
-updated: 1617766702169
+updated: 1617767900353
 created: 1617765865148
 ---
 
@@ -25,14 +25,40 @@ Existing work:
 - [Benchling](https://www.benchling.com/)
 - [HASH](https://hash.ai/)
 - [FloydHub](https://www.floydhub.com/)
+- [Streamlit](https://streamlit.io/)
 - [NextJournal](https://nextjournal.com/)
+- [Biodock](https://www.biodock.ai/)
+- [ScienceIO](https://www.science.io/)
+
+![](/assets/images/2021-04-06-23-53-33.png)
+
+(Biodock)
 
 "Experiment tracking" is a common theme
 
 What if [open science framework](https://osf.io/) caught up with the times?
 
-An instance of [[theory.figma-for-x]].
+An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
+
+## Systems to figma-ize
+
+![](/assets/images/2021-04-06-23-53-00.png)
+
+([Vizarr](https://github.com/hms-dbmi/vizarr))
+
+- [Vizarr](https://github.com/hms-dbmi/vizarr)
+- [Gelbox](http://douglaslab.org/gelbox/)
+- [Praat](https://www.fon.hum.uva.nl/praat/)
+- [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
+
+## [[DSP Notebook|projects.figma-science.dsp-notebook]]
 
 ## Graphics
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Because all rendering of high-bit depth <a href="https://twitter.com/hashtag/bioimage?src=hash&amp;ref_src=twsrc%5Etfw">#bioimage</a> data is done via <a href="https://twitter.com/hashtag/WebGL?src=hash&amp;ref_src=twsrc%5Etfw">#WebGL</a> shaders directly in the browser, Viv applies data transformations without lag. Magic lenses that perform local transformations are smooth and changes to the color mapping update as sliders are moved. <a href="https://t.co/7AFD5cWObX">pic.twitter.com/7AFD5cWObX</a></p>&mdash; Nils Gehlenborg (@ngehlenborg) <a href="https://twitter.com/ngehlenborg/status/1293899291585642498?ref_src=twsrc%5Etfw">August 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Open source ethics
+
+Data should be easy to sync to a repo in a common format
+
+Really what's being provisioned is the collaboration tool and hosting. Reasonable to charge a price that would otherwise require on prem and manual setup (and social features/external sharing!)
