@@ -3,7 +3,7 @@ id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
 updated: 1616476078539
-modified: 2021-03-26T12:53:17-04:00
+modified: 2021-04-01T19:15:49-04:00
 ---
 
 ![](assets/images/2021-01-29-01-33-20.png)
@@ -60,6 +60,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [ToonTalk - Infinite cardinality of sets](https://toontalk.github.io/ToonTalk/docs/activities/infinity/cardinality-activity-1.html)
 - [Knuth's MIX for Art of Computer Programming](https://en.wikipedia.org/wiki/MIX)
 - [Modeling Game Theory in Haskell - HAGL](http://web.engr.oregonstate.edu/~walkiner/projects/hagl.html)
+- [Exploring Mathematics with your Computer](https://www.google.com/books/edition/Exploring_Mathematics_with_your_Computer/efUpQgAACAAJ?hl=en)
 
 Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)
 
