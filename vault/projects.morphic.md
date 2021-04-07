@@ -2,7 +2,7 @@
 id: 0b4eddd8-c406-43fc-a9b3-897bdd40486f
 title: Morphic for the web
 desc: ""
-updated: 1616783163051
+updated: 1617765904483
 created: 1616113980165
 ---
 
@@ -17,7 +17,7 @@ It's even realtime multiplayer in the local network!
 
 ![](/assets/images/2021-03-18-20-39-31.png)![](/assets/images/2021-03-18-20-39-32.png)
 
-What does this kind of environment look like if implemented today? GToolkit is cool. SqueakJS is cool. Figma for Smalltalk!?
+What does this kind of environment look like if implemented today? GToolkit is cool. SqueakJS is cool. Figma for Smalltalk!? ([[theory.figma-for-x]])
 
 What if the morphs were more jelly/[[metaball|theory.metaballs]]-like?
 
