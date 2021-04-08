@@ -2,13 +2,15 @@
 id: f6c2e8d9-c1cb-4f38-bae8-cf7a0766d98e
 title: Exploding PDFs
 desc: null
-updated: 1615482779854
+updated: 1617897810156
 modified: 2021-03-18T13:35:35-04:00
 ---
 
 LaTeX PDFs are made of blocks. The source code is often available for arXiv preprints.
 
 Can this make consumption more fun? Spread out? Exploded onto a space?
+
+Related: [Gerby Project](https://gerby-project.github.io/) - online tag-based view for large LaTeX documents
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When I want to revisit books to gather ideas, to play random flashcard draws or build up a moodboard of ingredients, card-like enumerations might come in handy.<br><br>Can I turn Lakoff&amp;Nuñez, for example, into an Oblique Strategies deck? <a href="https://t.co/G6wSrsTIhh">pic.twitter.com/G6wSrsTIhh</a></p>&mdash; Max Krieger (@maxkriegers) <a href="https://twitter.com/maxkriegers/status/1340182031129587712?ref_src=twsrc%5Etfw">December 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
