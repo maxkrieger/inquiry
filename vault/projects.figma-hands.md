@@ -1,12 +1,14 @@
 ---
 id: 6268810e-ded6-4f30-8601-e3965bbda5d1
 title: Hands Plugin for Graphic Abstractions
-desc: ""
+desc: 
 updated: 1616115160979
-created: 1615482779854
+modified: 2021-04-12T18:22:36-04:00
 ---
 
 AKA Manicle.
+
+A figma plugin to position a hand puppet on top of some artboard, manipulating it.
 
 Make anything look tangible. Take a pic of some abstract structure, configure hand pose by choosing where the fingers go, then the plugin projects the hands reaching toward the plane of the pic.
 

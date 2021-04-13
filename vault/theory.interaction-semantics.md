@@ -1,10 +1,11 @@
 ---
 id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
-desc: ''
+desc: 
 updated: 1615482779855
-created: 1615482779855
+modified: 2021-04-12T18:36:29-04:00
 ---
+
 Programming semantics are well-studied. What about direct manipulation semantics? Can they be [in bijection](https://twitter.com/sliminality/status/1227791682038452225)?
 
 ![](assets/images/2021-02-13-23-23-06.png)
@@ -27,6 +28,7 @@ What even is a program? You can make great Smalltalk ([[projects.system-archaeol
 - [Wrangler: Interactive Visual Specification of Data Transformation Scripts](http://idl.cs.washington.edu/papers/wrangler/)
 - [You can model the domain of raytracing by interacting with InkScape layers](https://github.com/damienBloch/Inkscape-raytracing)
 - [Interaction Techniques in InfoViz (Ji Soo Yi et al)](https://www.cc.gatech.edu/~stasko/papers/infovis07-interaction.pdf)
+- Brad Myers' [TOPAZ](http://www.cs.cmu.edu/~amulet/papers/commandsbydemo.pdf)
 
 ![](assets/images/2021-02-11-15-39-10.png)
 
@@ -53,4 +55,3 @@ What even is a program? You can make great Smalltalk ([[projects.system-archaeol
 ![](assets/images/2021-02-11-22-59-30.png)
 
 - [Mondrian: A Teachable Graphical Editor](https://web.media.mit.edu/~lieber/Lieberary/Mondrian/Mondrian.html)
-
