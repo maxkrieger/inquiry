@@ -2,7 +2,7 @@
 id: 1d0d9bf0-f059-476a-842a-0dc747ec2b85
 title: Better Meetings
 desc: null
-updated: 1615482779853
+updated: 1617910494187
 modified: 2021-03-20T00:44:54-04:00
 ---
 
@@ -16,3 +16,9 @@ What a saturated place to inquire about. I'd like to examine non-generic meeting
 - ["Design docs are one of my favourite things about software engineering"](https://news.ycombinator.com/item?id=23916134)
 - https://www.tandfonline.com/doi/abs/10.1207/s15324834basp1201_1
 - https://increment.com/remote/remote-record-keeping/
+
+Andy Matuschak on ["listening for enablement"](https://andymatuschak.org/2020/):
+
+> But if you’re doing something original, the most interesting aspects are the ones which others—and you!—understand least well. Particularly early on, you may not be able to articulate the new element you’re reaching for very clearly. It may just sound like an unusual adverb choice or an innocuous-seeming qualifier. Others’ replies will tend to emphasize the most mainstream elements, since they may not notice or know how to react to the aspects you least understand. Such conversation will often drag you back towards the mainstream. It’s a kind of “regression to the mean” for ideas.
+
+> Great colleagues and collaborators can take more active steps to mitigate the issue. For instance, if Michael hears me talking about some idea that seems fairly banal on the surface, he’ll deliberately tug at the vague spots where I’m straining to reach past typical interpretations. This was part of a broader practice he called “listening for enablement.” My Khan Academy research colleague May-Li Khoe would respond to my poorly-understood ideas by riffing in unpredictable directions. Her sketches would often explore wildly different paths, but those vivid reactions often helped me understand my own inklings better. Unfortunately, I’m not yet sure how to avoid the regression problem when discussing ideas regularly with a broad audience.
