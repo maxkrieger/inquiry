@@ -2,7 +2,7 @@
 id: f6c2e8d9-c1cb-4f38-bae8-cf7a0766d98e
 title: Exploding PDFs
 desc: null
-updated: 1618279699565
+updated: 1618280657855
 modified: 2021-03-18T13:35:35-04:00
 ---
 
@@ -20,4 +20,4 @@ Related: [Gerby Project](https://gerby-project.github.io/) - online tag-based vi
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">this is a photo of my study space at this very minute <a href="https://t.co/vOtL6kHxZv">pic.twitter.com/vOtL6kHxZv</a></p>&mdash; Bret Victor (@worrydream) <a href="https://twitter.com/worrydream/status/1058411361661784065?ref_src=twsrc%5Etfw">November 2, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Rob Ochshorn's Americana demo http://rmozone.com/snapshots/2015/05/americanah-720p.mp4
+Rob Ochshorn's Americanah demo http://rmozone.com/snapshots/2015/05/americanah-720p.mp4
