@@ -1,9 +1,9 @@
 ---
 id: 6268810e-ded6-4f30-8601-e3965bbda5d1
 title: Hands Plugin for Graphic Abstractions
-desc: 
+desc: null
 updated: 1616115160979
-modified: 2021-04-12T18:22:36-04:00
+modified: 2021-04-18T19:18:33-04:00
 ---
 
 AKA Manicle.
@@ -48,5 +48,7 @@ Navy-light green gradient
 Magic vibes
 
 Fingers on different layers to show grasping
+
+https://twitter.com/dubroy/status/860558480759021569?s=19
 
 [[theory.materiality]]
