@@ -2,7 +2,7 @@
 id: 966577c7-fe2d-4c81-865e-800113f29cad
 title: Artifacts of the Artificial
 desc: ""
-updated: 1615753226079
+updated: 1619375068721
 created: 1615482779163
 ---
 
@@ -16,6 +16,11 @@ Artifacts of the Artificial was an installation show I made with [Cameron Burges
 One Artifact we made was [Folia](https://a9.io/folia). Try combining the cards together!
 
 ![](assets/images/2021-01-29-02-01-51.png)
+
+[Jacob Haip](https://haiperspace.com/) made a physical version (!!!)
+
+<iframe src="https://player.vimeo.com/video/396850279" width="640" height="1138" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/396850279">Turtle Cards</a> from <a href="https://vimeo.com/user108515692">Jacob Haip</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Cameron and [Maayan Albert](http://www.maayanalbert.com/) also displayed Stamper:
 
