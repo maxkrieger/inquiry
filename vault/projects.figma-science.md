@@ -1,8 +1,8 @@
 ---
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
-desc: 
-updated: 1617767900353
+desc:
+updated: 1619543727872
 modified: 2021-04-07T01:32:52-04:00
 ---
 
@@ -21,6 +21,10 @@ Realtime thinking is important. Beautiful rendering is important.
 There might be a common toolkit that builds figma-like tools and can be turned bespoke for particular domains. Widgets for different kinds of data displays and manipulation. Jupyter/Julia notebook style.
 
 Existing work:
+
+![](/assets/images/2021-04-27-13-15-23.png)
+
+(Benchling)
 
 - [Benchling](https://www.benchling.com/)
 - [HASH](https://hash.ai/)
