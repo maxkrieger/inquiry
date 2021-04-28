@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc:
-updated: 1619543727872
+updated: 1619576915156
 modified: 2021-04-07T01:32:52-04:00
 ---
 
@@ -41,6 +41,8 @@ Existing work:
 "Experiment tracking" is a common theme
 
 What if [open science framework](https://osf.io/) caught up with the times?
+
+[Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
 
 An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 
