@@ -2,7 +2,7 @@
 id: 7b2d9c24-ae42-4d85-972e-6918eee280e9
 title: Destroy Abstraction
 desc: ""
-updated: 1619577417917
+updated: 1619578421412
 created: 1617766715569
 ---
 
@@ -23,6 +23,7 @@ Evanw's [Esbuild](https://esbuild.github.io/faq/#why-is-esbuild-fast):
 - [ESBuild](https://esbuild.github.io/)
 - [Xi Editor](https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html) (RIP?)
 - [Volt](https://volt-app.com/) (and [V language](https://vlang.io/))
+- [Ripcord](https://cancel.fm/ripcord/)
 - [**Playbit**](https://playb.it/) - [podcast episode](https://museapp.com/podcast/27-playful-software/)
 - [Nova](https://nova.app/) - no Vim emulation? wtf!
 - [Neovim?](https://neovim.io/)
