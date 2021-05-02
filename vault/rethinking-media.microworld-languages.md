@@ -3,7 +3,7 @@ id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
 updated: 1617896843821
-modified: 2021-04-01T19:15:49-04:00
+modified: 2021-05-02T01:16:26-04:00
 ---
 
 ![](assets/images/2021-01-29-01-33-20.png)
@@ -43,6 +43,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [Logic & Proof in Lean](https://leanprover.github.io/logic_and_proof/)
 - [PyZX](https://pyzx.readthedocs.io/en/latest/)
 - [Turtles Termites and Traffic Jams](https://mitpress.mit.edu/books/turtles-termites-and-traffic-jams)
+- https://www.pseudorandom.com/implementing-exp
 - [Arend Theorem Prover](https://arend-lang.github.io/) - Cubical Type Theory as an IntelliJ Plugin
 - [Wolfram U](https://www.wolfram.com/wolfram-u/) - learn domains through Mathematica
 - https://github.com/quantumlib/Cirq
