@@ -1,8 +1,8 @@
 ---
 id: 90f43805-4858-4d25-8f51-6dec373f6b2f
 title: System Archaeology Seminar
-desc: 
-updated: 1615591066601
+desc:
+updated: 1620018890998
 modified: 2021-04-13T14:18:29-04:00
 ---
 
@@ -131,6 +131,8 @@ Most of these, I later discovered, are a mere subset of Jonathan Edwards' formid
 <https://macintoshgarden.org/apps/science-math?page=2>
 
 Would it be on Hyperlink.academy?
+
+- [Yoshiki Ohshima's VPRI Archive](https://tinlizzie.org/IA/index.php/Intelligent_Archive) and [channel](https://www.youtube.com/channel/UCkdJ2NwjI8LcgyvfU7PyaVA)
 
 - [**Archaeology of CAD**](http://dcardo.com/projects/archaeology_of_cad/index.html)
 
