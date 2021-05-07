@@ -2,9 +2,13 @@
 id: 2076f944-b97b-4241-b44d-07737c3e7257
 title: Reading, Together
 desc: null
-updated: 1615482779854
+updated: 1620357540026
 modified: 2021-04-12T20:00:27-04:00
 ---
+
+![](/assets/images/2021-05-06-23-18-52.png)
+
+https://commons.wikimedia.org/wiki/File:George_Leite_and_Ana%C3%AFs_Nin_at_daliel%27s_bookstore_in_Berkeley,_CA,_1946.jpg
 
 <http://jsomers.net/blog/book-clubs>
 
@@ -30,7 +34,7 @@ Moodboarding
 
 https://play.google.com/store/apps/details?id=com.theophrast.chromecastapps.castpdfreader
 
-> I got emails from couples, saying that reading my blog together once a week was their romantic bonding activity. 
+> I got emails from couples, saying that reading my blog together once a week was their romantic bonding activity.
 
 https://astralcodexten.substack.com/p/still-alive
 
