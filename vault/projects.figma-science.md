@@ -1,9 +1,9 @@
 ---
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
-desc:
+desc: null
 updated: 1619576915156
-modified: 2021-04-07T01:32:52-04:00
+modified: 2021-05-04T14:11:58-04:00
 ---
 
 ![](/assets/images/2021-04-06-23-36-23.png)
@@ -57,6 +57,7 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 - [Praat](https://www.fon.hum.uva.nl/praat/)
 - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
 - [CellPAINT](https://ccsb.scripps.edu/cellpaint/)
+- https://surfer.nmr.mgh.harvard.edu/
 
 ## [[DSP Notebook|projects.figma-science.dsp-notebook]]
 
