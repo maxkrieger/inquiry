@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
-updated: 1619576915156
+updated: 1620684171623
 modified: 2021-05-04T14:11:58-04:00
 ---
 
@@ -56,6 +56,7 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 - [Gelbox](http://douglaslab.org/gelbox/)
 - [Praat](https://www.fon.hum.uva.nl/praat/)
 - [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
+- [SimBrain](https://www.simbrain.net/Documentation/docs/SimbrainDocs.html)
 - [CellPAINT](https://ccsb.scripps.edu/cellpaint/)
 - https://surfer.nmr.mgh.harvard.edu/
 
