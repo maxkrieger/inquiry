@@ -3,7 +3,7 @@ id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
 updated: 1620684171623
-modified: 2021-05-04T14:11:58-04:00
+modified: 2021-05-18T01:10:41-07:00
 ---
 
 ![](/assets/images/2021-04-06-23-36-23.png)
@@ -39,6 +39,8 @@ Existing work:
 (Biodock)
 
 "Experiment tracking" is a common theme
+
+https://twitter.com/tomasfiers/status/1010580586208153600?s=21
 
 What if [open science framework](https://osf.io/) caught up with the times?
 
