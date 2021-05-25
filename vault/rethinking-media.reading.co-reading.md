@@ -3,7 +3,7 @@ id: 2076f944-b97b-4241-b44d-07737c3e7257
 title: Reading, Together
 desc: null
 updated: 1620357540026
-modified: 2021-04-12T20:00:27-04:00
+modified: 2021-05-24T23:47:43-07:00
 ---
 
 ![](/assets/images/2021-05-06-23-18-52.png)
@@ -39,3 +39,6 @@ https://play.google.com/store/apps/details?id=com.theophrast.chromecastapps.cast
 https://astralcodexten.substack.com/p/still-alive
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is amazing — open syllabus designed around Halt and Catch Fire + early tech industry / internet history<br><br>Idea = &quot;watching club&quot; + discussion group on tech origins, impacts, ethics, possibilities (maybe on <a href="https://twitter.com/hyperlink_a?ref_src=twsrc%5Etfw">@hyperlink_a</a> ?!)<br><br>Includes readings, prompts…even RFCs to read! <a href="https://t.co/K8m3qa2oZf">https://t.co/K8m3qa2oZf</a></p>&mdash; Brendan Schlagel (@schlagetown) <a href="https://twitter.com/schlagetown/status/1352707289036304387?ref_src=twsrc%5Etfw">January 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Lucy Keer’s “speedruns” of topics
