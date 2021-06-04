@@ -3,7 +3,7 @@ id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
 updated: 1617896843821
-modified: 2021-06-01T23:50:26-07:00
+modified: 2021-06-04T00:46:22-07:00
 ---
 
 ![](assets/images/2021-01-29-01-33-20.png)
@@ -64,6 +64,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [Modeling Game Theory in Haskell - HAGL](http://web.engr.oregonstate.edu/~walkiner/projects/hagl.html)
 - [Exploring Mathematics with your Computer](https://www.google.com/books/edition/Exploring_Mathematics_with_your_Computer/efUpQgAACAAJ?hl=en)
 - https://imadr.github.io/rotations-with-quaternions/
+- Norvig’s pytudes https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb
 
 Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)
 
