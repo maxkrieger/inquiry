@@ -3,7 +3,7 @@ id: 1d0d9bf0-f059-476a-842a-0dc747ec2b85
 title: Better Meetings
 desc: null
 updated: 1617910494187
-modified: 2021-04-14T17:49:51-04:00
+modified: 2021-06-06T19:25:32-07:00
 ---
 
 What a saturated place to inquire about. I'd like to examine non-generic meetings with discussions that go heavily into domain specific problems.
@@ -24,3 +24,5 @@ Andy Matuschak on ["listening for enablement"](https://andymatuschak.org/2020/):
 > Great colleagues and collaborators can take more active steps to mitigate the issue. For instance, if Michael hears me talking about some idea that seems fairly banal on the surface, he’ll deliberately tug at the vague spots where I’m straining to reach past typical interpretations. This was part of a broader practice he called “listening for enablement.” My Khan Academy research colleague May-Li Khoe would respond to my poorly-understood ideas by riffing in unpredictable directions. Her sketches would often explore wildly different paths, but those vivid reactions often helped me understand my own inklings better. Unfortunately, I’m not yet sure how to avoid the regression problem when discussing ideas regularly with a broad audience.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Talk about anything with anyone and have a system that is an active participant in molding all of that information into docs, processes, automations, even apps and products. How cool would it be to have the design doc _be_ the working prototype?</p>&mdash; Chris Granger (@ibdknox) <a href="https://twitter.com/ibdknox/status/1357770667408588802?ref_src=twsrc%5Etfw">February 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+http://kvark.github.io/tech/arguments/2020/06/30/technical-discussions.html
