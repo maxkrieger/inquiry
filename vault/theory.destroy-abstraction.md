@@ -1,9 +1,9 @@
 ---
 id: 7b2d9c24-ae42-4d85-972e-6918eee280e9
 title: Destroy Abstraction
-desc: 
+desc: null
 updated: 1619578421412
-modified: 2021-06-27T18:08:06-07:00
+modified: 2021-06-27T18:08:09-07:00
 ---
 
 _Re-bootstrapping your way to freedom_
