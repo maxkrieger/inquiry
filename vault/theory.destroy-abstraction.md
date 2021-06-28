@@ -1,9 +1,9 @@
 ---
 id: 7b2d9c24-ae42-4d85-972e-6918eee280e9
 title: Destroy Abstraction
-desc: ""
+desc: 
 updated: 1619578421412
-created: 1617766715569
+modified: 2021-06-27T18:08:06-07:00
 ---
 
 _Re-bootstrapping your way to freedom_
@@ -27,6 +27,7 @@ Evanw's [Esbuild](https://esbuild.github.io/faq/#why-is-esbuild-fast):
 - [**Playbit**](https://playb.it/) - [podcast episode](https://museapp.com/podcast/27-playful-software/)
 - [Nova](https://nova.app/) - no Vim emulation? wtf!
 - [Neovim?](https://neovim.io/)
+- Raft (vs Paxos)
 
 **Observation**: Rewrites of large systems by tiny teams are powerful. Conway's law and all that.
 
