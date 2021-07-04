@@ -1,9 +1,9 @@
 ---
 id: 90f43805-4858-4d25-8f51-6dec373f6b2f
 title: System Archaeology Seminar
-desc:
+desc: null
 updated: 1620018890998
-modified: 2021-04-13T14:18:29-04:00
+modified: 2021-06-11T22:25:36-07:00
 ---
 
 Old authoring systems have a more holistic/comfy feel because they _were_ the system, not the app.
@@ -113,6 +113,8 @@ Most of these, I later discovered, are a mere subset of Jonathan Edwards' formid
 - [Boxer](https://web.media.mit.edu/~mres/papers/boxer.pdf)
 
 - [Alice Pascal](https://www.templetons.com/brad/alice.html)
+
+- Kansas https://web.media.mit.edu/~lieber/Lieberary/Softviz/CACM-Debugging/Kansas/Kansas.html
 
 ![](assets/images/2021-02-11-22-56-46.png)
 
