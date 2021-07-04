@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
-updated: 1622247938999
+updated: 1622248417787
 modified: 2021-05-04T14:11:58-04:00
 ---
 
@@ -45,6 +45,8 @@ https://twitter.com/tomasfiers/status/1010580586208153600?s=21
 What if [open science framework](https://osf.io/) caught up with the times?
 
 [Journal of Open Research Software](https://openresearchsoftware.metajnl.com/)
+
+[Data to Discovery](https://datavis.caltech.edu/)
 
 An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 

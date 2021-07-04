@@ -1,18 +1,27 @@
 version: 1
 vaults:
-  - fsPath: vault
+    -
+        fsPath: vault
 useFMTitle: true
 site:
-  copyAssets: true
-  siteHierarchies:
-    - root
-  siteRootDir: docs
-  usePrettyRefs: true
-  title: Max's Inquiry
-  description: max's inquiry wiki
-  siteUrl: https://a9.io
-  assetsPrefix: inquiry
-  duplicateNoteBehavior:
-    action: useVault
-    payload:
-      - vault
+    copyAssets: true
+    siteHierarchies:
+        - root
+    siteRootDir: docs
+    usePrettyRefs: true
+    title: Max's Inquiry
+    description: max's inquiry wiki
+    siteUrl: 'https://a9.io'
+    assetsPrefix: inquiry
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - vault
+initializeRemoteVaults: true
+journal:
+    dailyDomain: daily
+    name: journal
+    dateFormat: y.MM.dd
+    addBehavior: childOfDomain
+    firstDayOfWeek: 1
+dendronVersion: 0.48.1

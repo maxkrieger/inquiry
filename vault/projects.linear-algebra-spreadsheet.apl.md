@@ -2,7 +2,7 @@
 id: d1e990fb-a3a1-4bd9-aa5d-ca30a97070cd
 title: APL Is Really Cool
 desc: ""
-updated: 1618340197337
+updated: 1625441400361
 created: 1615488121325
 ---
 
@@ -34,3 +34,5 @@ from [Building J from source](https://stranded.io/2019/12/29/building-j-from-sou
 - [april](https://github.com/phantomics/april) - lisp APL
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">131 games for your Superbrain <a href="http://t.co/x5IkTA2anI">pic.twitter.com/x5IkTA2anI</a></p>&mdash; Exciting Books (@excitingbooks) <a href="https://twitter.com/excitingbooks/status/453795609640579072?ref_src=twsrc%5Etfw">April 9, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+- https://jhupbooks.press.jhu.edu/title/chinese-roots-linear-algebra
