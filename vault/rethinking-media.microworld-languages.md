@@ -2,7 +2,7 @@
 id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
-updated: 1617896843821
+updated: 1625724815677
 modified: 2021-06-04T00:46:22-07:00
 ---
 
@@ -46,6 +46,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - https://www.pseudorandom.com/implementing-exp
 - [Arend Theorem Prover](https://arend-lang.github.io/) - Cubical Type Theory as an IntelliJ Plugin
 - [Wolfram U](https://www.wolfram.com/wolfram-u/) - learn domains through Mathematica
+  - [Mathematica DeMYSTiFied](https://www.google.com/books/edition/Mathematica_DeMYSTiFied/TQ_kbfahHewC?hl=en)
 - https://github.com/quantumlib/Cirq
 - https://github.com/SciML/Catalyst.jl
 - [Sagemath Interactions](https://wiki.sagemath.org/interact) - some explorables with Sagemath
