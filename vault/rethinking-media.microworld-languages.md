@@ -3,7 +3,7 @@ id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
 updated: 1625724815677
-modified: 2021-07-13T11:39:30-07:00
+modified: 2021-07-13T11:40:43-07:00
 ---
 
 ![](assets/images/2021-01-29-01-33-20.png)
@@ -93,4 +93,4 @@ Note: I'm neglecting tons of python stuff. Probably because I think type systems
 
 #### Group theory
 
-What would an algebraic environment look like? How would I encode and play with The Circle Group?
+What would an algebraic environment look like? How would I encode and play with the circle group? The monster group? https://en.wikipedia.org/wiki/Circle_group
