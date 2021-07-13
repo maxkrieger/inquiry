@@ -3,7 +3,7 @@ id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
 updated: 1625724815677
-modified: 2021-06-04T00:46:22-07:00
+modified: 2021-07-13T11:39:30-07:00
 ---
 
 ![](assets/images/2021-01-29-01-33-20.png)
@@ -90,3 +90,7 @@ Note: I'm neglecting tons of python stuff. Probably because I think type systems
 - Robin Sloan - The Secret of Minecraft https://medium.com/message/the-secret-of-minecraft-97dfacb05a3c
   - > Imagine yourself a child. Imagine yourself given one of these books: not merely a story of exploration and adventure, but a manual to such.
   - > Imagine yourself a child, in possession of the secret knowledge.
+
+#### Group theory
+
+What would an algebraic environment look like? How would I encode and play with The Circle Group?
