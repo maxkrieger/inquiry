@@ -2,7 +2,7 @@
 id: VFWxfyhcy5tL5311
 title: The Virtues and Sorrows of Rapid Prototyping
 desc: ""
-updated: 1626841744665
+updated: 1626841963171
 created: 1626841435009
 ---
 
@@ -17,6 +17,11 @@ Before Eve fizzled out, it made many [rapid prototypes](https://futureofcoding.o
 ## Sokpop Games
 
 [Sokpop](https://sokpop.co/) _prototypes as a virtue_. All of their games are small and incomplete but explore ambitious ideas. All of them are seedlings that could hatch into blockbusters. Their [Patreon](https://www.patreon.com/sokpop) is currently supporting monthly game-prototypes, all playable.
+
+I'm particularly enamored by Sokpop because they:
+
+- Explore new interaction paradigms casually. The games often explore fundamental new modes of interaction and bend genres.
+- Are aesthetically innovative. All the sokpop games are gorgeous and have a distinctive "house style". Prototypes are a way to whittle in house style!
 
 ## Creative Selection
 
