@@ -3,7 +3,7 @@ id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
 updated: 1615591056413
-modified: 2021-03-23T15:35:40-04:00
+modified: 2021-07-21T23:07:24-07:00
 ---
 
 _Thanks to Garth Goldwater for a lot of the ideas here_
@@ -101,3 +101,5 @@ Every right click transformation (eg transpose, get eigens) is not in-place but 
 - The semantics of Linear Algebra are pretty well-defined I think? That's why it's an algebra, right?
 - I want to do casual mathematics
 - Linear Algebra can model a lot of other domains of math. Not to mention it's pretty useful for physics. So maybe the interface paradigm can be juiced into domain-specific applications ([[theory.juicing]], [[theory.bottom-up]]).
+
+https://arxiv.org/abs/1702.02131
