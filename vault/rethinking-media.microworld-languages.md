@@ -3,7 +3,7 @@ id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
 updated: 1625724815677
-modified: 2021-07-22T15:02:43-07:00
+modified: 2021-08-19T01:04:23-07:00
 ---
 
 ![](assets/images/2021-01-29-01-33-20.png)
@@ -69,6 +69,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [Exploring Mathematics with your Computer](https://www.google.com/books/edition/Exploring_Mathematics_with_your_Computer/efUpQgAACAAJ?hl=en)
 - https://imadr.github.io/rotations-with-quaternions/
 - Norvig’s pytudes https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb
+- Annotated implementations of ML papers  https://github.com/labmlai/annotated_deep_learning_paper_implementations
 
 Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)
 
