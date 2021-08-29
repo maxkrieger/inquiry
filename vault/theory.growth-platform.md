@@ -1,8 +1,8 @@
 ---
 id: 1cbfd56c-79a9-4ba9-a088-3f5a1f56b10a
 title: TikTok & Youtube as a means of platform growth
-desc: 
-updated: 1630272648
+desc: null
+updated: 1630272651
 created: 1615855941801
 ---
 
