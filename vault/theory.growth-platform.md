@@ -1,8 +1,8 @@
 ---
 id: 1cbfd56c-79a9-4ba9-a088-3f5a1f56b10a
 title: TikTok & Youtube as a means of platform growth
-desc: ""
-updated: 1615867415183
+desc: 
+updated: 1630272648
 created: 1615855941801
 ---
 
@@ -15,3 +15,5 @@ Sebastian Lague made a [bespoke interactive tool](https://sebastian.itch.io/digi
 3blue1brown made manim, which was quickly adopted by the community and enabled a lot of creators' careers.
 
 Make videos on general topics (how to do x) that are done with the tool. Kapwing's SEO strategy was similar.
+
+NotionToks https://twitter.com/maxkriegers/status/1353094774279065600?s=21
