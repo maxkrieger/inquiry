@@ -3,7 +3,7 @@ id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
 updated: 1615591056413
-modified: 2021-07-21T23:07:24-07:00
+modified: 2021-08-30T13:58:37-07:00
 ---
 
 _Thanks to Garth Goldwater for a lot of the ideas here_
@@ -103,3 +103,6 @@ Every right click transformation (eg transpose, get eigens) is not in-place but 
 - Linear Algebra can model a lot of other domains of math. Not to mention it's pretty useful for physics. So maybe the interface paradigm can be juiced into domain-specific applications ([[theory.juicing]], [[theory.bottom-up]]).
 
 https://arxiv.org/abs/1702.02131
+
+
+https://jhupbooks.press.jhu.edu/title/chinese-roots-linear-algebra
