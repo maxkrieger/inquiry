@@ -1,9 +1,9 @@
 ---
 id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
-desc: 
+desc: null
 updated: 1615482779855
-modified: 2021-04-12T18:36:29-04:00
+modified: 2021-08-31T22:49:32-07:00
 ---
 
 Programming semantics are well-studied. What about direct manipulation semantics? Can they be [in bijection](https://twitter.com/sliminality/status/1227791682038452225)?
@@ -55,3 +55,6 @@ What even is a program? You can make great Smalltalk ([[projects.system-archaeol
 ![](assets/images/2021-02-11-22-59-30.png)
 
 - [Mondrian: A Teachable Graphical Editor](https://web.media.mit.edu/~lieber/Lieberary/Mondrian/Mondrian.html)
+
+
+https://observablehq.com/@observablehq/data-wrangler
