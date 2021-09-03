@@ -3,7 +3,7 @@ id: 90f43805-4858-4d25-8f51-6dec373f6b2f
 title: System Archaeology Seminar
 desc: null
 updated: 1620018890998
-modified: 2021-06-11T22:25:36-07:00
+modified: 2021-09-02T23:04:50-07:00
 ---
 
 Old authoring systems have a more holistic/comfy feel because they _were_ the system, not the app.
@@ -115,6 +115,8 @@ Most of these, I later discovered, are a mere subset of Jonathan Edwards' formid
 - [Alice Pascal](https://www.templetons.com/brad/alice.html)
 
 - Kansas https://web.media.mit.edu/~lieber/Lieberary/Softviz/CACM-Debugging/Kansas/Kansas.html
+
+- https://www.semanticscholar.org/paper/Pygmalion%3A-a-creative-programming-environment.-Smith/0b6d3a09caf68a6ad0c04fa35698e13bcd6bbcd5
 
 ![](assets/images/2021-02-11-22-56-46.png)
 
