@@ -3,7 +3,7 @@ id: 90f43805-4858-4d25-8f51-6dec373f6b2f
 title: System Archaeology Seminar
 desc: null
 updated: 1620018890998
-modified: 2021-09-02T23:04:50-07:00
+modified: 2021-09-02T23:06:26-07:00
 ---
 
 Old authoring systems have a more holistic/comfy feel because they _were_ the system, not the app.
@@ -69,6 +69,8 @@ Most of these, I later discovered, are a mere subset of Jonathan Edwards' formid
 ![](assets/images/2021-02-01-17-22-16.png)
 
 - [Cedar, Mesa, Tioga](https://www.youtube.com/watch?v=z_dt7NG38V4)
+
+- https://www.semanticscholar.org/paper/Creating-highly-interactive-and-graphical-user-by-Myers-Buxton/d064519e4be2b1c1fe9c3b3689b9fbff99187fca
 
   - [Cedar Glossary](http://www.bitsavers.org/pdf/xerox/parc/cedar/Cedar_7.0/02_A_Glossary_of_Terms_Subsystems_Directories_and_Files_May1987.pdf)
 
