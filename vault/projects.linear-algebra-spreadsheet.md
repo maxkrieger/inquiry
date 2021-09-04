@@ -3,7 +3,7 @@ id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
 updated: 1615591056413
-modified: 2021-09-02T17:15:49-07:00
+modified: 2021-09-03T18:11:17-07:00
 ---
 
 _Thanks to Garth Goldwater for a lot of the ideas here_
@@ -107,5 +107,6 @@ https://arxiv.org/abs/1702.02131
 
 https://jhupbooks.press.jhu.edu/title/chinese-roots-linear-algebra
 
+https://www.goodreads.com/book/show/2448489
 
  https://github.com/Timwi/HexagonyColorer
