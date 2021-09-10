@@ -3,7 +3,7 @@ id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
 desc: null
 updated: 1615482779855
-modified: 2021-08-31T22:49:32-07:00
+modified: 2021-09-10T01:45:18-07:00
 ---
 
 Programming semantics are well-studied. What about direct manipulation semantics? Can they be [in bijection](https://twitter.com/sliminality/status/1227791682038452225)?
@@ -58,3 +58,6 @@ What even is a program? You can make great Smalltalk ([[projects.system-archaeol
 
 
 https://observablehq.com/@observablehq/data-wrangler
+
+
+https://twitter.com/andy_matuschak/status/1435772997155971073?s=21
