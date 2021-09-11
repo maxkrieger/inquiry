@@ -3,7 +3,7 @@ id: 90f43805-4858-4d25-8f51-6dec373f6b2f
 title: System Archaeology Seminar
 desc: null
 updated: 1620018890998
-modified: 2021-09-02T23:06:26-07:00
+modified: 2021-09-10T23:43:23-07:00
 ---
 
 Old authoring systems have a more holistic/comfy feel because they _were_ the system, not the app.
@@ -50,6 +50,8 @@ Most of these, I later discovered, are a mere subset of Jonathan Edwards' formid
 ![](assets/images/2021-02-01-16-06-06.png)
 
 - [Apple Dylan](https://opendylan.org/history/apple-dylan/screenshots/)
+
+- https://en.wikipedia.org/wiki/Genera_(operating_system)
 
 - [HyperTIES](http://www.cs.umd.edu/hcil/hyperties/)
 
