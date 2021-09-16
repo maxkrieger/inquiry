@@ -2,7 +2,7 @@
 id: 2076f944-b97b-4241-b44d-07737c3e7257
 title: Reading, Together
 desc: null
-updated: 1620357540026
+updated: 1631777870247
 modified: 2021-05-24T23:47:43-07:00
 ---
 
@@ -40,5 +40,6 @@ https://astralcodexten.substack.com/p/still-alive
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is amazing — open syllabus designed around Halt and Catch Fire + early tech industry / internet history<br><br>Idea = &quot;watching club&quot; + discussion group on tech origins, impacts, ethics, possibilities (maybe on <a href="https://twitter.com/hyperlink_a?ref_src=twsrc%5Etfw">@hyperlink_a</a> ?!)<br><br>Includes readings, prompts…even RFCs to read! <a href="https://t.co/K8m3qa2oZf">https://t.co/K8m3qa2oZf</a></p>&mdash; Brendan Schlagel (@schlagetown) <a href="https://twitter.com/schlagetown/status/1352707289036304387?ref_src=twsrc%5Etfw">January 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
 Lucy Keer’s “speedruns” of topics
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reminds me of Kay’s story in Early History of Smalltalk about unrolling the Simula program listing down the hall and crawling over it with a second person. If that’s what we needed to understand systems of 1960s complexity, what hope do we have using small text windows today? <a href="https://t.co/Wbkz4IJtmu">https://t.co/Wbkz4IJtmu</a></p>&mdash; Benjamin Schroeder (@bvschroeder) <a href="https://twitter.com/bvschroeder/status/1438401844976525312?ref_src=twsrc%5Etfw">September 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
