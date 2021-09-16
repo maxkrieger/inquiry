@@ -3,7 +3,7 @@ id: 7b2d9c24-ae42-4d85-972e-6918eee280e9
 title: Destroy Abstraction
 desc: null
 updated: 1619578421412
-modified: 2021-06-27T18:08:09-07:00
+modified: 2021-08-30T14:55:38-07:00
 ---
 
 _Re-bootstrapping your way to freedom_
@@ -33,6 +33,8 @@ Evanw's [Esbuild](https://esbuild.github.io/faq/#why-is-esbuild-fast):
 
 In general, if something's rewritten in Go or Rust, it's probably faster. Not necessarily because the language is faster (Go is garbage collected!) but because the languages provide the clarity of thought needed to redesign a system, safely, from scratch.
 
+Great counterpoint to this: Joel Spolsky calls rewrites a “[thing you should never do](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)” because code is not a physical object. It doesn’t get rusty or get clean. While you might have more clarity the second time around, you won’t necessarily have fewer bugs or time consumed. There’s no a priori reason rewrites are good, it’s mostly aesthetic.
+
 ## What about virtualization?
 
 JVM, Graal, Flutter/WASM??
@@ -44,5 +46,6 @@ See also [[projects.linux-desktop]]
 Dart, Vala, Kotlin
 
 [Lunatic](https://lunatic.solutions/): an Erlang-inspired runtime for WebAssembly
+
 
 [[theory.bottom-up]]

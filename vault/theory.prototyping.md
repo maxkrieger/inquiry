@@ -1,9 +1,10 @@
 ---
 id: VFWxfyhcy5tL5311
 title: The Virtues and Sorrows of Rapid Prototyping
-desc: ""
-updated: 1626841963171
+desc: 
+updated: 1630487420
 created: 1626841435009
+type: Journal
 ---
 
 To prototype fast or slow? There are plenty of better reflections on this I haven't looked into.

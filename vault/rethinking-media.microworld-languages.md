@@ -3,7 +3,7 @@ id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
 updated: 1625724815677
-modified: 2021-07-19T22:49:41-07:00
+modified: 2021-09-01T20:00:00-07:00
 ---
 
 ![](assets/images/2021-01-29-01-33-20.png)
@@ -26,7 +26,9 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
   - [Math 229 Projects](http://mth229.github.io/) (College of Staten Island course on calculus with julia)
 - [Statistics with Julia](https://statisticswithjulia.org/)
 - [Computational thinking (modeling) with Julia](https://computationalthinking.mit.edu/Fall20/)
+  - https://computationalthinking.mit.edu/Spring21/
 - [Designing Sound](https://mitpress.mit.edu/books/designing-sound) (with Pd)
+- https://jpreston.xyz/a-catalogue-of-chords-example.html
 - [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics) (in Scheme)
 - [Functional Differential Geometry](https://mitpress.mit.edu/books/functional-differential-geometry) (in Scheme)
 - [Qiskit](https://github.com/Qiskit/qiskit/)
@@ -68,6 +70,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [Exploring Mathematics with your Computer](https://www.google.com/books/edition/Exploring_Mathematics_with_your_Computer/efUpQgAACAAJ?hl=en)
 - https://imadr.github.io/rotations-with-quaternions/
 - Norvig’s pytudes https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb
+- Annotated implementations of ML papers  https://github.com/labmlai/annotated_deep_learning_paper_implementations
 
 Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)
 
