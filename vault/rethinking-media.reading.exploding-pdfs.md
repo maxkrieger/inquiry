@@ -3,7 +3,7 @@ id: f6c2e8d9-c1cb-4f38-bae8-cf7a0766d98e
 title: Exploding PDFs
 desc: null
 updated: 1618280657855
-modified: 2021-04-14T19:01:41-04:00
+modified: 2021-09-17T23:03:51-07:00
 ---
 
 LaTeX PDFs are made of blocks. The source code is often available for arXiv preprints.
@@ -23,3 +23,8 @@ Related: [Gerby Project](https://gerby-project.github.io/) - online tag-based vi
 Rob Ochshorn's Americanah demo http://rmozone.com/snapshots/2015/05/americanah-720p.mp4
 
 https://twitter.com/neuralreckoning/status/1382102400031412229?s=19
+   https://twitter.com/neuralreckoning/status/1382102415441338369?s=21
+
+Pandoc
+
+https://shreevatsa.net/mobius-print/
