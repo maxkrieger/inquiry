@@ -3,7 +3,7 @@ id: 0aef5fe2-318f-4960-9a4b-51c7a5f39624
 title: Writing as evocation
 desc: null
 updated: 1615482779854
-modified: 2021-04-03T14:02:13-04:00
+modified: 2021-09-21T15:51:04-07:00
 ---
 
 > Sometimes when people say things to me, I picture their sentences diagrammed on a blackboard, with soft gossamer trails of hidden meaning streaming out beneath, like a bubble wand dipped into solution and dragged across its underbelly.
@@ -21,3 +21,5 @@ https://mobile.twitter.com/aaronzlewis/status/1216818302011478018
 > The thing I like about writing is that it’s quite literally thinking—***a way for me access my own interiority and construct something from it***. What I write is all mine, it’s a living thing, it’s an extension of me that wanders out into the world. It is desire turned inwards instead of outwards, focused instead of displaced. It’s a way to access self-knowledge and self-respect.
 
 https://ava.substack.com/p/how-to-avoid-half-heartedness
+
+ https://notes.andymatuschak.org/z8q1K5a8i95qARkpFwS45qqtQzM8th82TkeUg
