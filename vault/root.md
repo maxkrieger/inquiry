@@ -12,7 +12,7 @@ It was made with [Dendron](https://dendron.so).
 
 Take everything I write here (well, everywhere) with a grain of salt. That said I'm always happy to talk about anything on here.
 
-The pages definitely don't adhere to [Andy's Evergreen Notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) pattern.
+The pages definitely don't adhere to [Andy's Evergreen Notes](https://notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) pattern, I hope one day they do.
 
 Feel free to add [a PR or issue to the repo](https://github.com/maxkrieger/inquiry) to discuss any of these in public!
 
