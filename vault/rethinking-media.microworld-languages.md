@@ -3,7 +3,7 @@ id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
 updated: 1625724815677
-modified: 2021-09-01T20:00:00-07:00
+modified: 2021-09-25T21:21:48-07:00
 ---
 
 ![](assets/images/2021-01-29-01-33-20.png)
@@ -43,6 +43,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
   - [Edward](http://edwardlib.org/)
   - [Probabilistic Models of Cognition](https://probmods.org/) (taught with WebPPL, a probabilistic programming language)
   - Statistical Rethinking
+  - https://epirhandbook.com/
 - [Xena Project](https://wwwf.imperial.ac.uk/~buzzard/xena/) (check their Lean "Natural Number Game")
 - [Logic & Proof in Lean](https://leanprover.github.io/logic_and_proof/)
 - [PyZX](https://pyzx.readthedocs.io/en/latest/)
