@@ -3,7 +3,7 @@ id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
 updated: 1615591056413
-modified: 2021-09-23T22:31:54-07:00
+modified: 2021-09-27T23:46:22-07:00
 ---
 
 _Thanks to Garth Goldwater for a lot of the ideas here_
@@ -81,6 +81,7 @@ One subproject ([[theory.subprojecting]]) is not APL, but some CAS matrix toy - 
 - ["Verb-noun vs noun-verb"](https://mobile.twitter.com/tophtucker/status/1278184444428529665?s=19)
 - [Thoughts on how to find alternate algebra-like systems](https://westoncb.blogspot.com/2017/10/thoughts-on-how-to-find-alternate.html)
 - [Named tensor notation](https://namedtensor.github.io/)
+- https://github.com/amzn/computer-vision-basics-in-microsoft-excel
 
 Every right click transformation (eg transpose, get eigens) is not in-place but is placed somewhere else in space, immutable copy, like Paul Shen's systems.
 
