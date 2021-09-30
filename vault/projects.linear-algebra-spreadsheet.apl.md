@@ -2,7 +2,7 @@
 id: d1e990fb-a3a1-4bd9-aa5d-ca30a97070cd
 title: APL Is Really Cool
 desc: null
-updated: 1630555125
+updated: 1632984466
 created: 1615488121325
 ---
 
@@ -41,3 +41,6 @@ https://twitter.com/conaw/status/1431359651782692864?s=21
 https://datakinds.github.io//2020/03/15/modeling-the-coronavirus-outbreak-with-j
 
 https://code.jsoftware.com/wiki/Books
+
+
+https://archive.org/details/mr.-babbages-secret-the-tale-franksen-ole-immanuel/page/273/mode/2up
