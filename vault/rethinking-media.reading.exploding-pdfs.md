@@ -3,7 +3,7 @@ id: f6c2e8d9-c1cb-4f38-bae8-cf7a0766d98e
 title: Exploding PDFs
 desc: null
 updated: 1618280657855
-modified: 2021-09-28T23:47:34-07:00
+modified: 2021-09-29T23:45:25-07:00
 ---
 
 LaTeX PDFs are made of blocks. The source code is often available for arXiv preprints.
@@ -41,3 +41,6 @@ Assemble an easy to cut printout from block selection
 
 
 https://github.com/jsvine/pdfplumber
+
+
+https://datascience.stackexchange.com/a/47980
