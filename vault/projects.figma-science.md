@@ -3,7 +3,7 @@ id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
 updated: 1622248417787
-modified: 2021-10-02T02:11:21-07:00
+modified: 2021-10-02T02:12:00-07:00
 ---
 
 ![](/assets/images/2021-04-06-23-36-23.png)
@@ -76,6 +76,8 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 - https://www.czbiohub.org/technology-platforms/
 - https://mne.tools/stable/index.html
 - https://async.ece.utah.edu/tools/ibiosim/
+
+In general, many domain specific tools are MATLAB plugins.
 
 ## [[DSP Notebook|projects.figma-science.dsp-notebook]]
 
