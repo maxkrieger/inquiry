@@ -2,7 +2,7 @@
 id: f6c2e8d9-c1cb-4f38-bae8-cf7a0766d98e
 title: Exploding PDFs
 desc: null
-updated: 1618280657855
+updated: 1633150803684
 modified: 2021-10-01T12:35:28-07:00
 ---
 
@@ -23,7 +23,7 @@ Related: [Gerby Project](https://gerby-project.github.io/) - online tag-based vi
 Rob Ochshorn's Americanah demo http://rmozone.com/snapshots/2015/05/americanah-720p.mp4
 
 https://twitter.com/neuralreckoning/status/1382102400031412229?s=19
-   https://twitter.com/neuralreckoning/status/1382102415441338369?s=21
+https://twitter.com/neuralreckoning/status/1382102415441338369?s=21
 
 Pandoc
 
@@ -31,23 +31,22 @@ https://shreevatsa.net/mobius-print/
 
 https://mozilla.github.io/pdf.js/
 
-
 https://stackoverflow.com/questions/57249273/how-to-detect-paragraphs-in-a-text-document-image-for-a-non-consistent-text-stru
-
 
 https://github.com/siefkenj/latex-parser
 
 Assemble an easy to cut printout from block selection
 
-
 https://github.com/jsvine/pdfplumber
-
 
 https://datascience.stackexchange.com/a/47980
 
+arXiv vanity
 
-arXiv vanity 
+https://github.com/arxiv-vanity/engrafo
+
+https://dlmf.nist.gov/LaTeXML/
 
 arXiv Figma plug-in
 
-Stickers aesthetic
+"stickers" aesthetic
