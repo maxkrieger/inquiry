@@ -1,8 +1,8 @@
 ---
 id: a18ae428-41e5-4773-8cbb-666009704479
 title: Text is a design tool
-desc: 
-updated: 1633501049
+desc: null
+updated: 1633501062
 created: 1615482779857
 ---
 
@@ -17,7 +17,7 @@ created: 1615482779857
 - Evocative metaphors are a foggy but decent substitute for rich pictures ([[rethinking-media.evocative-writing]])
 
 > The MUSE was, I think, a premonition of Minecraft, with the same sense of open-ended possibility that speaks so powerfully to 14-year-olds today. There was nothing you could imagine that you couldn’t build. ‘A long hall, illuminated by rows of bright torches, with a great throne at one end’ – simple as that. When you bracketed those words with a few simple commands – to create the room, specify its description, link it to other rooms – you had your hall.
-> It was just text, but everything was just text. It was intoxicating
+> It was just text, but everything was just text. It was intoxicating.
 
 https://aeon.co/essays/before-minecraft-or-snapchat-there-was-micromuse
 
