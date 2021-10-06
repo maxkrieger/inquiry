@@ -2,7 +2,7 @@
 id: a18ae428-41e5-4773-8cbb-666009704479
 title: Text is a design tool
 desc: null
-updated: 1633501118
+updated: 1633501487
 created: 1615482779857
 ---
 
@@ -18,6 +18,7 @@ created: 1615482779857
 
 > The MUSE was, I think, a premonition of Minecraft, with the same sense of open-ended possibility that speaks so powerfully to 14-year-olds today. There was nothing you could imagine that you couldn’t build. ‘A long hall, illuminated by rows of bright torches, with a great throne at one end’ – simple as that. When you bracketed those words with a few simple commands – to create the room, specify its description, link it to other rooms – you had your hall.
 > It was just text, but everything was just text. It was intoxicating.
+> … Back in 1994, MicroMUSE’s core argument was: language is all you need. If you can write, it can be real.
 
 https://aeon.co/essays/before-minecraft-or-snapchat-there-was-micromuse
 
