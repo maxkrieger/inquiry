@@ -2,7 +2,7 @@
 id: TWRz8H3xC5xXk6UzQhV5Q
 title: Games for Libraries
 desc: null
-updated: 1633646581
+updated: 1633646824
 created: 1633155360500
 ---
 
@@ -12,6 +12,8 @@ created: 1633155360500
 * The most esoteric / sci-fi sounding book
 * The book with the most magical incantations
 * Best phrase
+* Best diagram
+* Assemble a list of essential knowledge for a hypothetical society
 
 * need to mark book slot locations to put the books back
 
