@@ -2,7 +2,7 @@
 id: TWRz8H3xC5xXk6UzQhV5Q
 title: Games for Libraries
 desc: null
-updated: 1633646233
+updated: 1633646581
 created: 1633155360500
 ---
 
@@ -11,6 +11,9 @@ created: 1633155360500
 * The best book on a shelf/in an aisle
 * The most esoteric / sci-fi sounding book
 * The book with the most magical incantations
+* Best phrase
+
+* need to mark book slot locations to put the books back
 
 
 
