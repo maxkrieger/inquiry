@@ -2,7 +2,7 @@
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
-updated: 1615591056413
+updated: 1633588854006
 modified: 2021-09-27T23:46:22-07:00
 ---
 
@@ -105,11 +105,12 @@ Every right click transformation (eg transpose, get eigens) is not in-place but 
 
 https://arxiv.org/abs/1702.02131
 
-
 https://jhupbooks.press.jhu.edu/title/chinese-roots-linear-algebra
 
 https://www.goodreads.com/book/show/2448489
 
- https://github.com/Timwi/HexagonyColorer
+https://github.com/Timwi/HexagonyColorer
 
-   https://cragl.cs.gmu.edu/iheartla/rethinkingpapers/preprint.pdf
+https://cragl.cs.gmu.edu/iheartla/rethinkingpapers/preprint.pdf
+
+https://twitter.com/anton_hilado/status/1289956291750887424?s=09
