@@ -1,8 +1,8 @@
 ---
 id: 0b4eddd8-c406-43fc-a9b3-897bdd40486f
 title: Morphic for the web
-desc: ""
-updated: 1617765904483
+desc: 
+updated: 1633673175
 created: 1616113980165
 ---
 
@@ -36,5 +36,7 @@ Another system by Randall Smith is [Alternate Reality Kit](https://www.youtube.c
 Also Dan Ingalls' [Lively-Web](https://lively-web.org/), which isn't quite as performant or rich as I'd want - similar to Omar's sentiment on Smalltalk above.
 
 [Vanessa Freudenberg](https://twitter.com/codefrau)/Croquet Team is a good person to talk to about this.
+
+[Object Oriented Drawing](https://haijunxia.ucsd.edu/assets/projects/2016_OOD/object-oriented%20drawing.pdf)
 
 Related: [[projects.system-archaeology]]
