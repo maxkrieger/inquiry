@@ -2,7 +2,7 @@
 id: 7ccc68c9-07ae-4d2d-bc8f-8299dd6f1c5d
 title: GNU/Linux as an environment to prototype desktop environments
 desc: null
-updated: 1633903246423
+updated: 1633903305182
 modified: 2021-09-18T05:14:34-07:00
 ---
 
@@ -19,6 +19,9 @@ Make demand for old laptops by providing a radically different experience from y
 [PaperWM](https://github.com/paperwm/PaperWM) is amazing, thanks to Avi Bryant for the reference
 
 - The stuff hundred rabbits is doing with assembly and chromebooks
+- HaikuOS file system model
+
+- Integrating the filesystem with web browsing
 
 <https://www.hack-computer.com/>
 
