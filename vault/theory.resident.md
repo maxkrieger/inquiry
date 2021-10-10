@@ -1,8 +1,8 @@
 ---
 id: UzCKP637yqfdSpsFfin9x
 title: Becoming a Resident Toolbuilder
-desc: ""
-updated: 1633733100320
+desc: 
+updated: 1633773680
 created: 1633731961384
 ---
 
@@ -19,11 +19,13 @@ In general I'm becoming more biased in favor of building for "hard tech" for urg
 
 I incidentally discovered [Bret Victor considered](https://postlight.com/podcast/computing-is-everywhere) going this route early in his career:
 
-> I saw climate change as this crisis and one of the most important things to work on. And I’d — I’d tried to work directly on that in certain ways and realized that I just didn’t really have the kind of temperment for going really deep on a scientific problem. I was more of a toolmaker. I wanted to make tools that enabled other people to rally other people in the problem [PF mm hmm]. Even before Apple I had come up with this plan of, “Well, I wanna make this really powerful scientific tool. I don’t really know enough of how science is practiced. And so I’m going to like travel around the country, spending a month at a different scie — a different lab um every month. Just kind of offering myself as like, “I’m a free toolmaker, use me how you will.” And then thereby kind of get — get the experience of um after a year of like, “Oh here’s the sorts of needs that scientists have and here is the super tool that I can make.” That plan didn’t really get off the ground because um it turns out I’m not really social enough to reach out to people actively like that.
+> I saw climate change as this crisis and one of the most important things to work on. And I’d — I’d tried to work directly on that in certain ways and realized that I just didn’t really have the kind of temperment for going really deep on a scientific problem. I was more of a toolmaker. I wanted to make tools that enabled other people to rally other people in the problem. Even before Apple I had come up with this plan of, “Well, I wanna make this really powerful scientific tool. I don’t really know enough of how science is practiced. And so I’m going to like travel around the country, spending a month at a different scie — a different lab um every month. Just kind of offering myself as like, “I’m a free toolmaker, use me how you will.” And then thereby kind of get — get the experience of um after a year of like, “Oh here’s the sorts of needs that scientists have and here is the super tool that I can make.” That plan didn’t really get off the ground because um it turns out I’m not really social enough to reach out to people actively like that.
 
-> I went through this period of traveling around and kind of coming up with these themes. But in the process of doing that, I uh — a team of scientists at um at Georgia Tech and um did some prototyping with them. And the structures that I came up with and the enthusiasm that they had for them made me think, kinda go back to that, “Hey, I really wanna make a tool for scientists. I wanna make a new MatLab or a cross between MatLab and Garageband.” [PF Mm hmm] And so that was um I’ve never admitted this publicly before but that was kind of my — my major project for like the next year or two after that was I was making this um this new scientific tool.
+> I went through this period of traveling around and kind of coming up with these themes. But in the process of doing that, I uh — a team of scientists at um at Georgia Tech and um did some prototyping with them. And the structures that I came up with and the enthusiasm that they had for them made me think, kinda go back to that, “Hey, I really wanna make a tool for scientists. I wanna make a new MatLab or a cross between MatLab and Garageband.” And so that was um I’ve never admitted this publicly before but that was kind of my — my major project for like the next year or two after that was I was making this um this new scientific tool.
 
 > It’s hard to have the level of motivation to pull off something really huge like that, if you don’t have the right support structures in place.
+
+https://jsomers.net/i-should-have-loved-biology/
 
 Fun random example: Chaim Gingold & Shawn Douglas's [Gelbox](https://douglaslab.org/gelbox/)
 
