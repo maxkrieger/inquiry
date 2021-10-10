@@ -2,7 +2,7 @@
 id: 7ccc68c9-07ae-4d2d-bc8f-8299dd6f1c5d
 title: GNU/Linux as an environment to prototype desktop environments
 desc: null
-updated: 1615591675993
+updated: 1633903143756
 modified: 2021-09-18T05:14:34-07:00
 ---
 
@@ -15,6 +15,8 @@ How beautiful would it be if people had to reuse old forgotten laptops, put linu
 The future of computing isn't on a flashy laptop that came out last month. It's on the devices we forgot, that we can repurpose into new assemblages.
 
 Make demand for old laptops by providing a radically different experience from your main machine. Something you reach for to have fun and create whimsical stuff.
+
+[PaperWM](https://github.com/paperwm/PaperWM) is amazing, thanks to Avi Bryant for the reference
 
 <https://www.hack-computer.com/>
 
