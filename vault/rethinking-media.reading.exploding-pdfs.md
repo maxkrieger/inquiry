@@ -2,7 +2,7 @@
 id: f6c2e8d9-c1cb-4f38-bae8-cf7a0766d98e
 title: Exploding PDFs
 desc: null
-updated: 1633150803684
+updated: 1633926039650
 modified: 2021-10-01T12:35:28-07:00
 ---
 
@@ -50,3 +50,5 @@ https://dlmf.nist.gov/LaTeXML/
 arXiv Figma plug-in
 
 "stickers" aesthetic
+
+https://twitter.com/andy_matuschak/status/967796906003906565
