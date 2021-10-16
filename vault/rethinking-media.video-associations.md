@@ -1,8 +1,8 @@
 ---
 id: 73729106-f56a-4ef7-8515-84ba50f927a6
 title: Video Hypnagogia/Phantasmagoria
-desc: ""
-updated: 1615509932426
+desc: 
+updated: 1634345466
 created: 1615482779857
 ---
 
@@ -19,6 +19,11 @@ From Glue discord:
 > 4chan threads, images-only but more cyclical
 
 > and then you can extract a range by scrubbing on the little bubble
+
+Liquidtext 
+
+Long press, type a keyword
+
 
 ## VJing but with content
 
