@@ -1,8 +1,8 @@
 ---
 id: pWwELoQ9Rjz7UqYKeYXPJ
 title: Algebraic Interfaces
-desc: ""
-updated: 1633589500589
+desc: 
+updated: 1634368053
 created: 1633587857083
 ---
 
@@ -28,6 +28,8 @@ https://jrsinclair.com/articles/2020/algebraic-structure-of-functions-illustrate
 [Thoughts on how to find alternate algebra-like systems](https://westoncb.blogspot.com/2017/10/thoughts-on-how-to-find-alternate.html?m=1)
 
 https://github.com/fantasyland/fantasy-land
+
+https://zenodo.org/record/2565243
 
 https://twitter.com/prathyvsh/status/1304507282152185858?s=09
 
