@@ -1,8 +1,8 @@
 ---
 id: pWwELoQ9Rjz7UqYKeYXPJ
 title: Algebraic Interfaces
-desc: 
-updated: 1634368053
+desc: null
+updated: 1634368119
 created: 1633587857083
 ---
 
@@ -30,6 +30,10 @@ https://jrsinclair.com/articles/2020/algebraic-structure-of-functions-illustrate
 https://github.com/fantasyland/fantasy-land
 
 https://zenodo.org/record/2565243
+
+https://web.archive.org/web/20191113070416if_/http://stedolan.net:80/research/semirings-slides.pdf
+
+(via Prathyush)
 
 https://twitter.com/prathyvsh/status/1304507282152185858?s=09
 
