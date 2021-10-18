@@ -2,7 +2,7 @@
 id: d1e990fb-a3a1-4bd9-aa5d-ca30a97070cd
 title: APL Is Really Cool
 desc: null
-updated: 1633589043780
+updated: 1634594517
 created: 1615488121325
 ---
 
@@ -44,3 +44,5 @@ https://code.jsoftware.com/wiki/Books
 https://archive.org/details/mr.-babbages-secret-the-tale-franksen-ole-immanuel/page/273/mode/2up
 
 https://www.hillelwayne.com/post/j-notation/
+
+https://news.ycombinator.com/item?id=7814293
