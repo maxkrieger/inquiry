@@ -1,8 +1,8 @@
 ---
 id: fa0d5786-bf37-41a2-9c70-15d12a1520e1
 title: DSP Notebook
-desc: 
-updated: 1632807671
+desc: null
+updated: 1634588640
 created: 1617767654640
 ---
 
@@ -12,5 +12,7 @@ created: 1617767654640
 - [Noise.sh](https://noise.sh/) (spreadsheet!)
 
 Could find problems via https://dsp.stackexchange.com/
+
+https://github.com/alexcrist/scaler
 
 See also: [[projects.linear-algebra-spreadsheet]]
