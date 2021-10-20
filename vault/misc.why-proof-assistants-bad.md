@@ -3,7 +3,7 @@ id: ce22b861-d6b6-45e2-8b26-f8f16b5822f2
 title: Why are proof assistants so unfriendly?
 desc: null
 updated: 1615482779858
-modified: 2021-10-16T02:12:58-07:00
+modified: 2021-10-19T20:10:32-07:00
 ---
 
 Inspired by Katherine Ye's [Proof assistants as a tool for thought](https://www.cs.cmu.edu/~kqy/resources/coq_tools_for_thought.pdf).
@@ -25,6 +25,8 @@ Some logic can be a game: see [The Incredible Proof Machine](https://incredible.
 [The Transparent Prolog Machine](https://core.ac.uk/download/pdf/81925898.pdf)
 
 https://twitter.com/kamatsu8/status/1449178161665777666?s=21
+
+https://twitter.com/totbwf/status/1450605827119673344?s=21
 
 ## What if you could sonify proofs?
 
