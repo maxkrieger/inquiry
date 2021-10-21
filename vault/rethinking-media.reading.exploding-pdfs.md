@@ -3,7 +3,7 @@ id: f6c2e8d9-c1cb-4f38-bae8-cf7a0766d98e
 title: Exploding PDFs
 desc: null
 updated: 1633926039650
-modified: 2021-10-01T12:35:28-07:00
+modified: 2021-10-21T13:10:15-07:00
 ---
 
 LaTeX PDFs are made of blocks. The source code is often available for arXiv preprints.
@@ -28,6 +28,8 @@ https://twitter.com/neuralreckoning/status/1382102415441338369?s=21
 Pandoc
 
 https://shreevatsa.net/mobius-print/
+
+https://twitter.com/elzr/status/1372391789332725763
 
 https://mozilla.github.io/pdf.js/
 
