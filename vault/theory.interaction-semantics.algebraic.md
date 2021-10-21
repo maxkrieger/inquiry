@@ -2,7 +2,7 @@
 id: pWwELoQ9Rjz7UqYKeYXPJ
 title: Algebraic Interfaces
 desc: null
-updated: 1634368119
+updated: 1634803590
 created: 1633587857083
 ---
 
@@ -34,6 +34,8 @@ https://zenodo.org/record/2565243
 https://web.archive.org/web/20191113070416if_/http://stedolan.net:80/research/semirings-slides.pdf
 
 (via Prathyush)
+
+https://m.youtube.com/watch?v=CfbwOxV8NA0
 
 https://twitter.com/prathyvsh/status/1304507282152185858?s=09
 
