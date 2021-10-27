@@ -3,7 +3,7 @@ id: f6c2e8d9-c1cb-4f38-bae8-cf7a0766d98e
 title: Exploding PDFs
 desc: null
 updated: 1633926039650
-modified: 2021-10-21T13:10:15-07:00
+modified: 2021-10-27T16:25:42-07:00
 ---
 
 LaTeX PDFs are made of blocks. The source code is often available for arXiv preprints.
@@ -49,7 +49,9 @@ https://github.com/arxiv-vanity/engrafo
 
 https://dlmf.nist.gov/LaTeXML/
 
-arXiv Figma plug-in
+https://papertohtml.org
+
+arXiv as importer for Figma plug-in
 
 "stickers" aesthetic
 
