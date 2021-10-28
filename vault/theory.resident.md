@@ -2,7 +2,7 @@
 id: UzCKP637yqfdSpsFfin9x
 title: Becoming a Resident Toolbuilder
 desc: null
-updated: 1635385628883
+updated: 1635389270633
 created: 1633731961384
 ---
 
