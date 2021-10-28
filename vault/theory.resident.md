@@ -1,8 +1,8 @@
 ---
 id: UzCKP637yqfdSpsFfin9x
 title: Becoming a Resident Toolbuilder
-desc: 
-updated: 1633773680
+desc:
+updated: 1634274714783
 created: 1633731961384
 ---
 
@@ -30,3 +30,5 @@ https://jsomers.net/i-should-have-loved-biology/
 Fun random example: Chaim Gingold & Shawn Douglas's [Gelbox](https://douglaslab.org/gelbox/)
 
 Related: [[projects.figma-science]]
+
+Kevin suggests commercial labs "get more done" - just a matter of being good about IP transfer.
