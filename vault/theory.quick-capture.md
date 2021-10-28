@@ -2,7 +2,7 @@
 id: XovH6nLF2FrCQkewShwBA
 title: Quick Capture Is Under-Explored
 desc: ""
-updated: 1633151943810
+updated: 1635458852834
 created: 1633151404213
 ---
 
@@ -31,3 +31,7 @@ Facebook had the "Moments" app and I think Google Area 120 had a few one-off app
 I want Google Lens/Live Text but with the context of my prior captures. Need more connective tissue.
 
 Related: [[projects.downloads-folder]]
+
+Also an opportunity to rethink the filesystem/file retrieval (h/t James)
+
+https://twitter.com/adamtowerz/status/1443505910245064704
