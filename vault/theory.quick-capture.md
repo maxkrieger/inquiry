@@ -2,7 +2,7 @@
 id: XovH6nLF2FrCQkewShwBA
 title: Quick Capture Is Under-Explored
 desc: ""
-updated: 1635458852834
+updated: 1635460312460
 created: 1633151404213
 ---
 
@@ -27,6 +27,10 @@ Scrapbooking is impossible in the age of camera rolls. I don't want to type anyt
 Is this what machine learning is for? Smart capture?
 
 Facebook had the "Moments" app and I think Google Area 120 had a few one-off apps with this "alternate camera roll" energy.
+
+- https://staykeen.com/landing
+- https://mymind.com/
+- https://www.theverge.com/2015/6/15/8779581/facebook-moments-app-photo-sharing
 
 I want Google Lens/Live Text but with the context of my prior captures. Need more connective tissue.
 
