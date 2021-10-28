@@ -3,7 +3,7 @@ id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
 updated: 1625724815677
-modified: 2021-09-25T21:21:48-07:00
+modified: 2021-10-15T18:01:17-07:00
 ---
 
 ![](assets/images/2021-01-29-01-33-20.png)
@@ -72,6 +72,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - https://imadr.github.io/rotations-with-quaternions/
 - Norvig’s pytudes https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb
 - Annotated implementations of ML papers  https://github.com/labmlai/annotated_deep_learning_paper_implementations
+- The Annotated Transformer http://nlp.seas.harvard.edu//2018/04/03/attention.html
 
 Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)
 

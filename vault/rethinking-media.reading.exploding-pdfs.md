@@ -3,7 +3,7 @@ id: f6c2e8d9-c1cb-4f38-bae8-cf7a0766d98e
 title: Exploding PDFs
 desc: null
 updated: 1633926039650
-modified: 2021-10-01T12:35:28-07:00
+modified: 2021-10-27T16:25:42-07:00
 ---
 
 LaTeX PDFs are made of blocks. The source code is often available for arXiv preprints.
@@ -29,6 +29,8 @@ Pandoc
 
 https://shreevatsa.net/mobius-print/
 
+https://twitter.com/elzr/status/1372391789332725763
+
 https://mozilla.github.io/pdf.js/
 
 https://stackoverflow.com/questions/57249273/how-to-detect-paragraphs-in-a-text-document-image-for-a-non-consistent-text-stru
@@ -47,7 +49,9 @@ https://github.com/arxiv-vanity/engrafo
 
 https://dlmf.nist.gov/LaTeXML/
 
-arXiv Figma plug-in
+https://papertohtml.org
+
+arXiv as importer for Figma plug-in
 
 "stickers" aesthetic
 

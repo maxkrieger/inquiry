@@ -1,12 +1,14 @@
 ---
 id: UzCKP637yqfdSpsFfin9x
 title: Becoming a Resident Toolbuilder
-desc:
-updated: 1634274714783
+desc: null
+updated: 1635385628883
 created: 1633731961384
 ---
 
 I want to build tools for important problems. Some of the most important problems are being tackled in academic biology labs. They seem like a suitable [serious context of use](https://notes.andymatuschak.org/Effective_system_design_requires_insights_drawn_from_serious_contexts_of_use) to invent powerful new representations and tools and help improve public health.
+
+https://twitter.com/sashachapin/status/1453423907898232836?s=21
 
 I'm considering reaching out to bio labs across the country and volunteering (for a small stipend) to be a "resident toolbuilder". Not just to solve immediate digital problems for the lab but to examine and improve their processes and accessibility for everyone. Perhaps down the road I can generalize one lab's tooling into a more universal platform ([[projects.figma-science]]).
 
