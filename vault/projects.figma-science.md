@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
-updated: 1635993805752
+updated: 1636409810388
 modified: 2021-11-06T17:29:32-07:00
 ---
 
@@ -38,7 +38,6 @@ Existing work:
 - https://www.colabra.app/
 - https://latchbio.substack.com/p/crispr-bioinformatics-in-the-browser
 - BenchSci
-
 
 ![](/assets/images/2021-04-06-23-53-33.png)
 
@@ -82,6 +81,7 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 - https://async.ece.utah.edu/tools/ibiosim/
 - http://crystalmaker.com
 - https://www.osirix-viewer.com/osirix/osirix-md/
+- https://aip.scitation.org/doi/full/10.1063/1.5039473?Track=APLBJUN20
 
 In general, many domain specific tools are MATLAB plugins.
 
