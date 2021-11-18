@@ -3,7 +3,7 @@ id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
 updated: 1633588854006
-modified: 2021-10-08T13:22:01-07:00
+modified: 2021-11-17T20:06:42-08:00
 ---
 
 _Thanks to Garth Goldwater for a lot of the ideas here_
@@ -116,3 +116,6 @@ https://cragl.cs.gmu.edu/iheartla/rethinkingpapers/preprint.pdf
 https://iheartla.github.io/
 
 https://twitter.com/anton_hilado/status/1289956291750887424?s=09
+
+
+https://www.labri.fr/perso/nrougier/from-python-to-numpy/
