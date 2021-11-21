@@ -1,8 +1,8 @@
 ---
 id: yl9a8MqOPzfM9EI6h8nUt
 title: New Hackathon Models
-desc: 
-updated: 1636629054
+desc: null
+updated: 1637479768
 created: 1633151985254
 ---
 
@@ -24,6 +24,10 @@ Asilomar conference grounds are great, I went to them in Monterey after learning
 https://en.wikipedia.org/wiki/Asilomar_Conference_on_Recombinant_DNA
 
 https://en.m.wikipedia.org/wiki/Mapathon
+
+https://www.physics.mcgill.ca/hackathon/
+
+HackUIUC was focused on open source contributions 
 
 ## Related writing
 
