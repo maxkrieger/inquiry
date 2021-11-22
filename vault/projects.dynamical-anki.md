@@ -1,8 +1,8 @@
 ---
 id: zdkRpGsKX26T83KsxP5fz
 title: Dynamical Spaced Repetition
-desc: ""
-updated: 1636781215183
+desc: 
+updated: 1637614435
 created: 1635552290948
 ---
 
@@ -19,5 +19,7 @@ https://openresearchsoftware.metajnl.com/articles/10.5334/jors.198/
 https://twitter.com/genekogan/status/1386741703118245888
 
 Theory: Integrating language evolution with geography and other anthropological characteristics leads to a richer, more vivid mnemonic environment.
+
+Andy: what representations do actual practitioners use, including in their heads?
 
 [[theory.dynamical-everything]]
