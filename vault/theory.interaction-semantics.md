@@ -2,11 +2,15 @@
 id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
 desc: null
-updated: 1637707352818
+updated: 1637708654838
 modified: 2021-09-10T01:45:18-07:00
 ---
 
 Programming semantics are well-studied. What about direct manipulation semantics? Can they be [in bijection](https://twitter.com/sliminality/status/1227791682038452225)?
+
+I'm especially interested in, say, reflecting mathematical semantics in interactive diagrams. With [Penrose](https://penrose.ink), we've been asking, eg, what dragging a point outside a circle in a venn diagram means mathematically - it's an "edit" in the mathematical construction.
+
+This is true for other domains that have a formal representation underlying a highly interactive one.
 
 ![](assets/images/2021-02-13-23-23-06.png)
 
