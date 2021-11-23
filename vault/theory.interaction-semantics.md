@@ -2,7 +2,7 @@
 id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
 desc: null
-updated: 1634113496920
+updated: 1637707352818
 modified: 2021-09-10T01:45:18-07:00
 ---
 
@@ -63,3 +63,5 @@ What even is a program? You can make great Smalltalk ([[projects.system-archaeol
 https://observablehq.com/@observablehq/data-wrangler
 
 https://twitter.com/andy_matuschak/status/1435772997155971073?s=21
+
+https://twitter.com/_paulshen/status/1463202129619808259
