@@ -2,13 +2,15 @@
 id: f6c2e8d9-c1cb-4f38-bae8-cf7a0766d98e
 title: Exploding PDFs
 desc: null
-updated: 1633926039650
+updated: 1637647849938
 modified: 2021-10-27T16:25:42-07:00
 ---
 
 LaTeX PDFs are made of blocks. The source code is often available for arXiv preprints.
 
 Can this make consumption more fun? Spread out? Exploded onto a space?
+
+[[rethinking-media.new-gatherings.co-reading]]
 
 Related: [Gerby Project](https://gerby-project.github.io/) - online tag-based view for large LaTeX documents
 

@@ -1,9 +1,10 @@
 ---
 id: 2076f944-b97b-4241-b44d-07737c3e7257
-title: Reading, Together
+title: 'Reading, Together'
 desc: null
-updated: 1633150977787
-modified: 2021-10-11T14:46:22-07:00
+updated: 1637647734313
+created: 1637647783374
+modified: '2021-10-11T14:46:22-07:00'
 ---
 
 ![](/assets/images/2021-05-06-23-18-52.png)
@@ -42,6 +43,8 @@ https://astralcodexten.substack.com/p/still-alive
 
 Lucy Keer’s “speedruns” of topics
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I like this idea of a research speedruns<br><br>Party format:<br>5min everyone brainstorms topics of interest into a chat<br>1hr each person speedruns on one<br>1hr mini presentation from each person <a href="https://t.co/TFcsyXIBQd">https://t.co/TFcsyXIBQd</a></p>&mdash; Tyler Alterman (building one home in Berlin) (@TylerAlterman) <a href="https://twitter.com/TylerAlterman/status/1371865376863223813?ref_src=twsrc%5Etfw">March 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reminds me of Kay’s story in Early History of Smalltalk about unrolling the Simula program listing down the hall and crawling over it with a second person. If that’s what we needed to understand systems of 1960s complexity, what hope do we have using small text windows today? <a href="https://t.co/Wbkz4IJtmu">https://t.co/Wbkz4IJtmu</a></p>&mdash; Benjamin Schroeder (@bvschroeder) <a href="https://twitter.com/bvschroeder/status/1438401844976525312?ref_src=twsrc%5Etfw">September 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
- https://www.facebook.com/1565310227/posts/10219352053623149/?d=n
+https://www.facebook.com/1565310227/posts/10219352053623149/?d=n
