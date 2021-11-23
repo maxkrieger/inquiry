@@ -1,6 +1,7 @@
-version: 4
+version: 3
 useFMTitle: true
 useNoteTitleForLink: true
+noLegacyNoteRef: true
 mermaid: true
 useKatex: true
 dev:
@@ -27,7 +28,6 @@ commands:
             selectionMode: extract
             confirmVaultOnCreate: false
             leaveTrace: false
-            bubbleUpCreateNew: true
     insertNote:
         initialValue: templates
     insertNoteLink:
@@ -37,7 +37,7 @@ commands:
         enableMarker: false
     randomNote: {}
 workspace:
-    dendronVersion: 0.70.0
+    dendronVersion: 0.65.0
     vaults:
         -
             fsPath: vault
@@ -61,29 +61,4 @@ workspace:
     maxNoteLength: 204800
     enableUserTags: true
     enableHashTags: true
-    task:
-        name: ''
-        dateFormat: ''
-        addBehavior: childOfCurrent
-        statusSymbols:
-            '': ' '
-            wip: w
-            done: x
-            assigned: a
-            moved: m
-            blocked: b
-            delegated: l
-            dropped: d
-            pending: 'y'
-        prioritySymbols:
-            H: high
-            M: medium
-            L: low
-        todoIntegration: false
-        createTaskSelectionType: selection2link
-preview:
-    enableFMTitle: true
-    enableNoteTitleForLink: true
-    enableMermaid: true
-    enablePrettyRefs: true
-    enableKatex: true
+usePrettyRefs: true
