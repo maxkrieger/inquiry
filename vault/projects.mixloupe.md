@@ -1,8 +1,8 @@
 ---
 id: b37f9fc3-2488-449d-babc-f152911c4520
-title: How do you make mixtapes in the current year?
+title: How do you make mixtapes?
 desc: ""
-updated: 1618277613478
+updated: 1637649489965
 created: 1615482779856
 ---
 
@@ -25,5 +25,7 @@ also
 Rob Ochshorn also made a fantastic "seeking sound effect" here http://rmozone.com/snapshots/2015/06/transcript-video-player/
 
 ...and a TMNT record scratch effect http://rmozone.com/snapshots/2014/12/audiojerk.html
+
+https://en.wikipedia.org/wiki/Sound_collage
 
 Related: [[rethinking-media.video-associations]]
