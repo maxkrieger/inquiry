@@ -3,7 +3,7 @@ id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
 updated: 1633588854006
-modified: 2021-11-27T19:17:59-08:00
+modified: 2021-11-27T19:18:27-08:00
 ---
 
 _Thanks to Garth Goldwater for a lot of the ideas here_
@@ -37,10 +37,6 @@ Sure I guess?
 ## Aesthetics
 
 - ["Spectral decomposition? Oh you mean like when a ghost dies?"](https://twitter.com/likethebuilder/status/1326583332306554880?s=19)
-
-![](assets/images/2021-01-29-01-21-47.png)
-
-"What's my name jack?" in Toki Pona. Some sort of MS Paint adventures thing. No idea what it means. I think I got it from a toki pona subreddit.
 
 ## other
 
