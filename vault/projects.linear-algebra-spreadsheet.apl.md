@@ -2,7 +2,7 @@
 id: d1e990fb-a3a1-4bd9-aa5d-ca30a97070cd
 title: APL Is Really Cool
 desc: null
-updated: 1634594517
+updated: 1638069523
 created: 1615488121325
 ---
 
@@ -46,3 +46,7 @@ https://archive.org/details/mr.-babbages-secret-the-tale-franksen-ole-immanuel/p
 https://www.hillelwayne.com/post/j-notation/
 
 https://news.ycombinator.com/item?id=7814293
+
+![](assets/images/2021-01-29-01-21-47.png)
+
+"What's my name jack?" in Toki Pona. Some sort of MS Paint adventures thing. No idea what it means. I think I got it from a toki pona subreddit.
