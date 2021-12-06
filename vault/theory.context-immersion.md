@@ -1,8 +1,8 @@
 ---
 id: nNa3zYBGRPLYKY6c2N21j
 title: Context Immersion
-desc: 
-updated: 1638687981
+desc:
+updated: 1638832119536
 created: 1636625776406
 ---
 
@@ -15,6 +15,8 @@ Kanjun (paraphrased): Idea-seeking is less powerful than context-seeking
 Ethnography/fieldwork can be considered "context immersion", but it isn't normative. It's not intended for toolbuilders/people who want to be constructive about their environments.
 
 How does this relate to IDEO's design thinking practice, and where do its shortcomings intersect with context-seeking as an active process?
+
+https://www.nngroup.com/articles/contextual-inquiry/
 
 Domain-expert consulting firms are often the only effective ones; like engineering, architecture, or cartography.
 
