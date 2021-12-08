@@ -1,8 +1,8 @@
 ---
 id: XovH6nLF2FrCQkewShwBA
 title: Quick Capture Is Under-Explored
-desc: ""
-updated: 1635812034781
+desc: 
+updated: 1638943548
 created: 1633151404213
 ---
 
@@ -47,3 +47,5 @@ https://notes.andymatuschak.org/z2ZAGQBHuJ2u9WrtAQHAEHcCZTtqpsGkAsrD1
 https://notes.andymatuschak.org/z6UDDkom8Aifg6mLdjT1sPtbMBweCmpyTwmJT
 
 Notational Velocity got a lot of things right here
+
+https://mobile.twitter.com/gordonbrander/status/1466432999914885134
