@@ -3,7 +3,7 @@ id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
 updated: 1636409810388
-modified: 2021-12-12T00:29:12-08:00
+modified: 2021-12-12T00:37:23-08:00
 ---
 
 ![](/assets/images/2021-04-06-23-36-23.png)
@@ -17,6 +17,8 @@ Scientific tooling is old but collaboration's more important than ever.
 Realtime thinking is important. Beautiful rendering is important.
 
 There might be a common toolkit that builds figma-like tools and can be turned bespoke for particular domains. Widgets for different kinds of data displays and manipulation. Jupyter/Julia notebook style.
+
+I’m especially interested in cell stains/histology/pathology because microscopy is gorgeous to look at, and seems underexplored.
 
 Existing work:
 
@@ -38,6 +40,7 @@ Existing work:
 - **https://latch.bio**
 - BenchSci
 - https://kanobo.com/
+- https://www.microns-explorer.org/cortical-mm3
 
 ![](/assets/images/2021-04-06-23-53-33.png)
 
