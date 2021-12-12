@@ -3,7 +3,7 @@ id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
 updated: 1636409810388
-modified: 2021-12-02T12:11:54-08:00
+modified: 2021-12-12T00:29:12-08:00
 ---
 
 ![](/assets/images/2021-04-06-23-36-23.png)
@@ -37,6 +37,7 @@ Existing work:
 - https://latchbio.substack.com/p/crispr-bioinformatics-in-the-browser 
 - **https://latch.bio**
 - BenchSci
+- https://kanobo.com/
 
 ![](/assets/images/2021-04-06-23-53-33.png)
 
