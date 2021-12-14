@@ -3,7 +3,7 @@ id: ce22b861-d6b6-45e2-8b26-f8f16b5822f2
 title: Why are proof assistants so unfriendly?
 desc: null
 updated: 1615482779858
-modified: 2021-10-19T20:10:32-07:00
+modified: 2021-12-14T12:37:36-08:00
 ---
 
 Inspired by Katherine Ye's [Proof assistants as a tool for thought](https://www.cs.cmu.edu/~kqy/resources/coq_tools_for_thought.pdf).
@@ -31,3 +31,9 @@ https://twitter.com/totbwf/status/1450605827119673344?s=21
 ## What if you could sonify proofs?
 
 Focused theorem plays some loop based on the tree.
+
+## Counter thread
+
+https://twitter.com/cattheory/status/1470762265288785921?s=21
+
+So, how can a proof assistant aid thought, not just proof tree walking?
