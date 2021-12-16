@@ -3,7 +3,7 @@ id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
 updated: 1639171038124
-modified: 2021-12-15T16:29:51-08:00
+modified: 2021-12-15T17:39:06-08:00
 ---
 
 _Thanks to Garth Goldwater for a lot of the ideas here_
@@ -122,3 +122,5 @@ https://rajatvd.github.io/Factor-Graphs/
 https://guillaumegenthial.github.io/image-to-latex.html
 
 Spectral clustering/decomposition of some images you drag in
+
+Gensim
