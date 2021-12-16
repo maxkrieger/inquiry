@@ -3,7 +3,7 @@ id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
 updated: 1625724815677
-modified: 2021-10-31T22:27:19-07:00
+modified: 2021-12-15T17:32:52-08:00
 ---
 
 ![](assets/images/2021-01-29-01-33-20.png)
@@ -75,6 +75,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - The Annotated Transformer http://nlp.seas.harvard.edu//2018/04/03/attention.html
 - https://simulation.school/p/computational-economics
 - https://mitpress.mit.edu/books/turtle-geometry
+- https://keras.io/examples/
 
 Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)
 
