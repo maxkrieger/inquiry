@@ -2,7 +2,7 @@
 id: XovH6nLF2FrCQkewShwBA
 title: Quick Capture Is Under-Explored
 desc: null
-updated: 1638944256
+updated: 1639992179
 created: 1633151404213
 ---
 
@@ -53,3 +53,5 @@ https://mobile.twitter.com/gordonbrander/status/1466432999914885134
 https://en.m.wikipedia.org/wiki/Dymaxion_Chronofile
 
 Truth of fact truth of feeling
+
+https://davidbieber.com/projects/go-note-go/
