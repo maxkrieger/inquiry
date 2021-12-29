@@ -2,7 +2,7 @@
 id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
-updated: 1625724815677
+updated: 1640806567914
 modified: 2021-12-17T12:18:11-08:00
 ---
 
@@ -13,6 +13,8 @@ modified: 2021-12-17T12:18:11-08:00
 I loved Papert's Mindstorms. Part of why it resonated is simply because I like using programming to learn stuff. Not everyone likes that, but I think it's still worth exploring how domain specific languages can guide self-directed learning.
 
 It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in [The Dynamic Notebook](https://roadtoreality.substack.com/p/the-dynamic-notebook) and his ongoing effort to port [SICM](https://mitpress.mit.edu/books/structure-and-interpretation-classical-mechanics) there.
+
+Changing Minds by Andrea DiSessa
 
 ![](assets/images/2021-03-01-22-04-07.png)
 
@@ -71,7 +73,7 @@ It's worth mentioning that Sam Ritchie already outlined, like, a lot of this, in
 - [Exploring Mathematics with your Computer](https://www.google.com/books/edition/Exploring_Mathematics_with_your_Computer/efUpQgAACAAJ?hl=en)
 - https://imadr.github.io/rotations-with-quaternions/
 - Norvig’s pytudes https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb
-- Annotated implementations of ML papers  https://github.com/labmlai/annotated_deep_learning_paper_implementations
+- Annotated implementations of ML papers https://github.com/labmlai/annotated_deep_learning_paper_implementations
 - The Annotated Transformer http://nlp.seas.harvard.edu//2018/04/03/attention.html
 - https://simulation.school/p/computational-economics
 - https://mitpress.mit.edu/books/turtle-geometry
