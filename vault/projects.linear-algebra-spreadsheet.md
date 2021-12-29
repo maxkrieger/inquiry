@@ -2,8 +2,8 @@
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
-updated: 1633588854006
-modified: 2021-11-27T19:18:27-08:00
+updated: 1639171038124
+modified: 2021-12-17T12:17:39-08:00
 ---
 
 _Thanks to Garth Goldwater for a lot of the ideas here_
@@ -118,3 +118,11 @@ https://www.labri.fr/perso/nrougier/from-python-to-numpy/
 https://github.com/rougier/numpy-100
 
 https://rajatvd.github.io/Factor-Graphs/
+
+https://guillaumegenthial.github.io/image-to-latex.html
+
+Spectral clustering/decomposition of some images you drag in
+
+Gensim
+
+https://auto.gluon.ai/stable/index.html

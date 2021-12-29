@@ -2,7 +2,7 @@
 id: pWwELoQ9Rjz7UqYKeYXPJ
 title: Algebraic Interfaces
 desc: null
-updated: 1634803590
+updated: 1640457608
 created: 1633587857083
 ---
 
@@ -40,3 +40,5 @@ https://m.youtube.com/watch?v=CfbwOxV8NA0
 https://twitter.com/prathyvsh/status/1304507282152185858?s=09
 
 https://twitter.com/docmilanfar/status/1305028501481771008
+
+http://hdc.cs.arizona.edu/papers/infovis_2014_algebraic.pdf

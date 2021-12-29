@@ -3,7 +3,7 @@ id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
 updated: 1636409810388
-modified: 2021-11-27T00:22:29-08:00
+modified: 2021-12-24T00:28:35-05:00
 ---
 
 ![](/assets/images/2021-04-06-23-36-23.png)
@@ -12,13 +12,13 @@ modified: 2021-11-27T00:22:29-08:00
 
 There might be a big startup opportunity with porting old, widely used scientific tools to the web with Figma-like realtime annotation and rendering capabilities.
 
-- David Chapman's [Cells of the Eggplant](https://metarationality.com/rational-pcr) may provide pointers to the qualia of scientific processes
-
 Scientific tooling is old but collaboration's more important than ever.
 
 Realtime thinking is important. Beautiful rendering is important.
 
 There might be a common toolkit that builds figma-like tools and can be turned bespoke for particular domains. Widgets for different kinds of data displays and manipulation. Jupyter/Julia notebook style.
+
+I’m especially interested in cell stains/histology/pathology because microscopy is gorgeous to look at, and seems underexplored.
 
 Existing work:
 
@@ -39,6 +39,9 @@ Existing work:
 - https://latchbio.substack.com/p/crispr-bioinformatics-in-the-browser 
 - **https://latch.bio**
 - BenchSci
+- https://kanobo.com/
+- https://www.microns-explorer.org/cortical-mm3
+- https://riboviz.org
 
 ![](/assets/images/2021-04-06-23-53-33.png)
 
@@ -102,3 +105,8 @@ In general, many domain specific tools are MATLAB plugins.
 Data should be easy to sync to a repo in a common format
 
 Really what's being provisioned is the collaboration tool and hosting. Reasonable to charge a price that would otherwise require on prem and manual setup (and social features/external sharing!)
+
+
+—-
+
+ - David Chapman's [Cells of the Eggplant](https://metarationality.com/rational-pcr) may provide pointers to the qualia of scientific processes
