@@ -3,7 +3,7 @@ id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
 desc: null
 updated: 1637708654838
-modified: 2021-12-23T00:47:06-05:00
+modified: 2021-12-30T13:45:45-05:00
 ---
 
 Programming semantics are well-studied. What about direct manipulation semantics? Can they be [in bijection](https://twitter.com/sliminality/status/1227791682038452225)?
@@ -71,3 +71,5 @@ https://twitter.com/andy_matuschak/status/1435772997155971073?s=21
 https://twitter.com/_paulshen/status/1463202129619808259
 
 https://maryrosecook.notion.site/Scapula-9fc4b570f0234d569d982c022435433d
+
+emacs’ context menu mode https://ruzkuku.com/texts/emacs-mouse.html
