@@ -3,10 +3,12 @@ id: 55e617bc-9852-4bc7-9256-4bc0158b6e55
 title: Making a REST API using Minecraft's metaphors
 desc: null
 updated: 1615591599317
-modified: 2021-08-31T14:39:07-07:00
+modified: 2022-01-06T01:54:49-05:00
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If Minecraft let you write RESTful pipelines, chests would be the database stores.<br><br>Also I like to imagine discord bots have their own private channel to funnel persistent data through; their own chest that&#39;s no different than the chests users have.</p>&mdash; Max Krieger (@maxkriegers) <a href="https://twitter.com/maxkriegers/status/1263018405956812800?ref_src=twsrc%5Etfw">May 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Update: Someone did this for k8s! https://eric-jadi.medium.com/minecraft-as-a-k8s-admin-tool-cf16f890de42
 
 [Dark](https://darklang.com/) makes REST apis pretty easy. [Sinatra](http://sinatrarb.com/intro.html) did a fine job too.
 
@@ -26,5 +28,3 @@ Discord bots too
  https://twitter.com/gordonbrander/status/1432761801972744197?s=21
 
 https://twitter.com/sharifshameem/status/1377328392295514115?s=19
-
-
