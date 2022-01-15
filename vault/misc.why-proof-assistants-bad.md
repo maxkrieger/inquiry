@@ -3,7 +3,7 @@ id: ce22b861-d6b6-45e2-8b26-f8f16b5822f2
 title: Why are proof assistants so unfriendly?
 desc: null
 updated: 1615482779858
-modified: 2021-12-15T00:51:39-08:00
+modified: 2022-01-14T21:01:06-05:00
 ---
 
 Inspired by Katherine Ye's [Proof assistants as a tool for thought](https://www.cs.cmu.edu/~kqy/resources/coq_tools_for_thought.pdf).
@@ -12,6 +12,8 @@ Some logic can be a game: see [The Incredible Proof Machine](https://incredible.
 ![](assets/images/2021-01-29-01-40-51.png)
 
 [Goal-directed games](https://www.youtube.com/watch?v=w1_zmx-wU0U) obviously aren't always great though.
+
+Counter: proof assistants are about clear thinking. Many prefer paper and pencil still.
 
 ## Links
 
