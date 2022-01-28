@@ -2,7 +2,7 @@
 id: XovH6nLF2FrCQkewShwBA
 title: Quick Capture Is Under-Explored
 desc: null
-updated: 1640886169
+updated: 1643407364
 created: 1633151404213
 ---
 
@@ -57,3 +57,5 @@ Truth of fact truth of feeling
 https://davidbieber.com/projects/go-note-go/
 
 https://mobile.twitter.com/devonzuegel/status/1431263080126767105
+
+https://subconscious.substack.com/p/camera-roll-as-a-tool-for-thought
