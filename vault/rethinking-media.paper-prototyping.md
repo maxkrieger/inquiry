@@ -1,8 +1,8 @@
 ---
 id: GdqNoSF4C3XWmKnrmuF1H
 title: Stop Motion Paper Prototyping
-desc: ""
-updated: 1643415328124
+desc: 
+updated: 1643591942
 created: 1643324036901
 ---
 
@@ -18,6 +18,8 @@ Jungwon's Elicit prototype:
 <source src="assets/jungwon.mp4" type="video/mp4">
 Unsupported video
 </video>
+
+https://mobile.twitter.com/imgoonn/status/1487928153200893953
 
 Probably lots of HCI stuff out there
 
