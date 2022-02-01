@@ -2,7 +2,7 @@
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
 desc: ""
-updated: 1643679400383
+updated: 1643679553668
 created: 1643677597778
 ---
 
@@ -10,7 +10,7 @@ created: 1643677597778
 
 I don't know much about organic chemistry, but I should. I wish I didn't have to have taken Organic Chemistry in college to appreciate its vastness and beauty (like linear algebra, it has a disempowering syllabus divorced from its context - [[projects.linear-algebra-spreadsheet]]). A _Mathematician's Lament_ type problem (cf https://jsomers.net/i-should-have-loved-biology/).
 
-Surely there's a need for an environment for, say, drawing skeletal diagrams, but more dynamic and authorial ([[theory.interaction-semantics]]). Where you can combine elements from a palette until you recapitulate ideas like those NileRed conveys so elegantly in his absurd transmutation videos?
+Surely there's a need for an environment for, say, drawing skeletal diagrams, but more dynamic and authorial ([[theory.ide-for-x]]). Where you can combine elements from a palette until you recapitulate ideas like those NileRed conveys so elegantly in his absurd transmutation videos?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zFZ5jQ0yuNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -26,4 +26,4 @@ Links:
 - https://chemaxon.com/products/marvin-js
 - http://www.kingdraw.cn/en/index.html
 
-Related: [[theory.ide-for-x]] [[projects.figma-science]] [[misc.why-proof-assistants-bad]] [[rethinking-media.microworld-languages]]
+Related: [[projects.figma-science]], [[misc.why-proof-assistants-bad]], [[rethinking-media.microworld-languages]]
