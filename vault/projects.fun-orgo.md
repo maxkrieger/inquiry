@@ -2,9 +2,11 @@
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
 desc: ""
-updated: 1643678775576
+updated: 1643679400383
 created: 1643677597778
 ---
+
+![MolView](/assets/images/2022-01-31-17-35-13.png)
 
 I don't know much about organic chemistry, but I should. I wish I didn't have to have taken Organic Chemistry in college to appreciate its vastness and beauty (like linear algebra, it has a disempowering syllabus divorced from its context - [[projects.linear-algebra-spreadsheet]]). A _Mathematician's Lament_ type problem (cf https://jsomers.net/i-should-have-loved-biology/).
 
@@ -14,4 +16,14 @@ Surely there's a need for an environment for, say, drawing skeletal diagrams, bu
 
 I was hopeful that [Crash Course's OChem course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtONguuhLdVmq0HTKS0jksS4) would have enough eye-catching motion graphics to keep me awake, but alas, at many points it felt like a powerpoint with the same flaws in the medium as any other video.
 
-Related: [[projects.figma-science]] [[misc.why-proof-assistants-bad]] [[rethinking-media.microworld-languages]]
+Links:
+
+- **https://molview.org**
+- https://www.rcsb.org/ligand/4AZ
+- https://en.wikipedia.org/wiki/Molecule_editor
+- https://en.wikipedia.org/wiki/BALL
+- mol files
+- https://chemaxon.com/products/marvin-js
+- http://www.kingdraw.cn/en/index.html
+
+Related: [[theory.ide-for-x]] [[projects.figma-science]] [[misc.why-proof-assistants-bad]] [[rethinking-media.microworld-languages]]
