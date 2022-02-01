@@ -2,7 +2,7 @@
 id: 86Sf5BfBEjs3PqSBrucXe
 title: IDE/Photoshop for X
 desc: ""
-updated: 1643679379964
+updated: 1643680108231
 created: 1643678892394
 ---
 
@@ -10,6 +10,10 @@ On
 [Enabling Environments](https://notes.andymatuschak.org/z3DaBP4vN1dutjUgrk3jbEeNxScccvDCxDgXe):
 
 Encoding domain knowledge into a photoshop/IDE-like interface (a la [[rethinking-media.microworld-languages]], [[projects.figma-science]], [[projects.figma-science.dsp-notebook]], [[projects.linear-algebra-spreadsheet]])
+
+> ... there are some very deep ideas about image manipulation, which had been built directly into Photoshop. By contrast, there’s not really very many deep ideas about writing built into Microsoft Word.
+
+- Michael Nielsen, [Interview with David Perell](https://perell.com/podcast/michael-nielsen/)
 
 One theory I have: a design process for these is a combo of [[theory.resident]] and [[theory.interaction-semantics]].
 
