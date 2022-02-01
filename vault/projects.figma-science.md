@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
-updated: 1636409810388
+updated: 1643677589961
 modified: 2021-12-24T00:28:35-05:00
 ---
 
@@ -36,7 +36,7 @@ Existing work:
 - https://blockpad.net/
 - https://getluminal.com/
 - https://www.colabra.app/
-- https://latchbio.substack.com/p/crispr-bioinformatics-in-the-browser 
+- https://latchbio.substack.com/p/crispr-bioinformatics-in-the-browser
 - **https://latch.bio**
 - BenchSci
 - https://kanobo.com/
@@ -92,6 +92,12 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 - https://nextstrain.org
 - https://github.com/cov-lineages/pangolin
 
+**RCSB's PDB "view"s are crucial**
+
+- https://www.rcsb.org/3d-view/4hhb/1
+  - https://www.rcsb.org/sequence/4Z35
+  - https://www.rcsb.org/genome/4XVQ
+
 In general, many domain specific tools are MATLAB plugins.
 
 ## [[DSP Notebook|projects.figma-science.dsp-notebook]]
@@ -106,7 +112,6 @@ Data should be easy to sync to a repo in a common format
 
 Really what's being provisioned is the collaboration tool and hosting. Reasonable to charge a price that would otherwise require on prem and manual setup (and social features/external sharing!)
 
-
 —-
 
- - David Chapman's [Cells of the Eggplant](https://metarationality.com/rational-pcr) may provide pointers to the qualia of scientific processes
+- David Chapman's [Cells of the Eggplant](https://metarationality.com/rational-pcr) may provide pointers to the qualia of scientific processes
