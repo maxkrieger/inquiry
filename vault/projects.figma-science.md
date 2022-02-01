@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
-updated: 1643677589961
+updated: 1643680424253
 modified: 2021-12-24T00:28:35-05:00
 ---
 
@@ -68,6 +68,7 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 ([Vizarr](https://github.com/hms-dbmi/vizarr))
 
 - [Vizarr](https://github.com/hms-dbmi/vizarr)
+- [**"Blender for Biochemists"**](https://www.youtube.com/watch?v=YQ73bFOHObM)
 - [Gelbox](http://douglaslab.org/gelbox/)
 - http://cadnano.org
 - [Praat](https://www.fon.hum.uva.nl/praat/)
