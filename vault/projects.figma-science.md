@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
-updated: 1643680424253
+updated: 1643783409478
 modified: 2021-12-24T00:28:35-05:00
 ---
 
@@ -92,6 +92,8 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 - https://www.kitware.com/platforms/
 - https://nextstrain.org
 - https://github.com/cov-lineages/pangolin
+- https://bioconductor.org
+- https://jbrowse.org/jb2/
 
 **RCSB's PDB "view"s are crucial**
 
@@ -116,3 +118,5 @@ Really what's being provisioned is the collaboration tool and hosting. Reasonabl
 —-
 
 - David Chapman's [Cells of the Eggplant](https://metarationality.com/rational-pcr) may provide pointers to the qualia of scientific processes
+
+https://newscience.org/how-software-in-the-life-sciences-actually-works-and-doesnt-work/

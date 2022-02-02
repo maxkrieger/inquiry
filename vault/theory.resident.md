@@ -2,7 +2,7 @@
 id: UzCKP637yqfdSpsFfin9x
 title: Becoming a Resident Toolbuilder
 desc: null
-updated: 1635389270633
+updated: 1643783143921
 created: 1633731961384
 ---
 
@@ -28,6 +28,8 @@ I incidentally discovered [Bret Victor considered](https://postlight.com/podcast
 > It’s hard to have the level of motivation to pull off something really huge like that, if you don’t have the right support structures in place.
 
 https://jsomers.net/i-should-have-loved-biology/
+
+https://newscience.org/how-software-in-the-life-sciences-actually-works-and-doesnt-work/
 
 Fun random example: Chaim Gingold & Shawn Douglas's [Gelbox](https://douglaslab.org/gelbox/)
 
