@@ -1,8 +1,8 @@
 ---
 id: rfMxDm8Anh442322LFll9
 title: Parallel Processing Is Extraordinarily Profound
-desc: 
-updated: 1643842453
+desc: null
+updated: 1643842789
 created: 1643414607013
 ---
 
@@ -21,3 +21,4 @@ https://en.wikipedia.org/wiki/Connectionism
   - UIs can present multitudes
  - Pattern completion effects mean that the right prime/hint is enough to anticipate the whole. Schemata are also crucial.
 - Subtle behaviors like text selection are processed without consciousness - probably mostly wiring the motor and perceptual functions together - you’ll forget they exist until they’re wrong (a variant of Cunninghams law)
+  - via Chris: https://m.youtube.com/watch?v=tSMj5RoYdEI
