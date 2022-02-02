@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
-updated: 1643783409478
+updated: 1643783452307
 modified: 2021-12-24T00:28:35-05:00
 ---
 
@@ -94,6 +94,8 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 - https://github.com/cov-lineages/pangolin
 - https://bioconductor.org
 - https://jbrowse.org/jb2/
+- https://paintshop.io
+  - R plugin
 
 **RCSB's PDB "view"s are crucial**
 
