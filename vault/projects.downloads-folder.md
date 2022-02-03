@@ -1,8 +1,8 @@
 ---
 id: 6tWPJi4mq1bnF22b4qDfO
 title: Downloads Folder Manager
-desc: 
-updated: 1633152894
+desc:
+updated: 1643927188133
 created: 1633151014508
 ---
 
@@ -22,5 +22,6 @@ http://lynnecarty.info/ (view on desktop)
 
 https://twitter.com/rsnous/status/1442465299282870274?s=21
 
-
 Related: “augmented right click->clean up”
+
+https://tropy.org
