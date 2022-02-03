@@ -2,7 +2,7 @@
 id: 1cbfd56c-79a9-4ba9-a088-3f5a1f56b10a
 title: TikTok & Youtube as a means of platform growth
 desc: null
-updated: 1643679262157
+updated: 1643849304
 created: 1615855941801
 ---
 
@@ -21,3 +21,5 @@ Make videos on general topics (how to do x) that are done with the tool. Kapwing
 NotionToks “pure ideology” https://twitter.com/maxkriegers/status/1353094774279065600?s=21
 
 https://www.tiktok.com/tag/notion?lang=en
+
+https://twitter.com/thefuturematt/status/1482514589984038913?s=21
