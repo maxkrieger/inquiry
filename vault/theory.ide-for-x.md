@@ -1,8 +1,8 @@
 ---
 id: 86Sf5BfBEjs3PqSBrucXe
-title: IDE/Photoshop for X
-desc: ""
-updated: 1643681030725
+title: IDE/Photoshop/DAW for X
+desc: 
+updated: 1644283572
 created: 1643678892394
 ---
 
