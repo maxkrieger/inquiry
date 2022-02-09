@@ -2,7 +2,7 @@
 id: 1rCLzzZwVdcOICn9eIrII
 title: Most explorables should be IDE plugins
 desc: ""
-updated: 1644373519802
+updated: 1644373856208
 created: 1644370273705
 ---
 
@@ -54,7 +54,7 @@ These also could be notebook widgets:
 
 This is visualizing a for-loop! Could yield it [tqdm](https://tqdm.github.io/) style.
 
-![](/assets/big/subtyping.gif)
+![](https://media.githubusercontent.com/media/maxkrieger/inquiry/main/vault/assets/big/subtyping.gif)
 
 ### Introduction to Computational Thinking
 

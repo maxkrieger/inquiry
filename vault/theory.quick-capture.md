@@ -2,7 +2,7 @@
 id: XovH6nLF2FrCQkewShwBA
 title: Quick Capture Is Under-Explored
 desc: null
-updated: 1643407364
+updated: 1644373728211
 created: 1633151404213
 ---
 
@@ -12,7 +12,7 @@ I can:
 
 - Take a photo/video
 
-- Take a voice memo (or use an app I'm working on...)
+- Take a voice memo (or use an app I'm working on... [Voiceliner](https://a9.io/voiceliner/))
 
 - Google it/put it into my tabs
 

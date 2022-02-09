@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
-updated: 1644371670644
+updated: 1644373648919
 modified: 2021-12-24T00:28:35-05:00
 ---
 
@@ -56,6 +56,8 @@ Existing work:
 
 (Biodock)
 
+---
+
 "Experiment tracking" is a common theme
 
 What if [open science framework](https://osf.io/) caught up with the times?
@@ -65,6 +67,8 @@ What if [open science framework](https://osf.io/) caught up with the times?
 [Data to Discovery](https://datavis.caltech.edu/)
 
 An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
+
+---
 
 ## Local-only systems (figma-izable)
 
