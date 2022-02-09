@@ -2,13 +2,13 @@
 id: GdqNoSF4C3XWmKnrmuF1H
 title: Stop Motion Paper Prototyping
 desc:
-updated: 1644374005880
+updated: 1644374558175
 created: 1643324036901
 ---
 
 There's something to "acting out" UI scenarios like [[theory.puppetry]].
 
-![Toby Schachman's Paper Prototype](https://media.githubusercontent.com/media/maxkrieger/inquiry/main/vault/assets/images/toby_physical_prototype.gif)
+<img alt="![Toby Schachman's Paper Prototype" src="https://media.githubusercontent.com/media/maxkrieger/inquiry/main/vault/assets/images/toby_physical_prototype.gif" />
 
 from http://glench.com/MarilynMaloney/
 
