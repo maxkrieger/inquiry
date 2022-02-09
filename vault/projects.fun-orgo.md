@@ -1,8 +1,8 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-desc: 
-updated: 1643702265
+desc:
+updated: 1644371692518
 created: 1643677597778
 ---
 
