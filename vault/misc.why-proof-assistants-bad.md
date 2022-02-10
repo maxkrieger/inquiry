@@ -3,7 +3,7 @@ id: ce22b861-d6b6-45e2-8b26-f8f16b5822f2
 title: Why are proof assistants so unfriendly?
 desc: null
 updated: 1615482779858
-modified: 2022-01-14T21:01:06-05:00
+modified: 2022-02-10T01:39:20-08:00
 ---
 
 Inspired by Katherine Ye's [Proof assistants as a tool for thought](https://www.cs.cmu.edu/~kqy/resources/coq_tools_for_thought.pdf).
@@ -41,3 +41,8 @@ https://twitter.com/cattheory/status/1470762265288785921?s=21
 https://twitter.com/sarah_zrf/status/1470788248695881733?s=21
 
 So, how can a proof assistant aid thought, not just proof tree walking?
+
+
+https://www.irit.fr/~Martin.Strecker/Publications/ticttl_panda2011.pdf
+
+https://mobile.twitter.com/disconcision/status/1491571996718628866
