@@ -1,8 +1,8 @@
 ---
 id: 86Sf5BfBEjs3PqSBrucXe
 title: IDE/Photoshop/DAW for X
-desc: 
-updated: 1644283572
+desc: null
+updated: 1644639830
 created: 1643678892394
 ---
 
@@ -29,5 +29,10 @@ For more of a traditional textual IDE experience, you could make a [[rethinking-
 - https://www.youtube.com/watch?v=fIeFZhxIX-Q
 - https://www.youtube.com/watch?v=FfXJsvxhRQk
 - https://www.youtube.com/watch?v=GqqdLxr1Dg8
+
+
+> The player is basically building a giant mesh of in-game APIs (“plug in here to get steel bars, plug in there to get green circuits”), getting those APIs to 100% reliability, and then building something on top of them and getting that to perfect reliability, all while managing scarce resources and dealing with random failures.2
+
+https://www.thediff.co/p/the-factorio-mindset
 
 related: [[theory.figma-for-x]]
