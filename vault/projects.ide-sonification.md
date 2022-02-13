@@ -1,8 +1,8 @@
 ---
 id: 0m3l5hefoxVQpswVfmbbG
 title: IDE Sonification
-desc: ""
-updated: 1644728738557
+desc: 
+updated: 1644736118
 created: 1644728307223
 ---
 
@@ -19,3 +19,5 @@ What are some successful sonified UIs? I think of video games. Nintendo in parti
 https://scholarworks.rit.edu/theses/10672/
 
 https://github.com/topics/sonification
+
+http://etheses.dur.ac.uk/1396/1/mainthesisBermanFinal.pdf?DDD10+=
