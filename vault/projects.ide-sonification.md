@@ -2,7 +2,7 @@
 id: 0m3l5hefoxVQpswVfmbbG
 title: IDE Sonification
 desc: null
-updated: 1644736213
+updated: 1644744143
 created: 1644728307223
 ---
 
@@ -23,3 +23,5 @@ https://github.com/topics/sonification
 http://etheses.dur.ac.uk/1396/1/mainthesisBermanFinal.pdf?DDD10+=
 
 https://www.researchgate.net/publication/224516892_Sonification_design_guidelines_to_enhance_program_comprehension
+
+https://github.com/paigeruten/lua-feels
