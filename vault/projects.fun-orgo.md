@@ -1,8 +1,8 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-desc:
-updated: 1644371692518
+desc: null
+updated: 1644877013
 created: 1643677597778
 ---
 
@@ -15,6 +15,9 @@ Surely there's a need for an environment for, say, drawing skeletal diagrams, bu
 Synthesis pathways unfolding before you, etc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zFZ5jQ0yuNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://youtu.be/3vli86Ad8ww
+
 
 I was hopeful that [Crash Course's OChem course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtONguuhLdVmq0HTKS0jksS4) would have enough eye-catching motion graphics to keep me awake, but alas, at many points it felt like a powerpoint with the same flaws in the medium as any other video.
 
