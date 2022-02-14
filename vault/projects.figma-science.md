@@ -3,7 +3,7 @@ id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
 updated: 1644373648919
-modified: 2021-12-24T00:28:35-05:00
+modified: 2022-02-13T22:27:43-08:00
 ---
 
 ![](/assets/images/2021-04-06-23-36-23.png)
@@ -112,6 +112,8 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 ### Informatics
 
 Huge list here https://blog.addgene.org/free-online-molecular-biology-tools
+
+https://phage.directory/tools
 
 - https://bioconductor.org
 
