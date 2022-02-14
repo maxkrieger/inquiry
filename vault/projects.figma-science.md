@@ -3,7 +3,7 @@ id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
 updated: 1644373648919
-modified: 2022-02-13T22:27:43-08:00
+modified: 2022-02-13T22:33:13-08:00
 ---
 
 ![](/assets/images/2021-04-06-23-36-23.png)
@@ -124,6 +124,7 @@ https://phage.directory/tools
 #### Genomes
 
 - https://jbrowse.org/jb2/
+- https://genomearchitect.readthedocs.io/en/latest/
 - https://paintshop.io
   - R plugin
 - https://github.com/cov-lineages/pangolin
