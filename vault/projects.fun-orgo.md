@@ -2,7 +2,7 @@
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
 desc: null
-updated: 1644877013
+updated: 1645393168
 created: 1643677597778
 ---
 
@@ -30,5 +30,7 @@ Links:
 - mol files
 - https://chemaxon.com/products/marvin-js
 - http://www.kingdraw.cn/en/index.html
+
+Help me understand the [Citric Acid Cycle](https://en.m.wikipedia.org/wiki/Citric_acid_cycle)!
 
 Related: [[projects.figma-science]], [[misc.why-proof-assistants-bad]], [[rethinking-media.microworld-languages]]
