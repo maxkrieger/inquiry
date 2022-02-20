@@ -2,8 +2,8 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
-updated: 1636409810388
-modified: 2021-12-24T00:28:35-05:00
+updated: 1644373648919
+modified: 2022-02-13T22:33:13-08:00
 ---
 
 ![](/assets/images/2021-04-06-23-36-23.png)
@@ -20,13 +20,18 @@ There might be a common toolkit that builds figma-like tools and can be turned b
 
 I’m especially interested in cell stains/histology/pathology because microscopy is gorgeous to look at, and seems underexplored.
 
+https://axial.substack.com/p/axial-benchling
+
 Existing work:
 
-![](/assets/images/2021-04-27-13-15-23.png)
+![Benchling](/assets/images/2022-02-08-17-30-07.png)
+
+![Benchling](/assets/images/2022-02-08-17-30-33.png)
 
 (Benchling)
 
 - [Benchling](https://www.benchling.com/)
+  - https://www.benchling.com/primers/
 - [HASH](https://hash.ai/)
 - [FloydHub](https://www.floydhub.com/)
 - [Streamlit](https://streamlit.io/)
@@ -36,22 +41,24 @@ Existing work:
 - https://blockpad.net/
 - https://getluminal.com/
 - https://www.colabra.app/
-- https://latchbio.substack.com/p/crispr-bioinformatics-in-the-browser 
+- https://latchbio.substack.com/p/crispr-bioinformatics-in-the-browser
 - **https://latch.bio**
 - BenchSci
 - https://kanobo.com/
 - https://www.microns-explorer.org/cortical-mm3
 - https://riboviz.org
+- https://www.paige.ai
+- https://www.openmicroscopy.org/omero/
+- https://synbiohub.org
+- https://www.radix.bio/
 
 ![](/assets/images/2021-04-06-23-53-33.png)
 
 (Biodock)
 
+---
+
 "Experiment tracking" is a common theme
-
-https://www.radix.bio/
-
-https://twitter.com/tomasfiers/status/1010580586208153600?s=21
 
 What if [open science framework](https://osf.io/) caught up with the times?
 
@@ -61,42 +68,128 @@ What if [open science framework](https://osf.io/) caught up with the times?
 
 An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 
-## Systems to figma-ize
+---
+
+## Local-only systems (figma-izable)
+
+### Geology/Space
+
+- https://github.com/cmudig/pixlise-c
+
+### Neuro
+
+- https://github.com/MouseLand/receptivefield-explorer
+- https://twitter.com/tomasfiers/status/1010580586208153600?s=21
+- https://mne.tools/stable/index.html
+- [SimBrain](https://www.simbrain.net)
+- https://surfer.nmr.mgh.harvard.edu/
+- [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
+- https://www.janelia.org/lab/stringer-lab
+
+### Imagery
 
 ![](/assets/images/2021-04-06-23-53-00.png)
 
 ([Vizarr](https://github.com/hms-dbmi/vizarr))
 
 - [Vizarr](https://github.com/hms-dbmi/vizarr)
+- https://imagej.nih.gov/ij/docs/guide/146-8.html
+- https://fiji.sc
+- Bioformats - interop https://docs.openmicroscopy.org/bio-formats/6.8.1/about/index.html
+- https://www.osirix-viewer.com/osirix/osirix-md/
+- http://www.dicompyler.com
+
+- ImageTwin (duplicate recognition) https://imagetwin.ai
+
+#### Histology
+
+**The problem with microscopy is that file sizes are huge. Pathology/Histology is more tractable.**
+
+- https://www.histosearch.com
+
+- ????
+
+### Informatics
+
+Huge list here https://blog.addgene.org/free-online-molecular-biology-tools
+
+https://phage.directory/tools
+
+- https://bioconductor.org
+
+#### Abstract Viz
+
+- https://centuryofbio.substack.com/p/visualizing-cellular-trajectories
+
+#### Genomes
+
+- https://jbrowse.org/jb2/
+- https://genomearchitect.readthedocs.io/en/latest/
+- https://paintshop.io
+  - R plugin
+- https://github.com/cov-lineages/pangolin
+
+#### Primers
+
+- https://dev.primer3plus.com/index.html
+
+#### Synthetics
+
+- https://async.ece.utah.edu/tools/ibiosim/
+
+#### Plasmid Editing
+
+Greaat overview: https://medium.com/@alice.menglh/may-7th-13th-8ab68cbc9e7b
+
+- https://www.snapgene.com
+- http://serialbasics.free.fr/Serial_Cloner.html
+- https://jorgensen.biology.utah.edu/wayned/ape/
+  - https://www.youtube.com/watch?v=98qtO-H9mLU
+- Open Vector Editor (https://github.com/TeselaGen/ove-electron)
+- SeqViz (just a viewer) https://github.com/Lattice-Automation/seqviz
+
+### Protein/Mol Sim
+
+#### Molecular Viz
+
 - [Gelbox](http://douglaslab.org/gelbox/)
 - http://cadnano.org
-- [Praat](https://www.fon.hum.uva.nl/praat/)
-- [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
-- [SimBrain](https://www.simbrain.net/Documentation/docs/SimbrainDocs.html)
-- [CellPAINT](https://ccsb.scripps.edu/cellpaint/)
-- https://surfer.nmr.mgh.harvard.edu/
-- https://github.com/cmudig/pixlise-c
-- https://jbrowse.com/jb2/
-- https://www.janelia.org/lab/stringer-lab
-- https://github.com/MouseLand/receptivefield-explorer
-- https://centuryofbio.substack.com/p/visualizing-cellular-trajectories
-- https://www.czbiohub.org/technology-platforms/
-- https://mne.tools/stable/index.html
-- https://async.ece.utah.edu/tools/ibiosim/
 - http://crystalmaker.com
-- https://www.osirix-viewer.com/osirix/osirix-md/
+- [CellPAINT](https://ccsb.scripps.edu/cellpaint/)
+- https://pymol.org/2/
+- http://www.yasara.org
+- https://www.cgl.ucsf.edu/chimera/download.html
+- [**"Blender for Biochemists"**](https://www.youtube.com/watch?v=YQ73bFOHObM)
 - https://aip.scitation.org/doi/full/10.1063/1.5039473?Track=APLBJUN20
-- http://www.dicompyler.com
+
+#### Sim
+
 - https://en.m.wikipedia.org/wiki/ORCA_(quantum_chemistry_program)
-- https://www.kitware.com/platforms/
-- https://nextstrain.org
-- https://github.com/cov-lineages/pangolin
+
+#### Ligand Docking
+
+- https://vina.scripps.edu
+- https://en.wikipedia.org/wiki/List_of_protein-ligand_docking_software
 
 In general, many domain specific tools are MATLAB plugins.
 
-## [[DSP Notebook|projects.figma-science.dsp-notebook]]
+## Misc
 
-## Graphics
+- https://www.kitware.com/platforms/
+- [Praat](https://www.fon.hum.uva.nl/praat/)
+
+- **RCSB's PDB "view"s are crucial**
+
+- https://www.rcsb.org/3d-view/4hhb/1
+
+  - https://www.rcsb.org/sequence/4Z35
+  - https://www.rcsb.org/genome/4XVQ
+
+- https://www.czbiohub.org/technology-platforms/
+
+### [[DSP Notebook|projects.figma-science.dsp-notebook]]
+
+### Graphics
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Because all rendering of high-bit depth <a href="https://twitter.com/hashtag/bioimage?src=hash&amp;ref_src=twsrc%5Etfw">#bioimage</a> data is done via <a href="https://twitter.com/hashtag/WebGL?src=hash&amp;ref_src=twsrc%5Etfw">#WebGL</a> shaders directly in the browser, Viv applies data transformations without lag. Magic lenses that perform local transformations are smooth and changes to the color mapping update as sliders are moved. <a href="https://t.co/7AFD5cWObX">pic.twitter.com/7AFD5cWObX</a></p>&mdash; Nils Gehlenborg (@ngehlenborg) <a href="https://twitter.com/ngehlenborg/status/1293899291585642498?ref_src=twsrc%5Etfw">August 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -106,7 +199,6 @@ Data should be easy to sync to a repo in a common format
 
 Really what's being provisioned is the collaboration tool and hosting. Reasonable to charge a price that would otherwise require on prem and manual setup (and social features/external sharing!)
 
-
 —-
 
- - David Chapman's [Cells of the Eggplant](https://metarationality.com/rational-pcr) may provide pointers to the qualia of scientific processes
+https://newscience.org/how-software-in-the-life-sciences-actually-works-and-doesnt-work/

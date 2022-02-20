@@ -2,7 +2,7 @@
 id: XovH6nLF2FrCQkewShwBA
 title: Quick Capture Is Under-Explored
 desc: null
-updated: 1640886169
+updated: 1644482150
 created: 1633151404213
 ---
 
@@ -12,7 +12,7 @@ I can:
 
 - Take a photo/video
 
-- Take a voice memo (or use an app I'm working on...)
+- Take a voice memo (or use an app I'm working on... [Voiceliner](https://a9.io/voiceliner/))
 
 - Google it/put it into my tabs
 
@@ -57,3 +57,7 @@ Truth of fact truth of feeling
 https://davidbieber.com/projects/go-note-go/
 
 https://mobile.twitter.com/devonzuegel/status/1431263080126767105
+
+https://subconscious.substack.com/p/camera-roll-as-a-tool-for-thought
+
+https://twitter.com/rsnous/status/1491670816299249666?s=12
