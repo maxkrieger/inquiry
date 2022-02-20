@@ -2,7 +2,7 @@
 id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
-updated: 1640806567914
+updated: 1645332748452
 modified: 2022-01-09T20:10:51-05:00
 ---
 
@@ -80,6 +80,7 @@ Changing Minds by Andrea DiSessa
 - https://keras.io/examples/
 - Dive into Deep Learning
 - https://press.princeton.edu/books/hardcover/9780691164069/opt-art
+- https://math.mit.edu/~gs/learningfromdata/
 
 Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)
 

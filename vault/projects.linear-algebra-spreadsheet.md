@@ -2,7 +2,7 @@
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 desc: null
-updated: 1639171038124
+updated: 1645332715205
 modified: 2021-12-17T12:17:39-08:00
 ---
 
@@ -126,3 +126,5 @@ Spectral clustering/decomposition of some images you drag in
 Gensim
 
 https://auto.gluon.ai/stable/index.html
+
+https://math.mit.edu/~gs/learningfromdata/
