@@ -4,7 +4,7 @@ title: Reading, Together
 desc: null
 updated: 1637647734313
 created: 1637647783374
-modified: 2022-02-20T13:33:45-08:00
+modified: 2022-02-20T13:35:11-08:00
 ---
 
 ![](/assets/images/2021-05-06-23-18-52.png)
@@ -50,3 +50,5 @@ Lucy Keer’s “speedruns” of topics
 https://www.facebook.com/1565310227/posts/10219352053623149/?d=n
 
 https://medium.dianakimball.com/go-on-a-readtreat-a90613bb1675
+
+https://mwichary.medium.com/party-where-we-read-things-c503c3ec624c
