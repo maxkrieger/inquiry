@@ -2,7 +2,7 @@
 id: fa0d5786-bf37-41a2-9c70-15d12a1520e1
 title: DSP Notebook
 desc: null
-updated: 1635389287243
+updated: 1645473627733
 created: 1617767654640
 ---
 
@@ -16,5 +16,7 @@ Could find problems via https://dsp.stackexchange.com/
 https://github.com/alexcrist/scaler
 
 http://samplr.net/
+
+https://www.baudline.com/
 
 See also: [[projects.linear-algebra-spreadsheet]]
