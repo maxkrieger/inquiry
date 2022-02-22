@@ -2,7 +2,7 @@
 id: 1rCLzzZwVdcOICn9eIrII
 title: Most explorables should be IDE plugins
 desc: ""
-updated: 1644374527467
+updated: 1645439017506
 created: 1644370273705
 ---
 
@@ -54,7 +54,7 @@ These also could be notebook widgets:
 
 This is visualizing a for-loop! Could yield it [tqdm](https://tqdm.github.io/) style.
 
-<img src="https://media.githubusercontent.com/media/maxkrieger/inquiry/main/vault/assets/big/subtyping.gif"/>
+![](/assets/big/subtyping.gif)
 
 ### Introduction to Computational Thinking
 
@@ -65,6 +65,10 @@ This one's kinda cheating, it's literally a collection of notebooks. But Julia I
 Like this grid literal!
 
 ![](/assets/images/2022-02-08-18-25-07.png)
+
+### RedBlobGames
+
+https://www.redblobgames.com/grids/line-drawing.html
 
 ---
 
