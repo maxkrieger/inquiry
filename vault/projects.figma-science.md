@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
-updated: 1644373648919
+updated: 1645658745867
 modified: 2022-02-22T01:00:50-08:00
 ---
 
@@ -52,6 +52,8 @@ Existing work:
 - https://synbiohub.org
 - https://www.radix.bio/
 - https://simularium.allencell.org
+- https://czid.org
+- http://vis.nucleome.org/entry/examples
 
 ![](/assets/images/2021-04-06-23-53-33.png)
 

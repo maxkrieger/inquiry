@@ -1,6 +1,26 @@
-version: 5
+version: 4
+useFMTitle: true
+useNoteTitleForLink: true
+mermaid: true
+useKatex: true
 dev:
     enablePreviewV2: true
+site:
+    copyAssets: true
+    siteHierarchies:
+        - root
+    siteRootDir: docs
+    usePrettyRefs: true
+    title: Max's Inquiry
+    description: max's inquiry wiki
+    siteUrl: 'https://a9.io'
+    assetsPrefix: inquiry
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - vault
+    siteLastModified: true
+    gh_edit_branch: main
 commands:
     lookup:
         note:
@@ -9,7 +29,6 @@ commands:
             leaveTrace: false
             bubbleUpCreateNew: true
             fuzzThreshold: 0.2
-            vaultSelectionModeOnCreate: smart
     insertNote:
         initialValue: templates
     insertNoteLink:
@@ -18,9 +37,8 @@ commands:
     insertNoteIndex:
         enableMarker: false
     randomNote: {}
-    copyNoteLink: {}
 workspace:
-    dendronVersion: 0.83.0
+    dendronVersion: 0.72.0
     vaults:
         -
             fsPath: vault
@@ -71,34 +89,3 @@ preview:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
-    automaticallyShowPreview: false
-publishing:
-    enableFMTitle: true
-    enableNoteTitleForLink: true
-    enableMermaid: true
-    enablePrettyRefs: true
-    enableKatex: true
-    assetsPrefix: inquiry
-    copyAssets: true
-    siteHierarchies:
-        - root
-    enableSiteLastModified: true
-    siteRootDir: docs
-    siteUrl: 'https://a9.io'
-    enableFrontmatterTags: true
-    enableHashesForFMTags: false
-    enableRandomlyColoredTags: true
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - vault
-    writeStubs: false
-    seo:
-        title: Max's Inquiry
-        description: max's inquiry wiki
-    github:
-        enableEditLink: true
-        editLinkText: Edit this page on GitHub
-        editBranch: main
-        editViewMode: tree
-    enablePrettyLinks: true

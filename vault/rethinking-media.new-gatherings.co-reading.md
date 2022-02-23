@@ -2,7 +2,7 @@
 id: 2076f944-b97b-4241-b44d-07737c3e7257
 title: Reading, Together
 desc: null
-updated: 1637647734313
+updated: 1645648744235
 created: 1637647783374
 modified: 2022-02-20T13:35:11-08:00
 ---
@@ -52,3 +52,5 @@ https://www.facebook.com/1565310227/posts/10219352053623149/?d=n
 https://medium.dianakimball.com/go-on-a-readtreat-a90613bb1675
 
 https://mwichary.medium.com/party-where-we-read-things-c503c3ec624c
+
+[Stian's Notes on Ad-Hoc Book Clubs](https://notes.reganmian.net/e--ad-hoc-book-clubs)
