@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
-updated: 1645658745867
+updated: 1645658819990
 modified: 2022-02-22T01:00:50-08:00
 ---
 
@@ -95,7 +95,7 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 
 ([Vizarr](https://github.com/hms-dbmi/vizarr))
 
-- [Vizarr](https://github.com/hms-dbmi/vizarr)
+- [Vizarr](https://github.com/hms-dbmi/vizarrhttps://biowasm.com)
 - https://imagej.nih.gov/ij/docs/guide/146-8.html
 - https://fiji.sc
 - Bioformats - interop https://docs.openmicroscopy.org/bio-formats/6.8.1/about/index.html
@@ -131,6 +131,7 @@ https://phage.directory/tools
 - https://paintshop.io
   - R plugin
 - https://github.com/cov-lineages/pangolin
+- https://biowasm.com
 
 #### Primers
 
