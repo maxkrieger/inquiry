@@ -1,4 +1,2 @@
-jungwon.mp4 filter=lfs diff=lfs merge=lfs -text
 programmer-interfaces.pdf filter=lfs diff=lfs merge=lfs -text
 interactive-math-tools.pdf filter=lfs diff=lfs merge=lfs -text
-images/toby_physical_prototype.gif filter=lfs diff=lfs merge=lfs -text
