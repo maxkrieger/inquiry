@@ -2,3 +2,5 @@ node_modules
 .dendron.*
 build
 .DS_Store
+
+.next

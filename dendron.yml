@@ -77,7 +77,7 @@ publishing:
   enableMermaid: true
   enablePrettyRefs: true
   enableKatex: true
-  assetsPrefix: inquiry
+  assetsPrefix: /inquiry
   copyAssets: true
   siteHierarchies:
     - root
