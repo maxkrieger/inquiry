@@ -2,7 +2,7 @@
 id: GdqNoSF4C3XWmKnrmuF1H
 title: Stop Motion Paper Prototyping
 desc:
-updated: 1645425272303
+updated: 1645744689459
 created: 1643324036901
 ---
 
@@ -10,16 +10,17 @@ There's something to "acting out" UI scenarios like [[theory.puppetry]].
 
 ![](/assets/images/toby_physical_prototype.gif)
 
-<!-- <img alt="![Toby Schachman's Paper Prototype" src="https://media.githubusercontent.com/media/maxkrieger/inquiry/main/vault/assets/images/toby_physical_prototype.gif" /> -->
+<video autoplay loop>
+<source src="https://i.imgur.com/2M1pSGS.mp4" type="video/mp4">
+</video>
 
 from http://glench.com/MarilynMaloney/
 
 Jungwon's Elicit prototype:
 
-<!-- <video controls width="100%">
-<source src="https://github.com/maxkrieger/inquiry/raw/main/vault/assets/jungwon.mp4" type="video/mp4">
-Unsupported video
-</video> -->
+<video autoplay loop>
+<source src="https://i.imgur.com/YRaELn7.mp4" type="video/mp4">
+</video>
 
 https://mobile.twitter.com/imgoonn/status/1487928153200893953
 
