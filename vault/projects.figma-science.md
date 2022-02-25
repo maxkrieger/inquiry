@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
-updated: 1645734790953
+updated: 1645830261952
 modified: 2022-02-22T01:00:50-08:00
 ---
 
@@ -128,6 +128,7 @@ https://phage.directory/tools
 #### Genomes
 
 - https://jbrowse.org/jb2/
+- http://gmod.org/wiki/GBrowse
 - https://genomearchitect.readthedocs.io/en/latest/
 - https://paintshop.io
   - R plugin
