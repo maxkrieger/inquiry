@@ -2,7 +2,7 @@
 id: UzCKP637yqfdSpsFfin9x
 title: Becoming a Resident Toolbuilder
 desc: null
-updated: 1643783143921
+updated: 1645830067189
 created: 1633731961384
 ---
 
@@ -36,3 +36,5 @@ Fun random example: Chaim Gingold & Shawn Douglas's [Gelbox](https://douglaslab.
 Related: [[projects.figma-science]]
 
 Kevin suggests commercial labs "get more done" - just a matter of being good about IP transfer.
+
+https://newscience.org/how-software-in-the-life-sciences-actually-works-and-doesnt-work/
