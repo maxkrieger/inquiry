@@ -2,7 +2,7 @@
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
 desc: null
-updated: 1645393168
+updated: 1645952906
 created: 1643677597778
 ---
 
@@ -32,5 +32,7 @@ Links:
 - http://www.kingdraw.cn/en/index.html
 
 Help me understand the [Citric Acid Cycle](https://en.m.wikipedia.org/wiki/Citric_acid_cycle)!
+
+Biochemistry… in 3d! https://youtu.be/or5qN0SHJC4
 
 Related: [[projects.figma-science]], [[misc.why-proof-assistants-bad]], [[rethinking-media.microworld-languages]]

@@ -1,8 +1,8 @@
 ---
 id: 4ukfza3df1d9r9q33uy3yuu
 title: Learning DevOps environment/course
-desc: ""
-updated: 1645657455575
+desc: 
+updated: 1645865040
 created: 1645657116006
 ---
 
@@ -14,6 +14,7 @@ Why is it so hard right now to become one?
   - Need more minecraft servers
 - Complexity, incidental and intentional
 - YAML sucks
+- Terraform is cool
 - AWS is enormous - they have their own certification program
 
 ** Are guided sandboxes the solution? **
