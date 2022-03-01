@@ -2,7 +2,7 @@
 id: zv0knfsr6147of9vt6j1tm2
 title: Video Editing as Window Management
 desc: ""
-updated: 1646124322978
+updated: 1646125821239
 created: 1646123947927
 ---
 
@@ -12,7 +12,7 @@ created: 1646123947927
 
 Similar for comics, but over time.
 
-When a video is edited together, you have a "desktop environment" that surfaces various materials over time to give you, the viewer, an understanding of the notions in the work. You of course don't manage the windows, that's the editor's job. But the best filmmaking makes you feel like you're somewhat in control, and answers/asks the questions for you, as they unravel, over time.
+When footage is cut into a video, you have a "desktop environment" that surfaces various materials over time to give you, the viewer, an understanding of the notions in the work. You of course don't manage the windows, that's the editor's job. But the best filmmaking makes you feel like you're somewhat in control, and answers/asks the questions for you, as they unravel, over time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6tw_JVz_IEc?start=156" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
