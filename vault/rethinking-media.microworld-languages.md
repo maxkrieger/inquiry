@@ -3,7 +3,7 @@ id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 desc: null
 updated: 1645332748452
-modified: 2022-01-09T20:10:51-05:00
+modified: 2022-03-01T23:55:28-08:00
 ---
 
 ![](assets/images/2021-01-29-01-33-20.png)
@@ -48,6 +48,7 @@ Changing Minds by Andrea DiSessa
   - https://epirhandbook.com/
 - [Xena Project](https://wwwf.imperial.ac.uk/~buzzard/xena/) (check their Lean "Natural Number Game")
 - [Logic & Proof in Lean](https://leanprover.github.io/logic_and_proof/)
+- https://leanprover-community.github.io/undergrad.html
 - [PyZX](https://pyzx.readthedocs.io/en/latest/)
 - [Turtles Termites and Traffic Jams](https://mitpress.mit.edu/books/turtles-termites-and-traffic-jams)
 - https://www.pseudorandom.com/implementing-exp
