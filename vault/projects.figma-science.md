@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 desc: null
-updated: 1645830261952
+updated: 1646296338808
 modified: 2022-02-22T01:00:50-08:00
 ---
 
@@ -134,6 +134,8 @@ https://phage.directory/tools
   - R plugin
 - https://github.com/cov-lineages/pangolin
 - https://biowasm.com
+- https://aidenlab.org/juicebox/
+- http://www.celavi.pro
 
 #### Primers
 
@@ -142,6 +144,8 @@ https://phage.directory/tools
 #### Synthetics
 
 - https://async.ece.utah.edu/tools/ibiosim/
+- http://synbiocad.org
+- http://cellocad.org/#/welcome?redirect=%2Fhome
 
 #### Plasmid Editing
 
