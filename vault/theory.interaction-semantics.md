@@ -3,7 +3,7 @@ id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
 desc: null
 updated: 1643240587400
-modified: 2022-02-27T17:54:38-08:00
+modified: 2022-03-03T01:38:11-08:00
 ---
 
 Programming semantics are well-studied. What about direct manipulation semantics? Can they be [in bijection](https://twitter.com/sliminality/status/1227791682038452225)?
@@ -77,3 +77,5 @@ emacs’ context menu mode https://ruzkuku.com/texts/emacs-mouse.html
 https://twitter.com/prathyvsh/status/1304420854135021575
 
 https://twitter.com/yoshikischmitz/status/1232914839791493125
+
+SnapGene is very much “gene programming by demonstration” - all your plasmid edits get recorded and diffed into a step by step protocol https://www.snapgene.com/features/#configured-for-automatic-documentation-and-easy-data-exchange
