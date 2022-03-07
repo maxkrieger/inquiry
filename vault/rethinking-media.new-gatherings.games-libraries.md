@@ -1,7 +1,7 @@
 ---
 id: TWRz8H3xC5xXk6UzQhV5Q
 title: Games for Libraries
-updated: 1646690397
+updated: 1646690425
 created: 1633155360500
 desc: null
 ---
@@ -15,6 +15,9 @@ desc: null
 * Best diagram
 * Assemble a list of essential knowledge for a hypothetical society (foundation/post apocalyptic)
 * Guess the title and subject of this book based on this page I'm showing you
+* Guess the genre of a given shelf that you got blindfolded to go to
+
+Coffee table books are great to read together, wide viewing angle
 
 * need to mark book slot locations to put the books back
 
