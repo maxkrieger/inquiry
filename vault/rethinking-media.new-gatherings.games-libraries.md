@@ -1,7 +1,7 @@
 ---
 id: TWRz8H3xC5xXk6UzQhV5Q
 title: Games for Libraries
-updated: 1646690492
+updated: 1646722878
 created: 1633155360500
 desc: null
 ---
@@ -15,7 +15,7 @@ desc: null
 * The book with the most magical incantations
 * Best phrase
 * Best diagram
-* Assemble a list of essential knowledge for a hypothetical society (foundation/post apocalyptic)
+* Assemble a list of essential knowledge for a hypothetical society (foundation/post apocalyptic) / “pick 5 books to rebuild society/on a tropical island”
 * Guess the title and subject of this book based on this page I'm showing you
 * Guess the genre of a given shelf that you got blindfolded to go to
 * Bring back something cool you have 30 minutes
