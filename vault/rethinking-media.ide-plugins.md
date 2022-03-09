@@ -2,7 +2,7 @@
 id: 1rCLzzZwVdcOICn9eIrII
 title: Most explorables should be IDE plugins
 desc: ""
-updated: 1645745040360
+updated: 1646790665333
 created: 1644370273705
 ---
 
@@ -19,6 +19,8 @@ An interpretation that follows: 3blue1brown's videos about linear algebra are be
 ---
 
 Explorables introduce novel UI and representational ideas all the time. Here's a possible shortcut to situating/testing these ideas in a working context: **put the interface in the IDE**.
+
+Suppose I want to put A\* in my game. I should be able to see [RedBlobGames'](https://www.redblobgames.com/pathfinding/a-star/introduction.html) pathfinding representation as soon as I want to import A\* and integrate it in my codebase. Mapping my data structure to _his_ data structure and gaining an understanding of the algorithm's pathologies.
 
 IDEs (and notebooks) are extensible objects, and you can often add arbitrary views on top of the original textual representation you're working with. This is the [Livelits](https://web.eecs.umich.edu/~comar/livelits-tyde.pdf) approach:
 
