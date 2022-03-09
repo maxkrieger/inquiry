@@ -1,7 +1,7 @@
 ---
 id: TWRz8H3xC5xXk6UzQhV5Q
 title: Games for Libraries
-updated: 1646722878
+updated: 1646856057
 created: 1633155360500
 desc: null
 ---
@@ -15,10 +15,19 @@ desc: null
 * The book with the most magical incantations
 * Best phrase
 * Best diagram
-* Assemble a list of essential knowledge for a hypothetical society (foundation/post apocalyptic) / “pick 5 books to rebuild society/on a tropical island”
 * Guess the title and subject of this book based on this page I'm showing you
 * Guess the genre of a given shelf that you got blindfolded to go to
 * Bring back something cool you have 30 minutes
+
+### Research directed prompts
+
+Given only the dewey-floor mapping index (a brochure available in the lobby), find N books that answer:
+
+* Assemble a list of essential knowledge for a hypothetical society (foundation/post apocalyptic) / “pick 5 books to rebuild society/on a tropical island”
+* Researching to write a film with X premise
+* Teaching an alien who speaks English how to pretend to be a human
+
+Better results when you integrate multiple disciplines!
 
 —-
 
