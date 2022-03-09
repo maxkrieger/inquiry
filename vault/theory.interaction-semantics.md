@@ -2,7 +2,7 @@
 id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
 desc: null
-updated: 1643240587400
+updated: 1646786752323
 modified: 2022-03-03T01:38:11-08:00
 ---
 
@@ -79,3 +79,5 @@ https://twitter.com/prathyvsh/status/1304420854135021575
 https://twitter.com/yoshikischmitz/status/1232914839791493125
 
 SnapGene is very much “gene programming by demonstration” - all your plasmid edits get recorded and diffed into a step by step protocol https://www.snapgene.com/features/#configured-for-automatic-documentation-and-easy-data-exchange
+
+https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell
