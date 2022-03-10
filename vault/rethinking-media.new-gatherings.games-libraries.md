@@ -1,7 +1,7 @@
 ---
 id: TWRz8H3xC5xXk6UzQhV5Q
 title: Games for Libraries
-updated: 1646856057
+updated: 1646873261
 created: 1633155360500
 desc: null
 ---
@@ -33,6 +33,7 @@ Better results when you integrate multiple disciplines!
 
 
 - Coffee table/large format books are great to read together, wide viewing angle
+- Do this stuff in groups/teams so you don’t unshelve too many books for the librarians to put back
 - Focusing on textbooks might be interesting
 
 * need to mark book slot locations to put the books back
