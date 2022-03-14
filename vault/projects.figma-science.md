@@ -1,9 +1,9 @@
 ---
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
-desc: null
 updated: 1646296338808
-modified: 2022-02-22T01:00:50-08:00
+modified: 2022-03-14T15:44:45-07:00
+desc: null
 ---
 
 ![](/assets/images/2021-04-06-23-36-23.png)
@@ -54,6 +54,7 @@ Existing work:
 - https://simularium.allencell.org
 - https://czid.org
 - http://vis.nucleome.org/entry/examples
+- https://www.jkanche.com/kana/
 
 ![](/assets/images/2021-04-06-23-53-33.png)
 
