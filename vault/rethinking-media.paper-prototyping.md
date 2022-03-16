@@ -1,9 +1,9 @@
 ---
 id: GdqNoSF4C3XWmKnrmuF1H
 title: Stop Motion Paper Prototyping
-desc:
 updated: 1645745018023
 created: 1643324036901
+desc: null
 ---
 
 There's something to "acting out" UI scenarios like [[theory.puppetry]].
@@ -23,5 +23,7 @@ Jungwon's Elicit prototype:
 https://mobile.twitter.com/imgoonn/status/1487928153200893953
 
 Probably lots of HCI stuff out there
+
+https://twitter.com/nsylianteng/status/1503399731116093451?s=20&t=AZUZ-Et5V50M6YObywnhrQ
 
 See also [[theory.materiality]]
