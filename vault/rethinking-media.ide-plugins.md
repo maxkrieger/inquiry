@@ -1,8 +1,8 @@
 ---
 id: 1rCLzzZwVdcOICn9eIrII
 title: Most explorables should be IDE plugins
-desc: ""
-updated: 1646790665333
+desc: 
+updated: 1648238889
 created: 1644370273705
 ---
 
@@ -56,7 +56,7 @@ These also could be notebook widgets:
 
 This is visualizing a for-loop! Could yield it [tqdm](https://tqdm.github.io/) style.
 
-<video loop autoplay width="100%">
+<video loop width="100%">
     <source src="https://i.imgur.com/JmkiFY4.mp4" type="video/mp4">
 </video>
 
