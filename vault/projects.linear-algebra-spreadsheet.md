@@ -1,9 +1,9 @@
 ---
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
-desc: null
 updated: 1645332715205
-modified: 2021-12-17T12:17:39-08:00
+modified: 2022-03-23T16:44:33-07:00
+desc: null
 ---
 
 _Thanks to Garth Goldwater for a lot of the ideas here_
@@ -128,3 +128,5 @@ Gensim
 https://auto.gluon.ai/stable/index.html
 
 https://math.mit.edu/~gs/learningfromdata/
+
+https://twitter.com/SC_Griffith/status/1506489478453600258?s=20

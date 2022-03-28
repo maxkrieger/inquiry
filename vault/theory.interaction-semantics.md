@@ -81,3 +81,11 @@ https://twitter.com/yoshikischmitz/status/1232914839791493125
 SnapGene is very much “gene programming by demonstration” - all your plasmid edits get recorded and diffed into a step by step protocol https://www.snapgene.com/features/#configured-for-automatic-documentation-and-easy-data-exchange
 
 https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell
+
+> This is a tiny toy programming system inspired by several ideas:
+
+> Turtle graphics as in LOGO, but with a
+> bidirectional user interface as in Sketch-n-Sketch, but using
+> gradient-based updates as in ML systems.
+
+Kartik Chandra's Differentiable Snap! https://kach.github.io/turtlegrad/
