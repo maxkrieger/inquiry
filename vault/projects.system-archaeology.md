@@ -2,7 +2,7 @@
 id: 90f43805-4858-4d25-8f51-6dec373f6b2f
 title: System Archaeology Seminar
 desc: null
-updated: 1620018890998
+updated: 1648500435111
 modified: 2021-09-10T23:43:23-07:00
 ---
 
@@ -22,7 +22,11 @@ Comparative archaeology. What's easier or harder to do? What's the texture?
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">when talking about systems (OSes, PLs, games, applications), I think reading about them and their history is somewhat overrated, and actually _using_ / playing with them is underrated<br><br>(although finding a thing to use them for is often hard)</p>&mdash; Omar Rizwan (@rsnous) <a href="https://twitter.com/rsnous/status/1290203117649162240?ref_src=twsrc%5Etfw">August 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-benchmarks: todo list etc
+## What to make?
+
+- 7GUIs - https://eugenkiss.github.io/7guis/
+
+- Maybe lean into the fiction/alternate history aspect. Make games or even just fictional apps.
 
 ## Collection
 
