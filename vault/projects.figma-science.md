@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 updated: 1646296338808
-modified: 2022-03-28T12:37:01-07:00
+modified: 2022-03-28T13:20:16-07:00
 desc: null
 ---
 
@@ -173,6 +173,9 @@ Greaat overview: https://medium.com/@alice.menglh/may-7th-13th-8ab68cbc9e7b
 - https://www.cgl.ucsf.edu/chimera/download.html
 - [**"Blender for Biochemists"**](https://www.youtube.com/watch?v=YQ73bFOHObM)
 - https://aip.scitation.org/doi/full/10.1063/1.5039473?Track=APLBJUN20
+- http://iqmol.org
+
+
 
 #### Sim
 
