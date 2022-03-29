@@ -1,7 +1,7 @@
 ---
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
-updated: 1646296338808
+updated: 1648538150103
 modified: 2022-03-28T13:20:16-07:00
 desc: null
 ---
@@ -128,6 +128,13 @@ https://phage.directory/tools
 
 #### Genomes
 
+![Biocyc](/assets/images/2022-03-29-00-13-48.png)
+
+![](/assets/images/2022-03-29-00-14-15.png)
+
+(Biocyc)
+
+- https://biocyc.org
 - https://jbrowse.org/jb2/
 - http://gmod.org/wiki/GBrowse
 - https://genomearchitect.readthedocs.io/en/latest/
@@ -175,8 +182,6 @@ Greaat overview: https://medium.com/@alice.menglh/may-7th-13th-8ab68cbc9e7b
 - https://aip.scitation.org/doi/full/10.1063/1.5039473?Track=APLBJUN20
 - http://iqmol.org
 
-
-
 #### Sim
 
 - https://en.m.wikipedia.org/wiki/ORCA_(quantum_chemistry_program)
@@ -199,6 +204,8 @@ In general, many domain specific tools are MATLAB plugins.
 
   - https://www.rcsb.org/sequence/4Z35
   - https://www.rcsb.org/genome/4XVQ
+
+- https://www.ncbi.nlm.nih.gov/structure
 
 - https://www.czbiohub.org/technology-platforms/
 
