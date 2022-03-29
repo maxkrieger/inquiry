@@ -1,7 +1,7 @@
 ---
 id: GdqNoSF4C3XWmKnrmuF1H
 title: Stop Motion Paper Prototyping
-updated: 1645745018023
+updated: 1648538087
 created: 1643324036901
 desc: null
 ---
@@ -25,5 +25,7 @@ https://mobile.twitter.com/imgoonn/status/1487928153200893953
 Probably lots of HCI stuff out there
 
 https://twitter.com/nsylianteng/status/1503399731116093451?s=20&t=AZUZ-Et5V50M6YObywnhrQ
+
+https://twitter.com/oo_kk_aa/status/1508006382062112768?s=20
 
 See also [[theory.materiality]]
