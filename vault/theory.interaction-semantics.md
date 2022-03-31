@@ -2,7 +2,7 @@
 id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
 updated: 1646786752323
-modified: 2022-03-30T01:35:16-07:00
+modified: 2022-03-31T00:49:20-07:00
 desc: null
 ---
 
@@ -93,3 +93,5 @@ Kartik Chandra's Differentiable Snap! https://kach.github.io/turtlegrad/
 https://twitter.com/disconcision/status/1508912020380434439?s=20&t=gYgR5XSK1vgFHppPMZlIdg
 
 https://faculty.washington.edu/ajko/papers/Ko2005Citrus.pdf
+
+Figure 8 of https://profs.etsmtl.ca/mmcguffin/research/2020-mcguffin-VPLs/mcguffin-avi2020.pdf
