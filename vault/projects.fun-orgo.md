@@ -1,9 +1,9 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-desc: null
-updated: 1645952906
+updated: 1648892891
 created: 1643677597778
+desc: null
 ---
 
 ![MolView](/assets/images/2022-01-31-17-35-13.png)
@@ -34,5 +34,7 @@ Links:
 Help me understand the [Citric Acid Cycle](https://en.m.wikipedia.org/wiki/Citric_acid_cycle)!
 
 Biochemistry… in 3d! https://youtu.be/or5qN0SHJC4
+
+https://www.instagram.com/p/Cbz5330N8wi/?utm_medium=copy_link
 
 Related: [[projects.figma-science]], [[misc.why-proof-assistants-bad]], [[rethinking-media.microworld-languages]]
