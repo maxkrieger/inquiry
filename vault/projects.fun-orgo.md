@@ -1,7 +1,7 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-updated: 1649321635
+updated: 1649321729
 created: 1643677597778
 desc: null
 ---
@@ -38,5 +38,7 @@ Biochemistry… in 3d! https://youtu.be/or5qN0SHJC4
 https://www.instagram.com/p/Cbz5330N8wi/?utm_medium=copy_link
 
 https://apps.apple.com/us/app/mechanisms-organic-chemistry/id1157056029
+
+https://apps.apple.com/us/app/molecule/id797331776
 
 Related: [[projects.figma-science]], [[misc.why-proof-assistants-bad]], [[rethinking-media.microworld-languages]]
