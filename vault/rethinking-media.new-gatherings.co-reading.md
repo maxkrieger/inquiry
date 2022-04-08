@@ -54,3 +54,5 @@ https://medium.dianakimball.com/go-on-a-readtreat-a90613bb1675
 https://mwichary.medium.com/party-where-we-read-things-c503c3ec624c
 
 [Stian's Notes on Ad-Hoc Book Clubs](https://notes.reganmian.net/e--ad-hoc-book-clubs)
+
+[[rethinking-media.beyond-the-desk]]
