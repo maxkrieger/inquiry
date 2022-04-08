@@ -1,10 +1,10 @@
 ---
 id: 2076f944-b97b-4241-b44d-07737c3e7257
 title: Reading, Together
-desc: null
 updated: 1645648744235
 created: 1637647783374
-modified: 2022-02-20T13:35:11-08:00
+modified: 2022-04-08T13:59:57-07:00
+desc: null
 ---
 
 ![](/assets/images/2021-05-06-23-18-52.png)
@@ -56,3 +56,5 @@ https://mwichary.medium.com/party-where-we-read-things-c503c3ec624c
 [Stian's Notes on Ad-Hoc Book Clubs](https://notes.reganmian.net/e--ad-hoc-book-clubs)
 
 [[rethinking-media.beyond-the-desk]]
+
+https://twitter.com/geoffreylitt/status/1509654002530717696?s=20&t=_vBMh8qOG7U5MeLmr9yG9w

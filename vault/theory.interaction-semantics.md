@@ -1,9 +1,9 @@
 ---
 id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
-desc: null
 updated: 1646786752323
-modified: 2022-03-03T01:38:11-08:00
+modified: 2022-03-31T00:49:20-07:00
+desc: null
 ---
 
 Programming semantics are well-studied. What about direct manipulation semantics? Can they be [in bijection](https://twitter.com/sliminality/status/1227791682038452225)?
@@ -89,3 +89,9 @@ https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperativ
 > gradient-based updates as in ML systems.
 
 Kartik Chandra's Differentiable Snap! https://kach.github.io/turtlegrad/
+
+https://twitter.com/disconcision/status/1508912020380434439?s=20&t=gYgR5XSK1vgFHppPMZlIdg
+
+https://faculty.washington.edu/ajko/papers/Ko2005Citrus.pdf
+
+Figure 8 of https://profs.etsmtl.ca/mmcguffin/research/2020-mcguffin-VPLs/mcguffin-avi2020.pdf
