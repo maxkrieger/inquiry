@@ -1,9 +1,9 @@
 ---
 id: yl9a8MqOPzfM9EI6h8nUt
 title: New Hackathon Models
-desc: null
-updated: 1637479768
+updated: 1649440646
 created: 1633151985254
+desc: null
 ---
 
 Hackathons have become decadent even before COVID-19 shut them down.
@@ -28,6 +28,8 @@ https://en.m.wikipedia.org/wiki/Mapathon
 https://www.physics.mcgill.ca/hackathon/
 
 HackUIUC was focused on open source contributions 
+
+https://twitter.com/maxkriegers/status/1512489227191144452
 
 ## Related writing
 
