@@ -94,4 +94,8 @@ https://twitter.com/disconcision/status/1508912020380434439?s=20&t=gYgR5XSK1vgFH
 
 https://faculty.washington.edu/ajko/papers/Ko2005Citrus.pdf
 
+![](/assets/images/2022-04-11-12-47-00.png)
+
 Figure 8 of https://profs.etsmtl.ca/mmcguffin/research/2020-mcguffin-VPLs/mcguffin-avi2020.pdf
+
+There's a very deep truth about noun-verb distinction in UI.
