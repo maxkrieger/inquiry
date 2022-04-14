@@ -1,8 +1,8 @@
 ---
 id: c6b772e0-4ca8-4810-b237-1c4b414137d3
 title: AR Paper
-desc: ""
-updated: 1616278371000
+desc: 
+updated: 1649911084
 created: 1615482779163
 ---
 
@@ -24,7 +24,7 @@ Es Devlin does something similar _in her mind_ in the [process piece here](https
 ![](assets/images/2021-01-29-02-26-31.png)
 ![](assets/images/2021-01-29-02-26-45.png)
 
-Printed Matter's ["Tables"](https://www.printedmatter.org/catalog/tables/11555) (gif by Toph Tucker/Lauren Schwulst)
+Printed Matter's ["Tables"](https://www.printedmatter.org/catalog/tables/11555) (gif by Toph Tucker/Laurel Schwulst)
 ![](https://d2w9rnfcy7mm78.cloudfront.net/6107398/original_5ef41024ea80ff1819d81312cb036672.gif?1581045486?bc=0)
 
 - <https://shreevatsa.net/mobius-print/>
