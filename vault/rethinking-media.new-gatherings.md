@@ -1,7 +1,7 @@
 ---
 id: 0mUWM5wZpplcbLPYIXers
 title: New Gatherings
-updated: 1649902096
+updated: 1649902165
 created: 1637647611631
 desc: null
 ---
@@ -17,4 +17,4 @@ How can we hang out in new ways?
 - Novel fruit symposium
 - Makerspace workshops like bio hacker spaces and TinkerKitchen
 - UI Hackathons - https://blog.rysolv.com/worst-time-date-selectors-in-the-world
-- https://twitter.com/maxkriegers/status/1512489227191144452?s=20&t=-8xNxTHSp-AyL3RsvmT-tA
+- https://twitter.com/maxkriegers/status/1512489227191144452
