@@ -1,7 +1,7 @@
 ---
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
-updated: 1645332715205
+updated: 1650071787356
 modified: 2022-03-23T16:44:33-07:00
 desc: null
 ---
@@ -130,3 +130,6 @@ https://auto.gluon.ai/stable/index.html
 https://math.mit.edu/~gs/learningfromdata/
 
 https://twitter.com/SC_Griffith/status/1506489478453600258?s=20
+
+Lots of matmul happening here:
+https://www.mattkeeter.com/projects/mrep/
