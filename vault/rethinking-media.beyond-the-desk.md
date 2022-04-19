@@ -1,9 +1,9 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-desc: 
-updated: 1650401830
+updated: 1650401873
 created: 1649460099504
+desc: null
 ---
 
 It is rather absurd that we have to sacrifice our bodies' wellbeing while performing knowledge work, and make up for it through exercise.
@@ -82,5 +82,8 @@ Michael Ashcroft's Alexander Technique work
 Current alt-furniture offerings
 
 https://varierchairs.com/kneeling-chairs/variable-balans/
+
+https://walden.us/products/walden-meditation-cushion-mat-set
+
 
 —-
