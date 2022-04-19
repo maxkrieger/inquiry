@@ -1,8 +1,8 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-desc: ""
-updated: 1649460099504
+desc: 
+updated: 1650401830
 created: 1649460099504
 ---
 
@@ -78,3 +78,9 @@ Drafting tables
 Michael Ashcroft's Alexander Technique work
 
 ---
+
+Current alt-furniture offerings
+
+https://varierchairs.com/kneeling-chairs/variable-balans/
+
+—-
