@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1650401873
+updated: 1650589562
 created: 1649460099504
 desc: null
 ---
@@ -84,6 +84,8 @@ Current alt-furniture offerings
 https://varierchairs.com/kneeling-chairs/variable-balans/
 
 https://walden.us/products/walden-meditation-cushion-mat-set
+
+https://nuggetcomfort.com/
 
 
 —-
