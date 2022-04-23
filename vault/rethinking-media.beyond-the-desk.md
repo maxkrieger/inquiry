@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1650700822
+updated: 1650701181
 created: 1649460099504
 desc: null
 ---
@@ -54,8 +54,6 @@ https://librarytestkitchen.org/recipes/27
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">the thing with biohacking tech type guys is they can tell you 18 different kinds of nootropics to boost coding and jackoff performance or whatever but most of them could not tell you how to do a normal series of hip stretches</p>&mdash; stephanie (@isosteph) <a href="https://twitter.com/isosteph/status/1492644452908904448?ref_src=twsrc%5Etfw">February 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
 
 ---
 
