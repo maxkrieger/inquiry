@@ -1,9 +1,9 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-desc: ""
-updated: 1649460099504
+updated: 1650701181
 created: 1649460099504
+desc: null
 ---
 
 It is rather absurd that we have to sacrifice our bodies' wellbeing while performing knowledge work, and make up for it through exercise.
@@ -57,8 +57,6 @@ https://librarytestkitchen.org/recipes/27
 
 ---
 
----
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">every time I think about &quot;exercise&quot; I think about this. we need neither VR nor smart dust for it. we just need to think outside the desk&#39;s realm... <a href="https://t.co/uKy9PyT0dY">pic.twitter.com/uKy9PyT0dY</a></p>&mdash; Max Krieger (@maxkriegers) <a href="https://twitter.com/maxkriegers/status/1512154458435710976?ref_src=twsrc%5Etfw">April 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 (The Humane Representation of Thought, 56:00)
@@ -78,3 +76,18 @@ Drafting tables
 Michael Ashcroft's Alexander Technique work
 
 ---
+
+Current alt-furniture offerings
+
+https://varierchairs.com/kneeling-chairs/variable-balans/
+
+https://walden.us/products/walden-meditation-cushion-mat-set
+
+https://nuggetcomfort.com/
+
+
+—-
+
+What’s the architectural history here? Surely hippies tried this (pre computer)?
+
+Tatami mats. Pre industrial Japan knowledge work?

@@ -1,7 +1,7 @@
 ---
 id: pGglDrz6SaRJW49sdE3ML
 title: Projection Recipes
-desc: 
+desc:
 updated: 1646270662
 created: 1643415389444
 ---
@@ -11,3 +11,5 @@ created: 1643415389444
 J. Kenji Lopez Alt uses a GoPro in his “POV” cooking videos - imagine augmenting those https://youtube.com/playlist?list=PLXonhhg5tUSJvVvHMLsXJG0TbSNmk7j-_
 
 - https://youtu.be/Bt8YgEr-9is
+
+Maybe this is a way to learn [[projects.fun-orgo]]
