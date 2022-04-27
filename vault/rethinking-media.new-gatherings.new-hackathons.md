@@ -1,7 +1,7 @@
 ---
 id: yl9a8MqOPzfM9EI6h8nUt
 title: New Hackathon Models
-updated: 1650411121
+updated: 1651035497
 created: 1633151985254
 desc: null
 ---
@@ -41,3 +41,5 @@ https://twitter.com/0xmaddie_/status/1516252794751266816?s=21&t=6TYmdeZirWcLcbp8
 
 - UI Hackathons - https://blog.rysolv.com/worst-time-date-selectors-in-the-world
 - https://twitter.com/maxkriegers/status/1512489227191144452
+
+https://longhack.org/longhack.org
