@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1650701181
+updated: 1650963842
 created: 1649460099504
 desc: null
 ---
@@ -91,3 +91,9 @@ https://nuggetcomfort.com/
 What’s the architectural history here? Surely hippies tried this (pre computer)?
 
 Tatami mats. Pre industrial Japan knowledge work?
+
+—-
+
+https://twitter.com/disconcision/status/1385731992457711619?s=21&t=i3uXyRGzy6nY3hB_LwXY7w
+
+https://twitter.com/disconcision/status/1517732859674607617?s=21&t=i3uXyRGzy6nY3hB_LwXY7w
