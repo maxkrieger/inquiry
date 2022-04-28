@@ -1,7 +1,7 @@
 ---
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
-updated: 1650854580067
+updated: 1651189754266
 modified: 2022-03-23T16:44:33-07:00
 desc: null
 ---
@@ -137,3 +137,7 @@ https://www.mattkeeter.com/projects/mrep/
 ![](/assets/images/2022-04-24-19-42-52.png)
 
 https://transformer-circuits.pub/2021/exercises/index.html
+
+![](/assets/images/2022-04-28-19-49-07.png)
+
+https://jalammar.github.io/illustrated-transformer/
