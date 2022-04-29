@@ -1,9 +1,9 @@
 ---
 id: 6tWPJi4mq1bnF22b4qDfO
 title: Downloads Folder Manager
-desc:
-updated: 1643927188133
+updated: 1651257524
 created: 1633151014508
+desc: null
 ---
 
 In the spirit of [alternative filesystems](https://www.youtube.com/watch?v=pfHpDDXJQVg) - the downloads folder is acutely in need of a different structure.
@@ -25,3 +25,5 @@ https://twitter.com/rsnous/status/1442465299282870274?s=21
 Related: “augmented right click->clean up”
 
 https://tropy.org
+
+https://www.spacedrive.app/
