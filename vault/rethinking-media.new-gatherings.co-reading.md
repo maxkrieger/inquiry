@@ -3,13 +3,15 @@ id: 2076f944-b97b-4241-b44d-07737c3e7257
 title: Reading, Together
 updated: 1645648744235
 created: 1637647783374
-modified: 2022-04-08T13:59:57-07:00
+modified: 2022-04-30T01:18:24-04:00
 desc: null
 ---
 
 ![](/assets/images/2021-05-06-23-18-52.png)
 
 https://commons.wikimedia.org/wiki/File:George_Leite_and_Ana%C3%AFs_Nin_at_daliel%27s_bookstore_in_Berkeley,_CA,_1946.jpg
+
+https://twitter.com/maxkriegers/status/1516128358605594624?s=20
 
 <http://jsomers.net/blog/book-clubs>
 

@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1651255530
+updated: 1651291302
 created: 1649460099504
 desc: null
 ---
@@ -103,3 +103,7 @@ https://twitter.com/disconcision/status/1517732859674607617?s=21&t=i3uXyRGzy6nY3
 Radical portability: what’s an ergonomic modular laptop look like?
 
 Cyberdecks
+
+—-
+
+Novel iPad cases? What are the most radical iPad cases we’ve seen?
