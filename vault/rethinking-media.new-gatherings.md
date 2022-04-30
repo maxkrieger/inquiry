@@ -1,7 +1,7 @@
 ---
 id: 0mUWM5wZpplcbLPYIXers
 title: New Gatherings
-updated: 1650411090
+updated: 1651295724
 created: 1637647611631
 desc: null
 ---
@@ -16,3 +16,4 @@ How can we hang out in new ways?
 - Long wow foundation (Kevin)
 - Novel fruit symposium
 - Makerspace workshops like bio hacker spaces and TinkerKitchen
+- https://ledigestif.substack.com/p/announcing-friendly-style-by-eden
