@@ -1,7 +1,7 @@
 ---
 id: hcgt015548ohjojt3ukg8ao
 title: Relational Algebra Environment
-updated: 1651380082
+updated: 1651380136
 created: 1651361654545
 desc: null
 ---
@@ -22,6 +22,10 @@ https://www.ifi.uzh.ch/dam/jcr:ffffffff-96c1-007c-0000-00004eacf242/ReportHartma
 
 https://www.doc.ic.ac.uk/~pjm/teaching/student_projects/pm105_report.pdf
 
+How do these slides use representations?
+
 https://hope.simons-rock.edu/~mbarsky/utor/teaching/CSC343-2016/content/w5/02.01.Relational%20algebra.pdf
+
+https://cs.gmu.edu/~jessica/cs450_f15/cs450_Relational_Algebra1.pdf
 
 [[theory.interaction-semantics]]
