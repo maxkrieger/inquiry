@@ -1,7 +1,7 @@
 ---
 id: hcgt015548ohjojt3ukg8ao
 title: Relational Algebra Environment
-updated: 1651379962
+updated: 1651380009
 created: 1651361654545
 desc: null
 ---
@@ -19,5 +19,7 @@ Would it look like Natto?
 Would it look like UML?
 
 https://www.ifi.uzh.ch/dam/jcr:ffffffff-96c1-007c-0000-00004eacf242/ReportHartmannFA.pdf
+
+https://www.doc.ic.ac.uk/~pjm/teaching/student_projects/pm105_report.pdf
 
 [[theory.interaction-semantics]]
