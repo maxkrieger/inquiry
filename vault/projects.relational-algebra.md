@@ -1,9 +1,9 @@
 ---
 id: hcgt015548ohjojt3ukg8ao
 title: Relational Algebra Environment
-desc: 
-updated: 1651379860
+updated: 1651379921
 created: 1651361654545
+desc: null
 ---
 
 A learning environment/[[theory.ide-for-x]]/reasoning environment for relational algebra (similar to [[projects.linear-algebra-spreadsheet]]).
@@ -17,3 +17,5 @@ https://ltworf.github.io/relational/screnshots.html
 Would it look like Natto?
 
 Would it look like UML?
+
+https://www.ifi.uzh.ch/dam/jcr:ffffffff-96c1-007c-0000-00004eacf242/ReportHartmannFA.pdf
