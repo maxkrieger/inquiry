@@ -1,7 +1,7 @@
 ---
 id: hcgt015548ohjojt3ukg8ao
 title: Relational Algebra Environment
-updated: 1651380136
+updated: 1651380286
 created: 1651361654545
 desc: null
 ---
@@ -21,6 +21,8 @@ Would it look like UML?
 https://www.ifi.uzh.ch/dam/jcr:ffffffff-96c1-007c-0000-00004eacf242/ReportHartmannFA.pdf
 
 https://www.doc.ic.ac.uk/~pjm/teaching/student_projects/pm105_report.pdf
+
+https://www.researchgate.net/publication/328764241_DB-Learn_Studying_Relational_Algebra_Concepts_by_Snapping_Blocks
 
 How do these slides use representations?
 
