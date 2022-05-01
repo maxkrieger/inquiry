@@ -1,8 +1,8 @@
 ---
 id: hcgt015548ohjojt3ukg8ao
 title: Relational Algebra Environment
-desc: ""
-updated: 1651361839120
+desc: 
+updated: 1651379860
 created: 1651361654545
 ---
 
@@ -11,3 +11,9 @@ A learning environment/[[theory.ide-for-x]]/reasoning environment for relational
 Eg what does this look like in a UI? https://en.wikipedia.org/wiki/Projection_(relational_algebra)
 
 Is this just SQL or...?
+
+https://ltworf.github.io/relational/screnshots.html
+
+Would it look like Natto?
+
+Would it look like UML?
