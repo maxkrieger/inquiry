@@ -2,7 +2,7 @@
 id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
 updated: 1646786752323
-modified: 2022-03-31T00:49:20-07:00
+modified: 2022-04-30T23:57:34-04:00
 desc: null
 ---
 
@@ -99,3 +99,5 @@ https://faculty.washington.edu/ajko/papers/Ko2005Citrus.pdf
 Figure 8 of https://profs.etsmtl.ca/mmcguffin/research/2020-mcguffin-VPLs/mcguffin-avi2020.pdf
 
 There's a very deep truth about noun-verb distinction in UI.
+
+Figure 4 of https://andrewhead.info/assets/pdf/augmented-formulas.pdf

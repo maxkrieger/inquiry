@@ -1,9 +1,9 @@
 ---
 id: pWwELoQ9Rjz7UqYKeYXPJ
 title: Algebraic Interfaces
-desc: null
-updated: 1640457608
+updated: 1651377690
 created: 1633587857083
+desc: null
 ---
 
 Algebraic structures are powerful tools for modeling tricky domains.
@@ -42,3 +42,5 @@ https://twitter.com/prathyvsh/status/1304507282152185858?s=09
 https://twitter.com/docmilanfar/status/1305028501481771008
 
 http://hdc.cs.arizona.edu/papers/infovis_2014_algebraic.pdf
+
+https://arxiv.org/pdf/2104.04042.pdf
