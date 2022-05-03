@@ -1,7 +1,7 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-updated: 1649321729
+updated: 1651599132125
 created: 1643677597778
 desc: null
 ---
@@ -18,8 +18,15 @@ Synthesis pathways unfolding before you, etc
 
 https://youtu.be/3vli86Ad8ww
 
-
 I was hopeful that [Crash Course's OChem course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtONguuhLdVmq0HTKS0jksS4) would have enough eye-catching motion graphics to keep me awake, but alas, at many points it felt like a powerpoint with the same flaws in the medium as any other video.
+
+These process diagrams seem important
+
+![](/assets/images/2022-05-03-13-31-42.png)
+
+(https://www.mdpi.com/1420-3049/18/11/14268/htm)
+
+extreme version: http://biochemical-pathways.com/#/map/1
 
 Links:
 
