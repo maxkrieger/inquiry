@@ -1,7 +1,7 @@
 ---
 id: JfoIRLU45or5cJtfPWoxD
 title: Resurfacing Toolkit
-updated: 1651904855
+updated: 1651942173
 created: 1644640891371
 desc: null
 ---
@@ -19,5 +19,9 @@ Belle (2021):
 OS X time machine vibes
 
 Andy’s twitter likes bot 
+
+https://www.kawara.app/
+
+Readwise 
 
 [[projects.discord-sheets]] [[misc.dailies]]
