@@ -2,7 +2,7 @@
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 updated: 1651777500892
-modified: 2022-03-23T16:44:33-07:00
+modified: 2022-05-09T20:48:41-04:00
 desc: null
 ---
 
@@ -149,3 +149,5 @@ https://jalammar.github.io/illustrated-transformer/
 ![](/assets/images/2022-05-05-15-04-55.png)
 
 https://dl.acm.org/doi/fullHtml/10.1145/3491102.3501823
+
+https://twitter.com/jeremyphoward/status/1523775789879422976?s=21&t=ecPZB2KLDqNU4hC58wRbmQ
