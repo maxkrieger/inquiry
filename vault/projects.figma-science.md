@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 updated: 1651771560738
-modified: 2022-03-28T13:20:16-07:00
+modified: 2022-05-13T01:33:55-04:00
 desc: null
 ---
 
@@ -145,6 +145,7 @@ https://phage.directory/tools
 - https://aidenlab.org/juicebox/
 - http://www.celavi.pro
 - https://pangenome.github.io/
+- https://higlass.io/about
 
 #### Primers
 
