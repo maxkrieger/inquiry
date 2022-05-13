@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 updated: 1651771560738
-modified: 2022-05-13T01:33:55-04:00
+modified: 2022-05-13T01:34:12-04:00
 desc: null
 ---
 
@@ -111,6 +111,7 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 **The problem with microscopy is that file sizes are huge. Pathology/Histology is more tractable.**
 
 - https://www.histosearch.com
+- https://qupath.github.io/
 
 - ????
 
