@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 updated: 1651771560738
-modified: 2022-03-28T13:20:16-07:00
+modified: 2022-05-13T01:34:49-04:00
 desc: null
 ---
 
@@ -55,6 +55,7 @@ Existing work:
 - https://czid.org
 - http://vis.nucleome.org/entry/examples
 - https://www.jkanche.com/kana/
+- https://pathpresenter.net/login
 
 ![](/assets/images/2021-04-06-23-53-33.png)
 
@@ -111,6 +112,7 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 **The problem with microscopy is that file sizes are huge. Pathology/Histology is more tractable.**
 
 - https://www.histosearch.com
+- https://qupath.github.io/
 
 - ????
 
@@ -145,6 +147,7 @@ https://phage.directory/tools
 - https://aidenlab.org/juicebox/
 - http://www.celavi.pro
 - https://pangenome.github.io/
+- https://higlass.io/about
 
 #### Primers
 

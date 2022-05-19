@@ -1,7 +1,7 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-updated: 1651599132125
+updated: 1652587137
 created: 1643677597778
 desc: null
 ---
@@ -19,6 +19,8 @@ Synthesis pathways unfolding before you, etc
 https://youtu.be/3vli86Ad8ww
 
 I was hopeful that [Crash Course's OChem course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtONguuhLdVmq0HTKS0jksS4) would have enough eye-catching motion graphics to keep me awake, but alas, at many points it felt like a powerpoint with the same flaws in the medium as any other video.
+
+Potential benchmark: OChem problem sets, can you do them in one IDE environment? Where the essence of the reasoning is laid bare, and the annoying mechanical bits are abstracted out?
 
 These process diagrams seem important
 

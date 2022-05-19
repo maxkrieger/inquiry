@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1651291302
+updated: 1652134536
 created: 1649460099504
 desc: null
 ---
@@ -75,6 +75,8 @@ Drafting tables
 
 Michael Ashcroft's Alexander Technique work
 
+https://movebetterproject.com/
+
 ---
 
 Current alt-furniture offerings
@@ -106,4 +108,8 @@ Cyberdecks
 
 —-
 
-Novel iPad cases? What are the most radical iPad cases we’ve seen?
+Novel iPad cases? What are the most radical iPad cases we’ve seen? To grip the device
+
+—-
+
+Taking cues from studio spaces
