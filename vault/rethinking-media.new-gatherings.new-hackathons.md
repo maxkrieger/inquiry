@@ -1,7 +1,7 @@
 ---
 id: yl9a8MqOPzfM9EI6h8nUt
 title: New Hackathon Models
-updated: 1651035503
+updated: 1654090986159
 created: 1633151985254
 desc: null
 ---
@@ -27,9 +27,11 @@ https://en.m.wikipedia.org/wiki/Mapathon
 
 https://www.physics.mcgill.ca/hackathon/
 
-HackUIUC was focused on open source contributions 
+HackUIUC was focused on open source contributions
 
 https://twitter.com/maxkriegers/status/1512489227191144452
+
+https://www.rabbitholeathon.com/
 
 ## Related writing
 
