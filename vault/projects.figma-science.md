@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 updated: 1651771560738
-modified: 2022-05-13T01:34:49-04:00
+modified: 2022-06-12T23:11:58-07:00
 desc: null
 ---
 
@@ -106,6 +106,10 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 - http://www.dicompyler.com
 
 - ImageTwin (duplicate recognition) https://imagetwin.ai
+
+#### Flow Cytometry
+
+- https://www.flowjo.com/solutions/flowjo ($2000, on a dongle!)
 
 #### Histology
 
