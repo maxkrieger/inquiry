@@ -2,7 +2,7 @@
 id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 updated: 1645332748452
-modified: 2022-05-24T16:59:07+09:00
+modified: 2022-07-02T03:07:32-07:00
 desc: null
 ---
 
@@ -83,6 +83,7 @@ Changing Minds by Andrea DiSessa
 - https://press.princeton.edu/books/hardcover/9780691164069/opt-art
 - https://math.mit.edu/~gs/learningfromdata/
 - Rosalind Bio
+- https://nn.labml.ai/transformers/mha.html
 
 Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)
 
