@@ -1,7 +1,7 @@
 ---
 id: b2zjDH2gveg0Fs8WRfd5H
 title: Watch Party
-updated: 1648379924
+updated: 1657778648527
 created: 1637648274343
 desc: null
 ---
@@ -15,3 +15,7 @@ I think realtime bookmarking could be a start. Everyone's phone (or a more mindf
 Maybe there are ways to detect good breaks/intermissions. After a threshold of bookmark saturation?
 
 Andrés describes Nintendo Switch's [retroactive clipping](https://www.nintendo.co.uk/Support/Nintendo-Switch/FAQ/How-to-Capture-and-Edit-Gameplay-Video-1294570.html) feature where you hold the button to increase the clip duration.
+
+---
+
+Semi related: http://vis.berkeley.edu/papers/videodigests/
