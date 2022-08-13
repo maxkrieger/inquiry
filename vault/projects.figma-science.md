@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 updated: 1657049854455
-modified: 2022-06-12T23:11:58-07:00
+modified: 2022-08-12T19:13:52-04:00
 desc: null
 ---
 
@@ -57,6 +57,7 @@ Existing work:
 - https://www.jkanche.com/kana/
 - https://pathpresenter.net/login
 - **https://pathcore.com/live**
+- https://twitter.com/michaellee04/status/1557738197068656640?s=21&t=ymJUaWO2ZBrj4HCj9oFDxQ
 
 ![](/assets/images/2021-04-06-23-53-33.png)
 
