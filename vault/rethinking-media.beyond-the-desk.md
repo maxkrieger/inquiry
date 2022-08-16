@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1652134536
+updated: 1660680306113
 created: 1649460099504
 desc: null
 ---
@@ -34,7 +34,7 @@ Furniture-driven software.
 
 ---
 
-I love the foam blocks+yoga mat language. I'm wondering how peripherals like VESA monitors or mice fit into the mix. Magnetic mounting might work. Could make a bunch of magnetic surfaces on those blocks (facing downwards, sideways) to stick a tablet to.
+I love the foam blocks+yoga mat language. I'm wondering how peripherals like VESA monitors or mice fit into the mix. Magnetic mounting might work. Could make a bunch of magnetic surfaces on those blocks (facing downwards, sideways) to stick a tablet to. See also: MOFT's Snap System (https://www.moft.us/pages/moft-snap-system) / standing desks.
 
 There's a severe lack of on-body/portable input methods. And objects that are blobby and non-orientable, where you can use them at their corners or centers.
 
@@ -86,7 +86,6 @@ https://varierchairs.com/kneeling-chairs/variable-balans/
 https://walden.us/products/walden-meditation-cushion-mat-set
 
 https://nuggetcomfort.com/
-
 
 —-
 
