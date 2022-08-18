@@ -2,7 +2,7 @@
 id: zv0knfsr6147of9vt6j1tm2
 title: Video Editing as Window Management
 desc: ""
-updated: 1646125821239
+updated: 1660842650704
 created: 1646123947927
 ---
 
@@ -21,3 +21,7 @@ When footage is cut into a video, you have a "desktop environment" that surfaces
 This is kinda true about slideshows as well/lectures. With the chalkboards that slide up and down.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l1BCv3qqW4A?start=1140" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://cristobal.space/snapshots/how-to-build-your-own-media-environments
+
+![](/assets/images/2022-08-18-13-10-48.png)
