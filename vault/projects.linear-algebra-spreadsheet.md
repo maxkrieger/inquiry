@@ -2,7 +2,7 @@
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 updated: 1659725358555
-modified: 2022-05-09T20:48:41-04:00
+modified: 2022-08-21T00:20:19-04:00
 desc: null
 ---
 
@@ -153,3 +153,5 @@ https://dl.acm.org/doi/fullHtml/10.1145/3491102.3501823
 https://twitter.com/jeremyphoward/status/1523775789879422976?s=21&t=ecPZB2KLDqNU4hC58wRbmQ
 
 https://twitter.com/mark_riedl/status/1555188022534176768
+
+https://github.com/quil-lang/magicl/blob/master/doc/high-level.md
