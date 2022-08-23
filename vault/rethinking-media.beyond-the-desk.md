@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1660680306113
+updated: 1661227141
 created: 1649460099504
 desc: null
 ---
@@ -112,3 +112,7 @@ Novel iPad cases? What are the most radical iPad cases we’ve seen? To grip the
 —-
 
 Taking cues from studio spaces
+
+—-
+
+https://twitter.com/patrickc/status/1559737765566173185?s=20&t=KXApbso8M1eu7TyoKFRxTw
