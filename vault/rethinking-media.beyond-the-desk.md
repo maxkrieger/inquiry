@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1661227141
+updated: 1661227270
 created: 1649460099504
 desc: null
 ---
@@ -108,6 +108,8 @@ Cyberdecks
 —-
 
 Novel iPad cases? What are the most radical iPad cases we’ve seen? To grip the device
+
+Like https://wingocase.com/
 
 —-
 
