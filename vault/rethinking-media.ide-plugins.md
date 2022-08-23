@@ -1,9 +1,9 @@
 ---
 id: 1rCLzzZwVdcOICn9eIrII
 title: Most explorables should be IDE plugins
-desc: 
-updated: 1648238889
+updated: 1661229722
 created: 1644370273705
+desc: null
 ---
 
 Andy introduces a critique of explorables that has stuck with me:
@@ -73,6 +73,8 @@ Like this grid literal!
 ### RedBlobGames
 
 https://www.redblobgames.com/grids/line-drawing.html
+
+https://handmade.network/p/283/bifold-text
 
 ---
 
