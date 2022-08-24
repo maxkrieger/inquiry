@@ -1,7 +1,7 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-updated: 1660353266408
+updated: 1661313590
 created: 1643677597778
 desc: null
 ---
@@ -51,5 +51,7 @@ https://apps.apple.com/us/app/mechanisms-organic-chemistry/id1157056029
 https://apps.apple.com/us/app/molecule/id797331776
 
 https://commons.wikimedia.org/wiki/File:Aristolochic_acid_biosynthesis.png
+
+https://www.chemistrysteps.com/organic-synthesis-practice-puzzles/
 
 Related: [[projects.figma-science]], [[misc.why-proof-assistants-bad]], [[rethinking-media.microworld-languages]]
