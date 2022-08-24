@@ -1,7 +1,7 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-updated: 1661367305475
+updated: 1661367487913
 created: 1643677597778
 desc: null
 ---
@@ -61,5 +61,19 @@ Symmetry groups! https://www.chemtube3d.com/sym-cyclohexaneboat/
 ![](/assets/images/2022-08-24-14-55-04.png)
 
 She explains by playing with a toy https://www.youtube.com/watch?v=UtM-F2zlgmw
+
+## Hexagon Research
+
+Comments on https://www.reddit.com/r/specializedtools/comments/7z5n34/hexagonal_paper_for_drawing_organic_compounds/ :
+
+![](/assets/images/2022-08-24-14-55-54.png)
+
+![](/assets/images/2022-08-24-14-56-18.png)
+
+![](/assets/images/2022-08-24-14-57-08.png)
+
+![](/assets/images/2022-08-24-14-57-32.png)
+
+![](/assets/images/2022-08-24-14-58-06.png)
 
 Related: [[projects.figma-science]], [[misc.why-proof-assistants-bad]], [[rethinking-media.microworld-languages]]
