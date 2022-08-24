@@ -1,7 +1,7 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-updated: 1661367487913
+updated: 1661368211678
 created: 1643677597778
 desc: null
 ---
@@ -62,6 +62,10 @@ Symmetry groups! https://www.chemtube3d.com/sym-cyclohexaneboat/
 
 She explains by playing with a toy https://www.youtube.com/watch?v=UtM-F2zlgmw
 
+https://www.indigoinstruments.com/molecular_models/student_sets/organic-stereo-chemistry-molecular-model-set-62053.html
+
+https://doc.gdb.tools/smilesDrawer/
+
 ## Hexagon Research
 
 Comments on https://www.reddit.com/r/specializedtools/comments/7z5n34/hexagonal_paper_for_drawing_organic_compounds/ :
@@ -75,5 +79,7 @@ Comments on https://www.reddit.com/r/specializedtools/comments/7z5n34/hexagonal_
 ![](/assets/images/2022-08-24-14-57-32.png)
 
 ![](/assets/images/2022-08-24-14-58-06.png)
+
+https://store.steampowered.com/app/558990/Opus_Magnum/
 
 Related: [[projects.figma-science]], [[misc.why-proof-assistants-bad]], [[rethinking-media.microworld-languages]]
