@@ -1,7 +1,7 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-updated: 1661367121659
+updated: 1661367305475
 created: 1643677597778
 desc: null
 ---
@@ -55,5 +55,11 @@ https://commons.wikimedia.org/wiki/File:Aristolochic_acid_biosynthesis.png
 https://www.chemistrysteps.com/organic-synthesis-practice-puzzles/
 
 https://en.wikipedia.org/wiki/Gabriel_synthesis
+
+Symmetry groups! https://www.chemtube3d.com/sym-cyclohexaneboat/
+
+![](/assets/images/2022-08-24-14-55-04.png)
+
+She explains by playing with a toy https://www.youtube.com/watch?v=UtM-F2zlgmw
 
 Related: [[projects.figma-science]], [[misc.why-proof-assistants-bad]], [[rethinking-media.microworld-languages]]
