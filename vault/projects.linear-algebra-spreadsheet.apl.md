@@ -1,9 +1,9 @@
 ---
 id: d1e990fb-a3a1-4bd9-aa5d-ca30a97070cd
 title: APL Is Really Cool
-desc: null
-updated: 1638069523
+updated: 1661532373
 created: 1615488121325
+desc: null
 ---
 
 It's a REPL interface, and a really old one. But it's all about performing abstract operations on concrete data. Reminds me of [PANE](http://joshuahhh.com/projects/pane/)'s philosophy: "programming with visible data".
@@ -50,3 +50,5 @@ https://news.ycombinator.com/item?id=7814293
 ![](assets/images/2021-01-29-01-21-47.png)
 
 "What's my name jack?" in Toki Pona. Some sort of MS Paint adventures thing. No idea what it means. I think I got it from a toki pona subreddit.
+
+https://dl.acm.org/doi/pdf/10.1145/3315454.3329960
