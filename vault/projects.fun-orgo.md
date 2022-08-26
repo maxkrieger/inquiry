@@ -1,7 +1,7 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-updated: 1661488386
+updated: 1661488406
 created: 1643677597778
 desc: null
 ---
@@ -42,6 +42,7 @@ Links:
 - https://chemaxon.com/products/marvin-js
 - http://www.kingdraw.cn/en/index.html
 - https://apps.apple.com/us/app/backside-attack/id1278956096
+- https://apps.apple.com/us/app/mechanisms-organic-chemistry/id1157056029
 
 Help me understand the [Citric Acid Cycle](https://en.m.wikipedia.org/wiki/Citric_acid_cycle)!
 
