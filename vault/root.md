@@ -1,9 +1,9 @@
 ---
 id: 940ad93a-2b54-497e-ab18-335879950834
 title: Max's Inquiry
-desc:
 updated: 1616115341623
-modified: 2021-03-17T11:37:29-04:00
+modified: 2022-08-26T12:46:41-04:00
+desc: null
 ---
 
 This is [Max Krieger](https://a9.io)'s "inquiry" page. I guess it's like a [Digital Garden](https://github.com/MaggieAppleton/digital-gardeners). But I'm not trying to upload my Second Brain to it. Just want to share some half-baked ideas. One source of inspiration for this was Kevin Lynagh's ["Collaboration ideas"](https://kevinlynagh.com/ideas/). See also Sharif Shameem's ["Questions"](https://sharif.io/questions/).
@@ -17,11 +17,6 @@ The pages definitely don't adhere to [Andy's Evergreen Notes](https://notes.andy
 Feel free to add [a PR or issue to the repo](https://github.com/maxkrieger/inquiry) to discuss any of these in public!
 
 ## Guide
-
-Here's what I'm working on right now:
-
-- [[Chat Documents|projects.saga-tales]]
-- [[Flowing Comic Layouts|projects.flowing-comic-layouts]]
 
 Here are some of my favorite/extensive pages:
 
