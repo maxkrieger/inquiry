@@ -1,7 +1,7 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-updated: 1661488406
+updated: 1661488498
 created: 1643677597778
 desc: null
 ---
@@ -43,6 +43,7 @@ Links:
 - http://www.kingdraw.cn/en/index.html
 - https://apps.apple.com/us/app/backside-attack/id1278956096
 - https://apps.apple.com/us/app/mechanisms-organic-chemistry/id1157056029
+- https://www.amazon.com/Covalence-A-Molecule-Building-Game/dp/B01K3D4HL6/ref=asc_df_B01K3D4HL6/
 
 Help me understand the [Citric Acid Cycle](https://en.m.wikipedia.org/wiki/Citric_acid_cycle)!
 
