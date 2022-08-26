@@ -1,7 +1,7 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-updated: 1661484341
+updated: 1661484366
 created: 1643677597778
 desc: null
 ---
@@ -34,6 +34,7 @@ Links:
 
 - **https://molview.org**
 - **https://rxn.res.ibm.com/**
+- https://iktos.ai/spaya/
 - https://www.rcsb.org/ligand/4AZ
 - https://en.wikipedia.org/wiki/Molecule_editor
 - https://en.wikipedia.org/wiki/BALL
