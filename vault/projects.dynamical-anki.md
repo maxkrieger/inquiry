@@ -1,9 +1,9 @@
 ---
 id: zdkRpGsKX26T83KsxP5fz
 title: Dynamical Spaced Repetition
-desc: null
-updated: 1643622028
+updated: 1661621918
 created: 1635552290948
+desc: null
 ---
 
 System for learning a set of facts spatiotemporally.
@@ -32,5 +32,16 @@ https://meta.m.wikimedia.org/wiki/List_of_articles_every_Wikipedia_should_have/E
 ---
 
 Same for botany/fungi
+
+—-
+
+Same fidelity as AoE3/CivV - but rendering the actual world data
+
+Unity3d plugin?
+
+Pan around the globe, google earth with more cgi 
+
+Google earth plugin? Threejs globe?
+
 
 [[theory.dynamical-everything]]
