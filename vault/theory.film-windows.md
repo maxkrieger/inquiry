@@ -1,8 +1,8 @@
 ---
 id: zv0knfsr6147of9vt6j1tm2
 title: Video Editing as Window Management
-desc: ""
-updated: 1660842650704
+desc: 
+updated: 1661660431
 created: 1646123947927
 ---
 
@@ -25,3 +25,5 @@ This is kinda true about slideshows as well/lectures. With the chalkboards that 
 https://cristobal.space/snapshots/how-to-build-your-own-media-environments
 
 ![](/assets/images/2022-08-18-13-10-48.png)
+
+https://youtu.be/xguam0TKMw8
