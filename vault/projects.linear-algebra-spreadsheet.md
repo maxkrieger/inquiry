@@ -1,7 +1,7 @@
 ---
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
-updated: 1661366402440
+updated: 1662074840080
 modified: 2022-08-26T18:30:56-04:00
 desc: null
 ---
@@ -161,3 +161,5 @@ https://twitter.com/joel_burget/status/1562469068464017408
 https://towardsdatascience.com/mnist-handwritten-digits-classification-from-scratch-using-python-numpy-b08e401c4dab
 
 https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/varInspector/README.html
+
+![](/assets/images/2022-09-01-19-27-18.png)
