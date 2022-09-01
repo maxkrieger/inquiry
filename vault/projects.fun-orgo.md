@@ -1,7 +1,7 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-updated: 1661548427478
+updated: 1661920209
 created: 1643677597778
 desc: null
 ---
@@ -88,5 +88,11 @@ Comments on https://www.reddit.com/r/specializedtools/comments/7z5n34/hexagonal_
 ![](/assets/images/2022-08-24-14-58-06.png)
 
 https://store.steampowered.com/app/558990/Opus_Magnum/
+
+—-
+
+https://www.masterorganicchemistry.com/
+
+https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2003/pages/syllabus/
 
 Related: [[projects.figma-science]], [[misc.why-proof-assistants-bad]], [[rethinking-media.microworld-languages]]
