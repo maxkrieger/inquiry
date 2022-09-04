@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1661227779
+updated: 1662274079
 created: 1649460099504
 desc: null
 ---
@@ -122,3 +122,5 @@ Taking cues from studio spaces
 —-
 
 https://twitter.com/patrickc/status/1559737765566173185?s=20&t=KXApbso8M1eu7TyoKFRxTw
+
+https://www.smithsonianmag.com/smithsonian-institution/curator-finds-murphy-beds-place-in-american-history-48350873/
