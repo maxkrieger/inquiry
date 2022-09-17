@@ -1,7 +1,7 @@
 ---
 id: 6tWPJi4mq1bnF22b4qDfO
 title: Downloads Folder Manager
-updated: 1651257524
+updated: 1663457834692
 created: 1633151014508
 desc: null
 ---
@@ -27,3 +27,5 @@ Related: “augmented right click->clean up”
 https://tropy.org
 
 https://www.spacedrive.app/
+
+https://twitter.com/evanwallace/status/1554833352238108676?s=20&t=bxTUfhrQq1DkPnY534GxVg
