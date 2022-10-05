@@ -1,7 +1,7 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-updated: 1661920209
+updated: 1665007050369
 created: 1643677597778
 desc: null
 ---
@@ -94,5 +94,7 @@ https://store.steampowered.com/app/558990/Opus_Magnum/
 https://www.masterorganicchemistry.com/
 
 https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2003/pages/syllabus/
+
+https://www.nytimes.com/2022/10/03/us/nyu-organic-chemistry-petition.html
 
 Related: [[projects.figma-science]], [[misc.why-proof-assistants-bad]], [[rethinking-media.microworld-languages]]
