@@ -1,7 +1,7 @@
 ---
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
-updated: 1663364862892
+updated: 1665092240012
 modified: 2022-08-26T18:30:56-04:00
 desc: null
 ---
@@ -58,7 +58,6 @@ One subproject ([[theory.subprojecting]]) is not APL, but some CAS matrix toy - 
   - Maybe each matrix is a floating table and you can multiply by constructing a graph of edges?
   - [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 - [**Graspable Math**](https://graspablemath.com/)
-- [Mito: Edit a spreadsheet. Generate Python. All in Jupyter.](https://trymito.io/)
 - [Responsive Matrix Cells: A Focus+Context Approach for Multivariate Graphs](https://imld.de/en/research/research-projects/responsive-matrix-cells/)
 - [Loglo](https://loglo.app/)
 - [Math Inspector](https://mathinspector.com/)
