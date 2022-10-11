@@ -1,7 +1,7 @@
 ---
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
-updated: 1665092240012
+updated: 1665458880776
 modified: 2022-08-26T18:30:56-04:00
 desc: null
 ---
@@ -166,3 +166,6 @@ https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/varIn
 https://e2eml.school/transformers.html
 
 https://github.com/srush/Tensor-Puzzles
+
+**I should definitely do this first**
+https://minitorch.github.io/

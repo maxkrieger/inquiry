@@ -1,7 +1,7 @@
 ---
 id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
-updated: 1661366421003
+updated: 1665458849478
 modified: 2022-08-19T12:21:53-04:00
 desc: null
 ---
@@ -87,6 +87,7 @@ Changing Minds by Andrea DiSessa
 - http://www.numerical-tours.com/
 - https://youtu.be/VMj-3S1tku0 (Karpathy on micrograd)
 - https://twitter.com/joel_burget/status/1562469068464017408 (Numpy docs showing reductions mapped to code)
+- https://github.com/srush/GPU-Puzzles
 
 Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)
 
