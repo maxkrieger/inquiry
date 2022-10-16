@@ -2,7 +2,7 @@
 id: f6c2e8d9-c1cb-4f38-bae8-cf7a0766d98e
 title: Exploding PDFs
 desc: null
-updated: 1648077289539
+updated: 1665897374291
 modified: 2021-12-05T21:25:24-08:00
 ---
 
@@ -64,3 +64,5 @@ https://twitter.com/andy_matuschak/status/967796906003906565
 https://austinkleon.com/2021/12/05/reading-with-a-scalpel-and-glue-stick/
 
 https://rasterbator.net/
+
+http://cheapimpostor.com/
