@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1664435142
+updated: 1666110515
 created: 1649460099504
 desc: null
 ---
@@ -128,3 +128,11 @@ https://www.smithsonianmag.com/smithsonian-institution/curator-finds-murphy-beds
 —-
 
 These are delightfully alien - a different grammar of movement entirely https://www.shopbala.com/
+
+—-
+
+# Keyboards
+
+One handed/split handed handheld keyboards. Used to be more of these “cyberdeck” concepts in the 90s.
+
+https://www.tapwithus.com/
