@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1666116035213
+updated: 1666117282704
 created: 1649460099504
 desc: null
 ---
@@ -140,5 +140,7 @@ https://www.tapwithus.com/product/tap-strap-2/
 https://www.charachorder.com/products/charachorder-one
 
 https://www.youtube.com/watch?v=gtSQT8lS4vo
+
+![](/assets/images/2022-10-18-11-21-20.png)
 
 https://twiddler.tekgear.com/
