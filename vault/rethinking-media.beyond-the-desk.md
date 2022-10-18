@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1666121543111
+updated: 1666122442886
 created: 1649460099504
 desc: null
 ---
@@ -226,3 +226,9 @@ http://gkos.com/gkos/index-gkos-com.html
 https://en.wikipedia.org/wiki/Keyer
 
 https://chordite.com/
+
+![](/assets/images/2022-10-18-12-47-08.png)
+
+![](/assets/images/2022-10-18-12-47-14.png)
+
+From Intelligent Image Processing
