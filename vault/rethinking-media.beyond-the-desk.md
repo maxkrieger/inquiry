@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1666110515
+updated: 1666110550
 created: 1649460099504
 desc: null
 ---
@@ -136,3 +136,5 @@ These are delightfully alien - a different grammar of movement entirely https://
 One handed/split handed handheld keyboards. Used to be more of these “cyberdeck” concepts in the 90s.
 
 https://www.tapwithus.com/
+
+https://www.tapwithus.com/product/tap-strap-2/
