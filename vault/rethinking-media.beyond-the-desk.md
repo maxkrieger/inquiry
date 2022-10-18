@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1666112773371
+updated: 1666116035213
 created: 1649460099504
 desc: null
 ---
@@ -101,7 +101,7 @@ https://twitter.com/disconcision/status/1517732859674607617?s=21&t=i3uXyRGzy6nY3
 
 —-
 
-Radical portability: what’s an ergonomic modular laptop look like?
+Radical portability: what’s an ergonomic modular laptop look like? Where all the components are disconnectable and wireless. Kinda project ara vibes.
 
 Cyberdecks
 
@@ -138,3 +138,7 @@ https://www.tapwithus.com/
 https://www.tapwithus.com/product/tap-strap-2/
 
 https://www.charachorder.com/products/charachorder-one
+
+https://www.youtube.com/watch?v=gtSQT8lS4vo
+
+https://twiddler.tekgear.com/
