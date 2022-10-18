@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1666110550
+updated: 1666112773371
 created: 1649460099504
 desc: null
 ---
@@ -109,11 +109,9 @@ Cyberdecks
 
 Novel iPad cases? What are the most radical iPad cases we’ve seen? To grip the device
 
-* https://wingocase.com/
-* https://speckproducts.com/products/ip102-case-e
-* https://yogibo.com/products/tablo-x
-
-
+- https://wingocase.com/
+- https://speckproducts.com/products/ip102-case-e
+- https://yogibo.com/products/tablo-x
 
 —-
 
@@ -138,3 +136,5 @@ One handed/split handed handheld keyboards. Used to be more of these “cyberdec
 https://www.tapwithus.com/
 
 https://www.tapwithus.com/product/tap-strap-2/
+
+https://www.charachorder.com/products/charachorder-one
