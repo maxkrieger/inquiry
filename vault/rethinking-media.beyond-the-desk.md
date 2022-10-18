@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1666118740884
+updated: 1666121543111
 created: 1649460099504
 desc: null
 ---
@@ -131,7 +131,7 @@ These are delightfully alien - a different grammar of movement entirely https://
 
 # Keyboards
 
-One handed/split handed handheld keyboards. Used to be more of these “cyberdeck” concepts in the 90s.
+One handed/split handed handheld keyboards. Used to be more of these “cyborg” concepts in the 90s. Wearable computing etc.
 
 https://www.tapwithus.com/
 
@@ -178,3 +178,51 @@ https://en.wikipedia.org/wiki/FrogPad
 ![](/assets/images/2022-10-18-11-40-57.png)
 
 Samsung Rink https://www.roadtovr.com/watch-samsungs-gear-vr-motion-controllers-rink-in-action/
+
+![](/assets/images/2022-10-18-12-05-46.png)
+
+![](/assets/images/2022-10-18-12-06-10.png)
+
+![](/assets/images/2022-10-18-12-09-00.png)
+
+https://en.wikipedia.org/wiki/Microwriter
+
+https://www.microsoft.com/buxtoncollection/detail.aspx?id=5
+
+https://www.microsoft.com/buxtoncollection/detail.aspx?id=0&from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fbibuxton%2Fbuxtoncollection%2Fdetail.aspx%3Fid%3D0
+
+![](/assets/images/2022-10-18-12-10-16.png)
+
+![](/assets/images/2022-10-18-12-15-37.png)
+
+https://www.microsoft.com/buxtoncollection/detail.aspx?id=72
+
+![](/assets/images/2022-10-18-12-16-05.png)
+
+https://www.microsoft.com/buxtoncollection/detail.aspx?id=3
+
+![](/assets/images/2022-10-18-12-16-37.png)
+
+https://www.instructables.com/Chording-Keyboard-BLE-and-USB/
+
+![](/assets/images/2022-10-18-12-17-02.png)
+
+![](/assets/images/2022-10-18-12-26-17.png)
+
+https://hackaday.com/2021/01/05/inputs-of-interest-decatxt-ultra-portable-chording-keyboard/
+
+![](/assets/images/2022-10-18-12-21-29.png)
+
+http://www.jwwulf.de/en/kbd/chording1/chording.htm
+
+![](/assets/images/2022-10-18-12-24-13.png)
+
+https://www.stavros.io/posts/keyyyyyyyys/
+
+![](/assets/images/2022-10-18-12-27-45.png)
+
+http://gkos.com/gkos/index-gkos-com.html
+
+https://en.wikipedia.org/wiki/Keyer
+
+https://chordite.com/
