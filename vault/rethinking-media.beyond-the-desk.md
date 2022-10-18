@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1666117282704
+updated: 1666118740884
 created: 1649460099504
 desc: null
 ---
@@ -137,6 +137,8 @@ https://www.tapwithus.com/
 
 https://www.tapwithus.com/product/tap-strap-2/
 
+https://www.tapwithus.com/product/tap-xr/
+
 https://www.charachorder.com/products/charachorder-one
 
 https://www.youtube.com/watch?v=gtSQT8lS4vo
@@ -144,3 +146,35 @@ https://www.youtube.com/watch?v=gtSQT8lS4vo
 ![](/assets/images/2022-10-18-11-21-20.png)
 
 https://twiddler.tekgear.com/
+
+![](/assets/images/2022-10-18-11-22-59.png)
+
+TrewGrip
+
+https://arstechnica.com/gadgets/2014/01/trewgrip-handheld-keyboard-almost-a-solution-for-thumb-typing/
+
+![](/assets/images/2022-10-18-11-23-38.png)
+
+AlphaGrip iGrip
+
+http://www.alphagrips.com/
+
+http://www.alphagrips.com/handheldprogramming.html
+
+![](/assets/images/2022-10-18-11-24-10.png)
+
+AlphaGrip iPod Nano
+
+![](/assets/images/2022-10-18-11-35-07.png)
+
+![](/assets/images/2022-10-18-11-35-27.png)
+
+Magic Leap controller https://ml1-developer.magicleap.com/en-us/learn/guides/design-magic-leap-one-control
+
+![](/assets/images/2022-10-18-11-36-09.png)
+
+https://en.wikipedia.org/wiki/FrogPad
+
+![](/assets/images/2022-10-18-11-40-57.png)
+
+Samsung Rink https://www.roadtovr.com/watch-samsungs-gear-vr-motion-controllers-rink-in-action/
