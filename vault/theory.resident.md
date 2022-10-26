@@ -1,7 +1,7 @@
 ---
 id: UzCKP637yqfdSpsFfin9x
 title: Becoming a Resident Toolbuilder
-updated: 1666336520
+updated: 1666742474
 created: 1633731961384
 desc: null
 ---
@@ -37,6 +37,6 @@ Related: [[projects.figma-science]]
 
 Kevin suggests commercial labs "get more done" - just a matter of being good about IP transfer.
 
-https://newscience.org/how-software-in-the-life-sciences-actually-works-and-doesnt-work/
+https://twitter.com/patio11/status/1069422308526239744
 
 https://twitter.com/ArtirKel/status/1505284608971083779
