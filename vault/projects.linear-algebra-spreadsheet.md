@@ -2,7 +2,7 @@
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 updated: 1665458909712
-modified: 2022-08-26T18:30:56-04:00
+modified: 2022-10-28T15:21:52-07:00
 desc: null
 ---
 
@@ -171,3 +171,5 @@ https://github.com/srush/Tensor-Puzzles
 https://minitorch.github.io/
 
 https://numpy.org/doc/stable/user/basics.broadcasting.html
+
+https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra
