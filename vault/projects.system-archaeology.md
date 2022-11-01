@@ -2,7 +2,7 @@
 id: 90f43805-4858-4d25-8f51-6dec373f6b2f
 title: System Archaeology Seminar
 desc: null
-updated: 1648500435111
+updated: 1667328795508
 modified: 2021-09-10T23:43:23-07:00
 ---
 
@@ -203,3 +203,5 @@ From Yoshiki Schmitz. Sources unknown right now.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here’s the Katz’s History of Mathematics (table of contents and the cover in the tweet below). Every chapter has a bunch of exercises, where you have to show or prove or solve something using the methodologies or number systems used in the chapter. <a href="https://t.co/nRMGQoMcor">https://t.co/nRMGQoMcor</a> <a href="https://t.co/RarQQC8CBQ">pic.twitter.com/RarQQC8CBQ</a></p>&mdash; :strawberry:Eli:herb:virtual plant maker:star2: (@logicsoup) <a href="https://twitter.com/logicsoup/status/1355941297169829888?ref_src=twsrc%5Etfw">January 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 http://scripting.com/2021/04/04/174604.html?title=theLostAppsOfThe80s
+
+Jack Rusher's CHI threads https://twitter.com/jackrusher/status/1550390606559592448
