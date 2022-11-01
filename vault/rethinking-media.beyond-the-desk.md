@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1666122442886
+updated: 1666122488226
 created: 1649460099504
 desc: null
 ---
@@ -232,3 +232,5 @@ https://chordite.com/
 ![](/assets/images/2022-10-18-12-47-14.png)
 
 From Intelligent Image Processing
+
+https://chorder.cs.vassar.edu/doku.php

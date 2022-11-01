@@ -1,7 +1,7 @@
 ---
 id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
-updated: 1665092253260
+updated: 1667327786232
 modified: 2022-06-01T00:47:33+09:00
 desc: null
 ---
@@ -105,3 +105,6 @@ Figure 4 of https://andrewhead.info/assets/pdf/augmented-formulas.pdf
 https://twitter.com/rsnous/status/1531353260279402497?s=21&t=lenlmBapUWsoEj03jcBbbA
 
 - [Mito: Edit a spreadsheet. Generate Python. All in Jupyter.](https://trymito.io/)
+
+"Documents as user interfaces"
+https://dl.acm.org/doi/abs/10.1145/108844.108994
