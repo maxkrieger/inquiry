@@ -1,9 +1,9 @@
 ---
 id: UzCKP637yqfdSpsFfin9x
 title: Becoming a Resident Toolbuilder
-desc: null
-updated: 1645830067189
+updated: 1666742474
 created: 1633731961384
+desc: null
 ---
 
 I want to build tools for important problems. Some of the most important problems are being tackled in academic biology labs. They seem like a suitable [serious context of use](https://notes.andymatuschak.org/Effective_system_design_requires_insights_drawn_from_serious_contexts_of_use) to invent powerful new representations and tools and help improve public health.
@@ -37,4 +37,6 @@ Related: [[projects.figma-science]]
 
 Kevin suggests commercial labs "get more done" - just a matter of being good about IP transfer.
 
-https://newscience.org/how-software-in-the-life-sciences-actually-works-and-doesnt-work/
+https://twitter.com/patio11/status/1069422308526239744
+
+https://twitter.com/ArtirKel/status/1505284608971083779
