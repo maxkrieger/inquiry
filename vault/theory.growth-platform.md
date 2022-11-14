@@ -1,9 +1,9 @@
 ---
 id: 1cbfd56c-79a9-4ba9-a088-3f5a1f56b10a
 title: TikTok & Youtube as a means of platform growth
-desc: null
-updated: 1660679744352
+updated: 1668455758
 created: 1615855941801
+desc: null
 ---
 
 People discover your tool through Youtube and TikTok. Facilitate and make good content!
@@ -21,6 +21,8 @@ MockMechanics has a very strong YouTube presence that will probably lead to more
 Make videos on general topics (how to do x) that are done with the tool. Kapwing's SEO strategy was similar.
 
 NotionToks “pure ideology” https://twitter.com/maxkriegers/status/1353094774279065600?s=21
+
+Ben Eater’s channel is based around kits he sells
 
 https://www.tiktok.com/tag/notion?lang=en
 
