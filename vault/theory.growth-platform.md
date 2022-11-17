@@ -1,7 +1,7 @@
 ---
 id: 1cbfd56c-79a9-4ba9-a088-3f5a1f56b10a
 title: TikTok & Youtube as a means of platform growth
-updated: 1668455758
+updated: 1668717718
 created: 1615855941801
 desc: null
 ---
@@ -27,3 +27,5 @@ Ben Eater’s channel is based around kits he sells
 https://www.tiktok.com/tag/notion?lang=en
 
 https://twitter.com/thefuturematt/status/1482514589984038913?s=21
+
+https://codeexplainers.com/
