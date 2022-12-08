@@ -1,7 +1,7 @@
 ---
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
-updated: 1657049854455
+updated: 1669056319122
 modified: 2022-08-12T19:13:52-04:00
 desc: null
 ---
@@ -222,6 +222,8 @@ In general, many domain specific tools are MATLAB plugins.
 - https://www.czbiohub.org/technology-platforms/
 
 - http://www.liheng.org/sw.shtml
+
+- http://blog.booleanbiotech.com/computational-tools-2022.html
 
 ### [[DSP Notebook|projects.figma-science.dsp-notebook]]
 
