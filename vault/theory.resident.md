@@ -1,7 +1,7 @@
 ---
 id: UzCKP637yqfdSpsFfin9x
 title: Becoming a Resident Toolbuilder
-updated: 1666742474
+updated: 1670458140
 created: 1633731961384
 desc: null
 ---
@@ -40,3 +40,5 @@ Kevin suggests commercial labs "get more done" - just a matter of being good abo
 https://twitter.com/patio11/status/1069422308526239744
 
 https://twitter.com/ArtirKel/status/1505284608971083779
+
+https://latticeautomation.com/
