@@ -2,7 +2,7 @@
 id: 77343d6f-26f6-4e9f-8caf-e592c0548a31
 title: Domain-Learning with Computational Microworlds
 updated: 1667895319955
-modified: 2022-08-19T12:21:53-04:00
+modified: 2022-12-30T01:29:21-05:00
 desc: null
 ---
 
@@ -90,6 +90,7 @@ Changing Minds by Andrea DiSessa
   - https://www.assemblyai.com/blog/minimagen-build-your-own-imagen-text-to-image-model/
   - https://youtu.be/VMj-3S1tku0 (Karpathy on micrograd)
   - https://nn.labml.ai/transformers/mha.html
+- https://www.semanticscholar.org/paper/Fun-with-semirings%3A-a-functional-pearl-on-the-abuse-Dolan/2e43477e26a54b2d1a046c214055faee7ebc3544
 
 Note: I'm neglecting tons of python stuff. Probably because I think type systems are useful for learning things :-)
 
