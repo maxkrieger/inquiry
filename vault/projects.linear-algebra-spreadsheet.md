@@ -2,7 +2,7 @@
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 updated: 1670528119944
-modified: 2022-12-30T01:30:23-05:00
+modified: 2023-01-04T12:52:36-05:00
 desc: null
 ---
 
@@ -179,3 +179,5 @@ https://github.com/xl0/lovely-tensors
 https://twitter.com/_paulshen/status/1600653533371863040
 
 https://news.ycombinator.com/item?id=30101637
+
+Linear algebra brushes https://twitter.com/Wattenberger/status/1610472915623112704?s=20&t=ATlA1Rzg3kVKSSUco2KTLw
