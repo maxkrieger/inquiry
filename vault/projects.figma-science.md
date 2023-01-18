@@ -1,7 +1,7 @@
 ---
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
-updated: 1669056319122
+updated: 1674071658210
 modified: 2022-08-12T19:13:52-04:00
 desc: null
 ---
@@ -112,6 +112,8 @@ An instance of [[theory.figma-for-x]]. Or maybe [[theory.palantir-for-x]].
 #### Flow Cytometry
 
 - https://www.flowjo.com/solutions/flowjo ($2000, on a dongle!)
+- https://floreada.io/flow-cytometry-software
+- https://www.beckman.com/flow-cytometry/software
 
 #### Histology
 
