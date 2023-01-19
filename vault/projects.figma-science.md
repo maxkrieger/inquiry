@@ -2,7 +2,7 @@
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
 updated: 1674071658210
-modified: 2022-08-12T19:13:52-04:00
+modified: 2023-01-19T15:01:29-08:00
 desc: null
 ---
 
@@ -206,6 +206,10 @@ Great overview: https://medium.com/@alice.menglh/may-7th-13th-8ab68cbc9e7b
 - https://en.wikipedia.org/wiki/List_of_protein-ligand_docking_software
 
 In general, many domain specific tools are MATLAB plugins.
+
+#### Molecule design
+
+* https://optibrium.com/stardrop/
 
 ## Misc
 
