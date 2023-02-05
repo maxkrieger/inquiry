@@ -1,7 +1,7 @@
 ---
 id: FEssYKYzijiy1lvq3n2vh
 title: Organic Chemistry if it was Fun
-updated: 1665007050369
+updated: 1675592798
 created: 1643677597778
 desc: null
 ---
@@ -96,5 +96,8 @@ https://www.masterorganicchemistry.com/
 https://ocw.mit.edu/courses/5-12-organic-chemistry-i-spring-2003/pages/syllabus/
 
 https://www.nytimes.com/2022/10/03/us/nyu-organic-chemistry-petition.html
+
+https://twitter.com/atinygreencell/status/1622044471616471042?s=46&t=PsDMDFGKzjL5PbYr3-QG4w
+
 
 Related: [[projects.figma-science]], [[misc.why-proof-assistants-bad]], [[rethinking-media.microworld-languages]]
