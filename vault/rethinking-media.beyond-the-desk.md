@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1673643319
+updated: 1675642691709
 created: 1649460099504
 desc: null
 ---
@@ -240,3 +240,11 @@ https://chorder.cs.vassar.edu/doku.php
 # Tatami furniture / rationalist furniture
 
 Rationalist furniture shares with the Japanese tradition of sticking to the floor. Soft rugs and reconfigurable floor-chairs afford dynamic layouts and postures for groups and individuals.
+
+https://twitter.com/ethanreeder/status/1621210861703692288
+
+---
+
+![](/assets/images/2023-02-05-16-17-41.png)
+
+from https://ianthehenry.com/posts/kyria-build/a-wireless-ergonomic-keyboard/
