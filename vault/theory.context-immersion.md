@@ -1,7 +1,7 @@
 ---
 id: nNa3zYBGRPLYKY6c2N21j
 title: Context Immersion
-updated: 1666336609
+updated: 1677023856828
 created: 1636625776406
 desc: null
 ---
@@ -19,6 +19,8 @@ How does this relate to IDEO's design thinking practice, and where do its shortc
 https://www.nngroup.com/articles/contextual-inquiry/
 
 Domain-expert consulting firms are often the only effective ones; like engineering, architecture, or cartography.
+
+Ethnomethodology - cf Suchman and Chapman, seem important in surfacing tacit knowledge. Cf Commonplace Cognition's posts.
 
 Community fellowships:
 

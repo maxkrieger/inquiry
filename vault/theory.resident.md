@@ -1,7 +1,7 @@
 ---
 id: UzCKP637yqfdSpsFfin9x
 title: Becoming a Resident Toolbuilder
-updated: 1670458140
+updated: 1677023930053
 created: 1633731961384
 desc: null
 ---
@@ -41,4 +41,4 @@ https://twitter.com/patio11/status/1069422308526239744
 
 https://twitter.com/ArtirKel/status/1505284608971083779
 
-https://latticeautomation.com/
+Consultancy with lab clients https://latticeautomation.com/
