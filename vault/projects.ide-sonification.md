@@ -1,9 +1,9 @@
 ---
 id: 0m3l5hefoxVQpswVfmbbG
 title: IDE Sonification
-desc: null
-updated: 1644744143
+updated: 1679321345
 created: 1644728307223
+desc: null
 ---
 
 Inspired by https://code.visualstudio.com/updates/v1_64#_audio-cues
@@ -13,6 +13,7 @@ What are some successful sonified UIs? I think of video games. Nintendo in parti
 - Each curly bracket pair has a light ping/pitch.
 - Depth is sonified as pitch.
 - Autocomplete? Copilot?
+- Improving vim pedagogy through sound
 
 # Literature
 
