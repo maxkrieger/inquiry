@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1677632497416
+updated: 1680679798
 created: 1649460099504
 desc: null
 ---
@@ -250,3 +250,6 @@ https://twitter.com/ethanreeder/status/1621210861703692288
 from https://ianthehenry.com/posts/kyria-build/a-wireless-ergonomic-keyboard/
 
 https://metropolismag.com/profiles/ken-isaacs-wanted-retool-way-we-live/
+
+—-
+https://pronecushion.com/
