@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1680679798
+updated: 1681341507666
 created: 1649460099504
 desc: null
 ---
@@ -253,3 +253,7 @@ https://metropolismag.com/profiles/ken-isaacs-wanted-retool-way-we-live/
 
 —-
 https://pronecushion.com/
+
+---
+
+https://twitter.com/KommanderKlobb/status/1646223305509044236
