@@ -1,7 +1,7 @@
 ---
 id: 0m3l5hefoxVQpswVfmbbG
 title: IDE Sonification
-updated: 1679321345
+updated: 1683179425596
 created: 1644728307223
 desc: null
 ---
@@ -26,3 +26,5 @@ http://etheses.dur.ac.uk/1396/1/mainthesisBermanFinal.pdf?DDD10+=
 https://www.researchgate.net/publication/224516892_Sonification_design_guidelines_to_enhance_program_comprehension
 
 https://github.com/paigeruten/lua-feels
+
+https://stackoverflow.com/questions/13882241/is-crockford-style-context-coloring-implemented-in-any-code-editor
