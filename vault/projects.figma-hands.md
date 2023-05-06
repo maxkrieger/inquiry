@@ -1,12 +1,10 @@
 ---
 id: 6268810e-ded6-4f30-8601-e3965bbda5d1
 title: Hands Plugin for Graphic Abstractions
-desc: null
 updated: 1616115160979
-modified: 2021-07-27T21:14:43-07:00
+modified: 2023-05-06T00:06:19-07:00
+desc: null
 ---
-
-AKA Manicle.
 
 A figma plugin to position a hand puppet on top of some artboard, manipulating it.
 
@@ -57,3 +55,5 @@ Is this all a perversion of space? https://twitter.com/worrydream/status/1385390
 
 
 https://www.semplice.com/gestures
+
+https://arxiv.org/abs/2305.02051
