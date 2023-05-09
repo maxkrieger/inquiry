@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1683083665
+updated: 1683656278
 created: 1649460099504
 desc: null
 ---
@@ -264,3 +264,8 @@ https://twitter.com/KommanderKlobb/status/1646223305509044236
 Bala bangles
 
 ![Image](./1cde7862bb82e0d8d04454c43dfdad2f.jpg)
+
+—-
+
+
+https://www.amazon.com/ZENS-BAMBOO-Coffee-Living-Furniture/dp/B077B8CKQQ/ref=lp_23560202011_1_7
