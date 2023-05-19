@@ -1,7 +1,7 @@
 ---
 id: en3q0jh02cfdbl8jic646wk
 title: Beyond the Desk
-updated: 1683656278
+updated: 1684520663240
 created: 1649460099504
 desc: null
 ---
@@ -267,5 +267,18 @@ Bala bangles
 
 —-
 
-
 https://www.amazon.com/ZENS-BAMBOO-Coffee-Living-Furniture/dp/B077B8CKQQ/ref=lp_23560202011_1_7
+
+---
+
+![](/assets/images/2023-05-19-11-20-13.png)
+
+https://www.amazon.com/Recliner-Ergonomic-Positioning-Relaxation-Included/dp/B0899LSB65
+
+![](/assets/images/2023-05-19-11-21-58.png)
+
+https://www.amazon.com/Jaxx-Arlo-Chaise-Lounger-Chair/dp/B07CH4FP4K
+
+![](/assets/images/2023-05-19-11-24-06.png)
+
+https://www.amazon.com/Avana-Yoga-Chaise-Lounge-Beige/dp/B07NQSXB4T/
