@@ -1,7 +1,7 @@
 ---
 id: d1e990fb-a3a1-4bd9-aa5d-ca30a97070cd
 title: APL Is Really Cool
-updated: 1661532373
+updated: 1686355730833
 created: 1615488121325
 desc: null
 ---
@@ -52,3 +52,5 @@ https://news.ycombinator.com/item?id=7814293
 "What's my name jack?" in Toki Pona. Some sort of MS Paint adventures thing. No idea what it means. I think I got it from a toki pona subreddit.
 
 https://dl.acm.org/doi/pdf/10.1145/3315454.3329960
+
+https://dl.acm.org/doi/10.1145/3589246.3595371
