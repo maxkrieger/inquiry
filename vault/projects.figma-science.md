@@ -1,9 +1,10 @@
 ---
 id: c3d1d432-1ebd-4805-8a16-a0eadfcaf329
 title: Figma for Science
-updated: 1674071658210
-modified: 2023-01-19T15:01:29-08:00
 desc: null
+updated: 1691440410824
+created: 1675642585112
+modified: "2023-01-19T23:01:29.000Z"
 ---
 
 ![](/assets/images/2021-04-06-23-36-23.png)
@@ -132,6 +133,8 @@ https://phage.directory/tools
 
 - https://bioconductor.org
 
+- https://edinburgh-genome-foundry.github.io/
+
 #### Abstract Viz
 
 - https://centuryofbio.substack.com/p/visualizing-cellular-trajectories
@@ -209,7 +212,7 @@ In general, many domain specific tools are MATLAB plugins.
 
 #### Molecule design
 
-* https://optibrium.com/stardrop/
+- https://optibrium.com/stardrop/
 
 ## Misc
 
