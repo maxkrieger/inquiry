@@ -1,7 +1,7 @@
 ---
 id: 86Sf5BfBEjs3PqSBrucXe
 title: IDE/Photoshop/DAW for X
-updated: 1646639034
+updated: 1693427248235
 created: 1643678892394
 desc: null
 ---
@@ -30,6 +30,8 @@ For more of a traditional textual IDE experience, you could make a [[rethinking-
 - https://www.youtube.com/watch?v=FfXJsvxhRQk
 - https://www.youtube.com/watch?v=GqqdLxr1Dg8
 - https://www.youtube.com/watch?v=yj5JhhrqISM
+
+https://twitter.com/samerps/status/1690504638317895680
 
 > The player is basically building a giant mesh of in-game APIs (“plug in here to get steel bars, plug in there to get green circuits”), getting those APIs to 100% reliability, and then building something on top of them and getting that to perfect reliability, all while managing scarce resources and dealing with random failures.2
 

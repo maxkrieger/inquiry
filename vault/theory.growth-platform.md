@@ -1,7 +1,7 @@
 ---
 id: 1cbfd56c-79a9-4ba9-a088-3f5a1f56b10a
 title: TikTok & Youtube as a means of platform growth
-updated: 1668717718
+updated: 1693427221266
 created: 1615855941801
 desc: null
 ---
@@ -29,3 +29,6 @@ https://www.tiktok.com/tag/notion?lang=en
 https://twitter.com/thefuturematt/status/1482514589984038913?s=21
 
 https://codeexplainers.com/
+
+Electromagnetism Blender
+https://twitter.com/samerps/status/1690504638317895680
