@@ -1,0 +1,8 @@
+<h1 id="nobody-knows-how-to-write-javascript">Nobody Knows How To Write JavaScript<a aria-hidden="true" class="anchor-heading icon-link" href="#nobody-knows-how-to-write-javascript"></a></h1>
+<p>From <a href="https://twitter.com/sigfig">Sig</a>: basic things like loop unrolling etc get JITted in mysterious ways that deeply affect performance. Twitter.com does <code>malloc</code> on each cursor movement.</p>
+<p>Some learnings I got from her:</p>
+<ul>
+<li>Keep discriminated union discriminator key/values short so you don't have to do string comparison under the hood</li>
+<li>Sometimes for-loops are better than map/filter/reduce</li>
+</ul>
+<p>Read <a href="https://v8.dev/blog">https://v8.dev/blog</a> and digest it into idioms/lint rules</p>

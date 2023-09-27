@@ -1,0 +1,31 @@
+<h1 id="destroy-abstraction">Destroy Abstraction<a aria-hidden="true" class="anchor-heading icon-link" href="#destroy-abstraction"></a></h1>
+<p><em>Re-bootstrapping your way to freedom</em></p>
+<p>Some of the most exciting software projects these days aren't new abstractions. They destroy existing abstractions. And they're fast and delightful.</p>
+<p>This means no Webkit, Electron, or V8.</p>
+<p>Evanw's <a href="https://esbuild.github.io/faq/#why-is-esbuild-fast">Esbuild</a>:</p>
+<blockquote>
+<p><strong>Everything in esbuild is written from scratch.</strong>
+There are a lot of performance benefits with writing everything yourself instead of using 3rd-party libraries. You can have performance in mind from the beginning, you can make sure everything uses consistent data structures to avoid expensive conversions, and you can make wide architectural changes whenever necessary. The drawback is of course that it's a lot of work.
+For example, many bundlers use the official TypeScript compiler as a parser. But it was built to serve the goals of the TypeScript compiler team and they do not have performance as a top priority. Their code makes pretty heavy use of megamorphic object shapes and unnecessary dynamic property accesses (both well-known JavaScript speed bumps). And the TypeScript parser appears to still run the type checker even when type checking is disabled. None of these are an issue with esbuild's custom TypeScript parser.</p>
+</blockquote>
+<h2 id="some-systems">Some systems<a aria-hidden="true" class="anchor-heading icon-link" href="#some-systems"></a></h2>
+<ul>
+<li><a href="https://esbuild.github.io/">ESBuild</a></li>
+<li><a href="https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html">Xi Editor</a> (RIP?)</li>
+<li><a href="https://volt-app.com/">Volt</a> (and <a href="https://vlang.io/">V language</a>)</li>
+<li><a href="https://cancel.fm/ripcord/">Ripcord</a></li>
+<li><a href="https://playb.it/"><strong>Playbit</strong></a> - <a href="https://museapp.com/podcast/27-playful-software/">podcast episode</a></li>
+<li><a href="https://nova.app/">Nova</a> - no Vim emulation? wtf!</li>
+<li><a href="https://neovim.io/">Neovim?</a></li>
+<li>Raft (vs Paxos)</li>
+</ul>
+<p><strong>Observation</strong>: Rewrites of large systems by tiny teams are powerful. Conway's law and all that.</p>
+<p>In general, if something's rewritten in Go or Rust, it's probably faster. Not necessarily because the language is faster (Go is garbage collected!) but because the languages provide the clarity of thought needed to redesign a system, safely, from scratch.</p>
+<p>Great counterpoint to this: Joel Spolsky calls rewrites a “<a href="https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/">thing you should never do</a>” because code is not a physical object. It doesn’t get rusty or get clean. While you might have more clarity the second time around, you won’t necessarily have fewer bugs or time consumed. There’s no a priori reason rewrites are good, it’s mostly aesthetic.</p>
+<h2 id="what-about-virtualization">What about virtualization?<a aria-hidden="true" class="anchor-heading icon-link" href="#what-about-virtualization"></a></h2>
+<p>JVM, Graal, Flutter/WASM??</p>
+<p>See also <a href="/inquiry/notes/7ccc68c9-07ae-4d2d-bc8f-8299dd6f1c5d">GNU/Linux as an environment to prototype desktop environments</a></p>
+<h2 id="misc">Misc<a aria-hidden="true" class="anchor-heading icon-link" href="#misc"></a></h2>
+<p>Dart, Vala, Kotlin</p>
+<p><a href="https://lunatic.solutions/">Lunatic</a>: an Erlang-inspired runtime for WebAssembly</p>
+<p><a href="/inquiry/notes/5fa3c0c6-101f-43ee-b4f2-0f9c9d3922a3">Bottom Up Design</a></p>

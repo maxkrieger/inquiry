@@ -1,0 +1,46 @@
+<h1 id="most-explorables-should-be-ide-plugins">Most explorables should be IDE plugins<a aria-hidden="true" class="anchor-heading icon-link" href="#most-explorables-should-be-ide-plugins"></a></h1>
+<p>Andy introduces a critique of explorables that has stuck with me:</p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here's my crux: The Cartesian plane was not invented to disseminate mathematics, or to make math more engaging. It was invented to help *do math*.<br><br>The same point can be made about John Snow’s cholera map, Feynman QED diagrams, and our other most powerful representations.</p>— Andy Matuschak (@andy_matuschak) <a href="https://twitter.com/andy_matuschak/status/1305264244896587776?ref_src=twsrc%5Etfw">September 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote>
+<p>[Explorables are] striking, they’re often more interesting to read than normal articles, and the dynamic elements often make it easier to understand the author, but one doesn’t walk away from the article with the dynamic environment in one’s pocket, so to speak.</p>
+</blockquote>
+<p>(<a href="https://notes.andymatuschak.org/zB5wf5crA1jVZb6CycZSjGRTjSkw2BpsdjG">Most dynamic representations developed for communication aren’t very enabling</a>)</p>
+<p>An interpretation that follows: 3blue1brown's videos about linear algebra are beautiful and likely improve mental imagery when thinking causally about things like linear transformations. However, Gilbert Strang's notation-heavy lectures on the same subject are presented with the same interface learners use: chalkboards. When we have to actually factorize a matrix, the only way we can do that in our current media environment is by writing things down.</p>
+<hr>
+<p>Explorables introduce novel UI and representational ideas all the time. Here's a possible shortcut to situating/testing these ideas in a working context: <strong>put the interface in the IDE</strong>.</p>
+<p>Suppose I want to put A* in my game. I should be able to see <a href="https://www.redblobgames.com/pathfinding/a-star/introduction.html">RedBlobGames'</a> pathfinding representation as soon as I want to import A* and integrate it in my codebase. Mapping my data structure to <em>his</em> data structure and gaining an understanding of the algorithm's pathologies.</p>
+<p>IDEs (and notebooks) are extensible objects, and you can often add arbitrary views on top of the original textual representation you're working with. This is the <a href="https://web.eecs.umich.edu/~comar/livelits-tyde.pdf">Livelits</a> approach:</p>
+<p><img src="/inquiry/assets/images/2022-02-08-18-07-55.png" alt="Livelits"></p>
+<p>(see also <a href="/inquiry/notes/bff6ee82-45d7-4702-bb59-542b05920ae9">How do you create an interaction semantics?</a>)</p>
+<p>There are several recent explorables that could fit quite nicely into a larger IDE setting!</p>
+<h3 id="interfaces-for-explaining-transformer-language-models">Interfaces for Explaining Transformer Language Models<a aria-hidden="true" class="anchor-heading icon-link" href="#interfaces-for-explaining-transformer-language-models"></a></h3>
+<p><a href="https://jalammar.github.io/explaining-transformers/">by Jay Alammar</a></p>
+<p>This saliency list could easily be a notebook widget:</p>
+<p><img src="/inquiry/assets/images/2022-02-08-18-11-45.png"></p>
+<p>Same for these sparklines:</p>
+<p><img src="/inquiry/assets/images/2022-02-08-18-12-28.png"></p>
+<p>These seem like useful interfaces for doing real work with these models (not totally sure though).</p>
+<h3 id="giving-scientists-superpowers-in-the-battle-against-aging-with-megamap">Giving scientists superpowers in the battle against aging with MegaMap<a aria-hidden="true" class="anchor-heading icon-link" href="#giving-scientists-superpowers-in-the-battle-against-aging-with-megamap"></a></h3>
+<p><a href="https://www.springdiscovery.com/blog/megamap/">by Spring Discovery</a></p>
+<p>These also could be notebook widgets:</p>
+<p><img src="/inquiry/assets/images/2022-02-08-18-16-03.png"></p>
+<p><img src="/inquiry/assets/images/2022-02-08-18-15-52.png"></p>
+<p>This is visualizing a for-loop! Could yield it <a href="https://tqdm.github.io/">tqdm</a> style.</p>
+<video autoplay loop width="100%">
+    <source src="https://i.imgur.com/JmkiFY4.mp4" type="video/mp4">
+</video>
+<h3 id="introduction-to-computational-thinking">Introduction to Computational Thinking<a aria-hidden="true" class="anchor-heading icon-link" href="#introduction-to-computational-thinking"></a></h3>
+<p>(<a href="https://computationalthinking.mit.edu/">started by Grant Sanderson</a>)</p>
+<p>This one's kinda cheating, it's literally a collection of notebooks. But Julia IDEs need better math notation support and you can extrapolate other representations from the ones in this course.</p>
+<p>Like this grid literal!</p>
+<p><img src="/inquiry/assets/images/2022-02-08-18-25-07.png"></p>
+<h3 id="redblobgames">RedBlobGames<a aria-hidden="true" class="anchor-heading icon-link" href="#redblobgames"></a></h3>
+<p><a href="https://www.redblobgames.com/grids/line-drawing.html">https://www.redblobgames.com/grids/line-drawing.html</a></p>
+<p><a href="https://handmade.network/p/283/bifold-text">https://handmade.network/p/283/bifold-text</a></p>
+<hr>
+<p>Related: <a href="/inquiry/notes/86Sf5BfBEjs3PqSBrucXe">IDE/Photoshop/DAW for X</a>, <a href="/inquiry/notes/77343d6f-26f6-4e9f-8caf-e592c0548a31">Domain-Learning with Computational Microworlds</a></p>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/inquiry/notes/1cbfd56c-79a9-4ba9-a088-3f5a1f56b10a">TikTok &#x26; Youtube as a means of platform growth</a></li>
+</ul>
