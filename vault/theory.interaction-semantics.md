@@ -1,7 +1,7 @@
 ---
 id: bff6ee82-45d7-4702-bb59-542b05920ae9
 title: How do you create an interaction semantics?
-updated: 1667327786232
+updated: 1707948572135
 modified: 2022-06-01T00:47:33+09:00
 desc: null
 ---
@@ -108,3 +108,5 @@ https://twitter.com/rsnous/status/1531353260279402497?s=21&t=lenlmBapUWsoEj03jcB
 
 "Documents as user interfaces"
 https://dl.acm.org/doi/abs/10.1145/108844.108994
+
+EDA as query builder https://twitter.com/hamiltonulmer/status/1757793824649478149
