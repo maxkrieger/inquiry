@@ -2,7 +2,7 @@
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
 updated: 1711602765192
-modified: 2023-09-11T22:43:07-07:00
+modified: 2024-03-27T23:57:37-07:00
 desc: null
 ---
 
@@ -188,3 +188,5 @@ https://x.com/voooooogel/status/1701290465482645808?s=46&t=ZaQiMOEZuQ_6mGivtLEwM
 Pytorch made a visualizaton:
 
 https://pytorch.org/blog/inside-the-matrix/
+
+https://bhosmer.github.io/mm/ref.html
