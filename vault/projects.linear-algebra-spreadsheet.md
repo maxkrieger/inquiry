@@ -1,7 +1,7 @@
 ---
 id: 06ea3d39-0b83-4052-86f2-f1e82499b266
 title: Linear Algebra as Spreadsheet
-updated: 1691440404439
+updated: 1711602765192
 modified: 2023-09-11T22:43:07-07:00
 desc: null
 ---
@@ -184,3 +184,7 @@ Linear algebra brushes https://twitter.com/Wattenberger/status/16104729156231127
 https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
 
 https://x.com/voooooogel/status/1701290465482645808?s=46&t=ZaQiMOEZuQ_6mGivtLEwMA
+
+Pytorch made a visualizaton:
+
+https://pytorch.org/blog/inside-the-matrix/
